@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraderKindDef>
+    <defName>Caravan_Outlander_LegacyArk</defName>
+    <label>ranch goods trader</label>
+    <stockGenerators>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Silver</thingDef>
+        <countRange>800~1600</countRange>
+      </li>
+      <li Class="StockGenerator_Animals">
+        <checkTemperature>true</checkTemperature>
+        <tradeTagsSell>
+          <li>AnimalCommon</li>
+          <li>AnimalFarm</li>
+        </tradeTagsSell>
+        <tradeTagsBuy>
+          <li>AnimalCommon</li>
+          <li>AnimalFarm</li>
+        </tradeTagsBuy>
+        <minWildness>0.10</minWildness>
+        <kindCountRange>1~4</kindCountRange>
+        <countRange>1~2</countRange>
+      </li>
+      <li Class="StockGenerator_Animals">
+        <checkTemperature>true</checkTemperature>
+        <tradeTagsSell>
+          <li>LA_Livestock</li>
+        </tradeTagsSell>
+        <tradeTagsBuy>
+          <li>LA_Livestock</li>
+        </tradeTagsBuy>
+        <kindCountRange>1~4</kindCountRange>
+        <countRange>1~2</countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Kibble</thingDef>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Hay</thingDef>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Milk</thingDef>
+        <countRange>0~24</countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>HighlandMilk</thingDef>
+        <countRange>0~24</countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>EggChickenUnfertilized</thingDef>
+        <countRange>0~36</countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>QuailEggUnfertilized</thingDef>
+        <countRange>0~36</countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>EggChickenFertilized</thingDef>
+        <countRange>0~4</countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>QuailEggFertilized</thingDef>
+        <countRange>0~4</countRange>
+      </li>
+    </stockGenerators>
+  </TraderKindDef>
+</Defs>

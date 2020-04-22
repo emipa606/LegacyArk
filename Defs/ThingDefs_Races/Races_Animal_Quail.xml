@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Animal -->
+  <ThingDef ParentName="AnimalThingBase">
+    <defName>ValleyQuail</defName>
+    <label>valley quail</label>
+    <description>A ground dwelling gamebird known for their plumage and small speckled eggs.</description>
+    <statBases>
+      <MoveSpeed>2.3</MoveSpeed>
+      <ComfyTemperatureMin>-10</ComfyTemperatureMin>
+      <ComfyTemperatureMax>30</ComfyTemperatureMax>
+      <MarketValue>75</MarketValue>
+      <LeatherAmount>0</LeatherAmount>
+    </statBases>
+    <tools>
+      <li>
+        <label>claws</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>2</power>
+        <cooldownTime>1.5</cooldownTime>
+        <linkedBodyPartsGroup>Feet</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>beak</label>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>3</power>
+        <cooldownTime>2</cooldownTime>
+        <linkedBodyPartsGroup>Beak</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>head</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>1</power>
+        <cooldownTime>1.5</cooldownTime>
+        <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+        <ensureLinkedBodyPartsGroupAlwaysUsable>true</ensureLinkedBodyPartsGroupAlwaysUsable>
+        <chanceFactor>0.2</chanceFactor>
+      </li>
+    </tools>
+    <comps>
+      <li Class="CompProperties_EggLayer">
+        <eggUnfertilizedDef>QuailEggUnfertilized</eggUnfertilizedDef>
+        <eggFertilizedDef>QuailEggFertilized</eggFertilizedDef>
+        <eggFertilizationCountMax>1</eggFertilizationCountMax>
+        <eggLayIntervalDays>5</eggLayIntervalDays>
+        <eggCountRange>2~8</eggCountRange>
+      </li>
+    </comps>
+    <race>
+      <body>Bird</body>
+      <herdAnimal>true</herdAnimal>
+      <baseHungerRate>0.25</baseHungerRate>
+      <baseBodySize>0.25</baseBodySize>
+      <baseHealthScale>0.35</baseHealthScale>
+      <foodType>VegetarianRoughAnimal</foodType>
+      <trainability>None</trainability>
+      <wildness>0.55</wildness>
+      <gestationPeriodDays>7</gestationPeriodDays>
+      <mateMtbHours>3</mateMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(0.99, 0)</li>
+          <li>(1, 1)</li>
+          <li>(1.01, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>6</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBabyTiny</def>
+          <minAge>0</minAge>
+          <soundWounded>Pawn_Chick_Call</soundWounded>
+          <soundDeath>Pawn_Chick_Call</soundDeath>
+          <soundCall>Pawn_Chick_Call</soundCall>
+          <soundAngry>Pawn_Chick_Call</soundAngry>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.10</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.30</minAge>
+          <soundWounded>Pawn_Chicken_Wounded</soundWounded>
+          <soundDeath>Pawn_Chicken_Death</soundDeath>
+          <soundCall>Pawn_Chicken_Call</soundCall>
+          <soundAngry>Pawn_Chicken_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+      <wildBiomes>
+        <TemperateForest>0.30</TemperateForest>
+        <BorealForest>0.10</BorealForest>
+        <AridShrubland>0.05</AridShrubland>
+      </wildBiomes>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li>
+      <li>AnimalFarm</li>
+      <li>LA_Livestock</li>
+    </tradeTags>
+  </ThingDef>
+  <!-- Quail Assets -->
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>ValleyQuail</defName>
+    <label>valley quail</label>
+    <race>ValleyQuail</race>
+    <combatPower>15</combatPower>
+    <ecoSystemWeight>0.05</ecoSystemWeight>
+    <wildGroupSize>3~8</wildGroupSize>
+    <labelMale>quail cock</labelMale>
+    <labelFemale>quail hen</labelFemale>
+    <lifeStages>
+      <li>
+        <label>chick</label>
+        <bodyGraphicData>
+          <texPath>Animal/Quail/VQuailChick</texPath>
+          <drawSize>0.45</drawSize>
+          <color>(190,140,50)</color>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Chicken/Dessicated_Chicken</texPath>
+          <drawSize>0.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <labelMale>cock</labelMale>
+        <bodyGraphicData>
+          <texPath>Animal/Quail/VQuailCock</texPath>
+          <drawSize>0.75</drawSize>
+          <color>(255,255,255)</color>
+        </bodyGraphicData>
+        <femaleGraphicData>
+          <texPath>Animal/Quail/VQuailHen</texPath>
+          <drawSize>0.75</drawSize>
+        </femaleGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Chicken/Dessicated_Chicken</texPath>
+          <drawSize>0.8</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Quail/VQuailCock</texPath>
+          <drawSize>0.85</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.4, 0.3)</volume>
+            <offset>(0,0,-0.05)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <femaleGraphicData>
+          <texPath>Animal/Quail/VQuailHen</texPath>
+          <drawSize>0.80</drawSize>
+        </femaleGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Chicken/Dessicated_Chicken</texPath>
+          <drawSize>0.9</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <!-- Quail Egg -->
+  <ThingDef Abstract="True" Name="QuailEggBase" ParentName="OrganicProductBase">
+    <graphicData>
+      <texPath>Item/QuailEgg</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <ingestible>
+      <foodType>AnimalProduct</foodType>
+      <ingestEffect>EatMeat</ingestEffect>
+      <ingestSound>RawMeat_Eat</ingestSound>
+      <tasteThought>AteRawFood</tasteThought>
+    </ingestible>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <statBases>
+      <Mass>0.15</Mass>
+      <Nutrition>0.25</Nutrition>
+      <FoodPoisonChanceFixedHuman>0.02</FoodPoisonChanceFixedHuman>
+    </statBases>
+  </ThingDef>
+  <ThingDef Abstract="True" Name="QuailEggUnfertBase" ParentName="QuailEggBase">
+    <ingestible>
+      <preferability>RawBad</preferability>
+    </ingestible>
+    <thingCategories>
+      <li>EggsUnfertilized</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>15</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef Abstract="True" Name="QuailEggFertBase" ParentName="QuailEggBase">
+    <tickerType>Normal</tickerType>
+    <ingestible>
+      <preferability>DesperateOnly</preferability>
+    </ingestible>
+    <thingCategories>
+      <li>EggsFertilized</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_TemperatureRuinable">
+        <minSafeTemperature>0</minSafeTemperature>
+        <maxSafeTemperature>50</maxSafeTemperature>
+        <progressPerDegreePerTick>0.00003</progressPerDegreePerTick>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="QuailEggUnfertBase">
+    <defName>QuailEggUnfertilized</defName>
+    <label>quail egg (unfert.)</label>
+    <description>A small speckled quail egg.</description>
+    <graphicData>
+      <color>(255,255,255)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="QuailEggFertBase">
+    <defName>QuailEggFertilized</defName>
+    <label>quail egg (fert.)</label>
+    <description>A small speckled quail egg, this one should hatch into a chick in a few days.</description>
+    <graphicData>
+      <color>(255,255,255)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>8.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>4</hatcherDaystoHatch>
+        <hatcherPawn>ValleyQuail</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+</Defs>
