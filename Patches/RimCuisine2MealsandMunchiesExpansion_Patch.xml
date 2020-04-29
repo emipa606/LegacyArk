@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>RimCuisine 2 Meals and Munchies Expansion (Continued)</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <!-- RC2_MakeIcecream -->
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName="RC2_MakeIcecream"]/ingredients</xpath>
+          <value>
+            <ingredients>
+              <li>
+                <filter>
+                  <categories>
+                    <li>RC2_SweetsRaw</li>
+                    <li>RC2_SweetsProcessed</li>
+                  </categories>
+                </filter>
+                <count>.5</count>
+              </li>
+              <li>
+                <filter>
+                  <categories>
+                    <li>RC2_FruitsRaw</li>
+                  </categories>
+                </filter>
+                <count>.5</count>
+              </li>
+              <li>
+                <filter>
+                  <thingDefs>
+                    <li>Milk</li>
+                    <li>RichMilk</li>
+                  </thingDefs>
+                </filter>
+                <count>.5</count>
+              </li>
+            </ingredients>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/RecipeDef[defName="RC2_MakeIcecream"]/fixedIngredientFilter/thingDefs</xpath>
+          <value>
+            <li>RichMilk</li>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/RecipeDef[defName="RC2_MakeIcecream"]/defaultIngredientFilter/thingDefs</xpath>
+          <value>
+            <li>RichMilk</li>
+          </value>
+        </li>
+        <!-- RC2_MakeIcecreamBulk -->
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName="RC2_MakeIcecreamBulk"]/ingredients</xpath>
+          <value>
+            <ingredients>
+              <li>
+                <filter>
+                  <categories>
+                    <li>RC2_SweetsRaw</li>
+                    <li>RC2_SweetsProcessed</li>
+                  </categories>
+                </filter>
+                <count>2.5</count>
+              </li>
+              <li>
+                <filter>
+                  <categories>
+                    <li>RC2_FruitsRaw</li>
+                  </categories>
+                </filter>
+                <count>2.5</count>
+              </li>
+              <li>
+                <filter>
+                  <thingDefs>
+                    <li>Milk</li>
+                    <li>RichMilk</li>
+                  </thingDefs>
+                </filter>
+                <count>2.5</count>
+              </li>
+            </ingredients>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/RecipeDef[defName="RC2_MakeIcecreamBulk"]/fixedIngredientFilter/thingDefs</xpath>
+          <value>
+            <li>RichMilk</li>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/RecipeDef[defName="RC2_MakeIcecreamBulk"]/defaultIngredientFilter/thingDefs</xpath>
+          <value>
+            <li>RichMilk</li>
+          </value>
+        </li>
+        <!-- RC2_MakeChocolateIcecream -->
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName="RC2_MakeChocolateIcecream"]/ingredients</xpath>
+          <value>
+            <ingredients>
+              <li>
+                <filter>
+                  <categories>
+                    <li>RC2_SweetsRaw</li>
+                    <li>RC2_SweetsProcessed</li>
+                  </categories>
+                </filter>
+                <count>.5</count>
+              </li>
+              <li>
+                <filter>
+                  <thingDefs>
+                    <li>Chocolate</li>
+                  </thingDefs>
+                </filter>
+                <count>.5</count>
+              </li>
+              <li>
+                <filter>
+                  <thingDefs>
+                    <li>Milk</li>
+                    <li>RichMilk</li>
+                  </thingDefs>
+                </filter>
+                <count>.5</count>
+              </li>
+            </ingredients>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/RecipeDef[defName="RC2_MakeChocolateIcecream"]/fixedIngredientFilter/thingDefs</xpath>
+          <value>
+            <li>RichMilk</li>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/RecipeDef[defName="RC2_MakeChocolateIcecream"]/defaultIngredientFilter/thingDefs</xpath>
+          <value>
+            <li>RichMilk</li>
+          </value>
+        </li>
+        <!-- RC2_MakeChocolateIcecreamBulk -->
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName="RC2_MakeChocolateIcecreamBulk"]/ingredients</xpath>
+          <value>
+            <ingredients>
+              <li>
+                <filter>
+                  <categories>
+                    <li>RC2_SweetsRaw</li>
+                    <li>RC2_SweetsProcessed</li>
+                  </categories>
+                </filter>
+                <count>2.5</count>
+              </li>
+              <li>
+                <filter>
+                  <thingDefs>
+                    <li>Chocolate</li>
+                  </thingDefs>
+                </filter>
+                <count>2.5</count>
+              </li>
+              <li>
+                <filter>
+                  <thingDefs>
+                    <li>Milk</li>
+                    <li>RichMilk</li>
+                  </thingDefs>
+                </filter>
+                <count>2.5</count>
+              </li>
+            </ingredients>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/RecipeDef[defName="RC2_MakeChocolateIcecreamBulk"]/fixedIngredientFilter/thingDefs</xpath>
+          <value>
+            <li>RichMilk</li>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/RecipeDef[defName="RC2_MakeChocolateIcecreamBulk"]/defaultIngredientFilter/thingDefs</xpath>
+          <value>
+            <li>RichMilk</li>
+          </value>
+        </li>
+        <!-- RC2_MakeCurds -->
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/RecipeDef[defName="RC2_MakeCurds"]/ingredients</xpath>
+          <value>
+            <ingredients>
+              <li>
+                <filter>
+                  <thingDefs>
+                    <li>Milk</li>
+                    <li>RichMilk</li>
+                  </thingDefs>
+                </filter>
+                <count>0.50</count>
+              </li>
+            </ingredients>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/RecipeDef[defName="RC2_MakeCurds"]/fixedIngredientFilter/thingDefs</xpath>
+          <value>
+            <li>RichMilk</li>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/RecipeDef[defName="RC2_MakeCurds"]/defaultIngredientFilter/thingDefs</xpath>
+          <value>
+            <li>RichMilk</li>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

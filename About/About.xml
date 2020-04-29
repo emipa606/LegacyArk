@@ -9,7 +9,10 @@
     <li>1.1</li>
   </supportedVersions>
   <modDependencies />
-  <loadAfter />
+  <loadAfter>
+    <li>dismarzero.VGP.VGPGardenGourmet</li>
+    <li>Crustypeanut.RC2.MaME</li>
+  </loadAfter>
   <description>Update of lindseyries mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=857283007
 
@@ -24,6 +27,10 @@ https://github.com/emipa606/LegacyArk
 This version contains 
 	- Merino Sheep
 	- Highland Cow
+	- Hereford Cow
+	- Holstein Friesian Cow
+	- Jersey Cow
+	- Zebu Cow
 
 Other animals exists in AnimalCollabProj
 
