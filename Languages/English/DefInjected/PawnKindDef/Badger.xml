@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Badger.label>badger</Badger.label>
+  <Badger.labelPlural>badgers</Badger.labelPlural>
+  <Badger.lifeStages.0.label>badger</Badger.lifeStages.0.label>
+  <Badger.lifeStages.0.labelPlural>badger</Badger.lifeStages.0.labelPlural>
+  <Badger.lifeStages.0.labelMale>male badger</Badger.lifeStages.0.labelMale>
+  <Badger.lifeStages.0.labelMalePlural>male badgers</Badger.lifeStages.0.labelMalePlural>
+  <Badger.lifeStages.0.labelFemale>female badger</Badger.lifeStages.0.labelFemale>
+  <Badger.lifeStages.0.labelFemalePlural>female badgers</Badger.lifeStages.0.labelFemalePlural>
+  <Badger.lifeStages.1.label>badger</Badger.lifeStages.1.label>
+  <Badger.lifeStages.1.labelPlural>badger</Badger.lifeStages.1.labelPlural>
+  <Badger.lifeStages.1.labelMale>male badger</Badger.lifeStages.1.labelMale>
+  <Badger.lifeStages.1.labelMalePlural>male badgers</Badger.lifeStages.1.labelMalePlural>
+  <Badger.lifeStages.1.labelFemale>female badger</Badger.lifeStages.1.labelFemale>
+  <Badger.lifeStages.1.labelFemalePlural>female badgers</Badger.lifeStages.1.labelFemalePlural>
+  <Badger.lifeStages.2.label>badger</Badger.lifeStages.2.label>
+  <Badger.lifeStages.2.labelPlural>badger</Badger.lifeStages.2.labelPlural>
+  <Badger.lifeStages.2.labelMale>male badger</Badger.lifeStages.2.labelMale>
+  <Badger.lifeStages.2.labelMalePlural>male badgers</Badger.lifeStages.2.labelMalePlural>
+  <Badger.lifeStages.2.labelFemale>female badger</Badger.lifeStages.2.labelFemale>
+  <Badger.lifeStages.2.labelFemalePlural>female badgers</Badger.lifeStages.2.labelFemalePlural>
+  <Badger.labelMale>male badger</Badger.labelMale>
+  <Badger.labelMalePlural>male badgers</Badger.labelMalePlural>
+  <Badger.labelFemale>female badger</Badger.labelFemale>
+  <Badger.labelFemalePlural>female badgers</Badger.labelFemalePlural>
+
+
+</LanguageData>

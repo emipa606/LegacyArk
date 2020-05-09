@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Animal Textures -->
+
+  <MerinoSheep.label>merino ewe</MerinoSheep.label>
+  <MerinoSheep.labelPlural>merino sheep</MerinoSheep.labelPlural>
+  <MerinoSheep.lifeStages.0.label>merino lamb</MerinoSheep.lifeStages.0.label>
+  <MerinoSheep.lifeStages.0.labelPlural>merino lambs</MerinoSheep.lifeStages.0.labelPlural>
+  <MerinoSheep.lifeStages.0.labelMale>male merino lamb</MerinoSheep.lifeStages.0.labelMale>
+  <MerinoSheep.lifeStages.0.labelMalePlural>male merino lambs</MerinoSheep.lifeStages.0.labelMalePlural>
+  <MerinoSheep.lifeStages.0.labelFemale>female merino lamb</MerinoSheep.lifeStages.0.labelFemale>
+  <MerinoSheep.lifeStages.0.labelFemalePlural>female merino lambs</MerinoSheep.lifeStages.0.labelFemalePlural>
+  <MerinoSheep.lifeStages.1.label>merino ewe</MerinoSheep.lifeStages.1.label>
+  <MerinoSheep.lifeStages.1.labelPlural>merino sheep</MerinoSheep.lifeStages.1.labelPlural>
+  <MerinoSheep.lifeStages.1.labelMale>merino ram</MerinoSheep.lifeStages.1.labelMale>
+  <MerinoSheep.lifeStages.1.labelMalePlural>male merino ewes</MerinoSheep.lifeStages.1.labelMalePlural>
+  <MerinoSheep.lifeStages.1.labelFemale>female merino ewe</MerinoSheep.lifeStages.1.labelFemale>
+  <MerinoSheep.lifeStages.1.labelFemalePlural>female merino ewes</MerinoSheep.lifeStages.1.labelFemalePlural>
+  <MerinoSheep.lifeStages.2.label>merino ewe</MerinoSheep.lifeStages.2.label>
+  <MerinoSheep.lifeStages.2.labelPlural>merino sheep</MerinoSheep.lifeStages.2.labelPlural>
+  <MerinoSheep.lifeStages.2.labelMale>merino ram</MerinoSheep.lifeStages.2.labelMale>
+  <MerinoSheep.lifeStages.2.labelMalePlural>male merino ewes</MerinoSheep.lifeStages.2.labelMalePlural>
+  <MerinoSheep.lifeStages.2.labelFemale>female merino ewe</MerinoSheep.lifeStages.2.labelFemale>
+  <MerinoSheep.lifeStages.2.labelFemalePlural>female merino ewes</MerinoSheep.lifeStages.2.labelFemalePlural>
+  <MerinoSheep.labelMale>merino ram</MerinoSheep.labelMale>
+  <MerinoSheep.labelMalePlural>male merino sheep</MerinoSheep.labelMalePlural>
+  <MerinoSheep.labelFemale>female merino ewe</MerinoSheep.labelFemale>
+  <MerinoSheep.labelFemalePlural>female merino sheep</MerinoSheep.labelFemalePlural>
+
+
+</LanguageData>

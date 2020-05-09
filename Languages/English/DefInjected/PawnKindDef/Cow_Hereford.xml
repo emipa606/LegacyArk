@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Animal Textures -->
+
+  <HerefordCow.label>hereford cow</HerefordCow.label>
+  <HerefordCow.labelPlural>hereford cows</HerefordCow.labelPlural>
+  <HerefordCow.lifeStages.0.label>hereford calf</HerefordCow.lifeStages.0.label>
+  <HerefordCow.lifeStages.0.labelPlural>hereford calves</HerefordCow.lifeStages.0.labelPlural>
+  <HerefordCow.lifeStages.0.labelMale>male hereford calf</HerefordCow.lifeStages.0.labelMale>
+  <HerefordCow.lifeStages.0.labelMalePlural>male hereford calves</HerefordCow.lifeStages.0.labelMalePlural>
+  <HerefordCow.lifeStages.0.labelFemale>female hereford calf</HerefordCow.lifeStages.0.labelFemale>
+  <HerefordCow.lifeStages.0.labelFemalePlural>female hereford calves</HerefordCow.lifeStages.0.labelFemalePlural>
+  <HerefordCow.lifeStages.1.label>hereford cow</HerefordCow.lifeStages.1.label>
+  <HerefordCow.lifeStages.1.labelPlural>hereford cow</HerefordCow.lifeStages.1.labelPlural>
+  <HerefordCow.lifeStages.1.labelMale>hereford bull</HerefordCow.lifeStages.1.labelMale>
+  <HerefordCow.lifeStages.1.labelMalePlural>male hereford cows</HerefordCow.lifeStages.1.labelMalePlural>
+  <HerefordCow.lifeStages.1.labelFemale>female hereford cow</HerefordCow.lifeStages.1.labelFemale>
+  <HerefordCow.lifeStages.1.labelFemalePlural>female hereford cows</HerefordCow.lifeStages.1.labelFemalePlural>
+  <HerefordCow.lifeStages.2.label>hereford cow</HerefordCow.lifeStages.2.label>
+  <HerefordCow.lifeStages.2.labelPlural>hereford cow</HerefordCow.lifeStages.2.labelPlural>
+  <HerefordCow.lifeStages.2.labelMale>hereford bull</HerefordCow.lifeStages.2.labelMale>
+  <HerefordCow.lifeStages.2.labelMalePlural>male hereford cows</HerefordCow.lifeStages.2.labelMalePlural>
+  <HerefordCow.lifeStages.2.labelFemale>female hereford cow</HerefordCow.lifeStages.2.labelFemale>
+  <HerefordCow.lifeStages.2.labelFemalePlural>female hereford cows</HerefordCow.lifeStages.2.labelFemalePlural>
+  <HerefordCow.labelMale>hereford bull</HerefordCow.labelMale>
+  <HerefordCow.labelMalePlural>hereford bulls</HerefordCow.labelMalePlural>
+  <HerefordCow.labelFemale>female hereford cow</HerefordCow.labelFemale>
+  <HerefordCow.labelFemalePlural>female hereford cows</HerefordCow.labelFemalePlural>
+
+
+</LanguageData>

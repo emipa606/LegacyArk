@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Animal Textures -->
+
+  <ZebuCow.label>zebu cow</ZebuCow.label>
+  <ZebuCow.labelPlural>zebu cows</ZebuCow.labelPlural>
+  <ZebuCow.lifeStages.0.label>zebu calf</ZebuCow.lifeStages.0.label>
+  <ZebuCow.lifeStages.0.labelPlural>zebu calves</ZebuCow.lifeStages.0.labelPlural>
+  <ZebuCow.lifeStages.0.labelMale>male zebu calf</ZebuCow.lifeStages.0.labelMale>
+  <ZebuCow.lifeStages.0.labelMalePlural>male zebu calves</ZebuCow.lifeStages.0.labelMalePlural>
+  <ZebuCow.lifeStages.0.labelFemale>female zebu calf</ZebuCow.lifeStages.0.labelFemale>
+  <ZebuCow.lifeStages.0.labelFemalePlural>female zebu calves</ZebuCow.lifeStages.0.labelFemalePlural>
+  <ZebuCow.lifeStages.1.label>zebu cow</ZebuCow.lifeStages.1.label>
+  <ZebuCow.lifeStages.1.labelPlural>zebu cow</ZebuCow.lifeStages.1.labelPlural>
+  <ZebuCow.lifeStages.1.labelMale>zebu bull</ZebuCow.lifeStages.1.labelMale>
+  <ZebuCow.lifeStages.1.labelMalePlural>male zebu cows</ZebuCow.lifeStages.1.labelMalePlural>
+  <ZebuCow.lifeStages.1.labelFemale>female zebu cow</ZebuCow.lifeStages.1.labelFemale>
+  <ZebuCow.lifeStages.1.labelFemalePlural>female zebu cows</ZebuCow.lifeStages.1.labelFemalePlural>
+  <ZebuCow.lifeStages.2.label>zebu cow</ZebuCow.lifeStages.2.label>
+  <ZebuCow.lifeStages.2.labelPlural>zebu cow</ZebuCow.lifeStages.2.labelPlural>
+  <ZebuCow.lifeStages.2.labelMale>zebu bull</ZebuCow.lifeStages.2.labelMale>
+  <ZebuCow.lifeStages.2.labelMalePlural>male zebu cows</ZebuCow.lifeStages.2.labelMalePlural>
+  <ZebuCow.lifeStages.2.labelFemale>female zebu cow</ZebuCow.lifeStages.2.labelFemale>
+  <ZebuCow.lifeStages.2.labelFemalePlural>female zebu cows</ZebuCow.lifeStages.2.labelFemalePlural>
+  <ZebuCow.labelMale>zebu bull</ZebuCow.labelMale>
+  <ZebuCow.labelMalePlural>zebu bulls</ZebuCow.labelMalePlural>
+  <ZebuCow.labelFemale>female zebu cow</ZebuCow.labelFemale>
+  <ZebuCow.labelFemalePlural>female zebu cows</ZebuCow.labelFemalePlural>
+
+
+</LanguageData>

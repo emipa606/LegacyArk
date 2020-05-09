@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Animal Base -->
+
+  <MerinoSheep.label>merino sheep</MerinoSheep.label>
+  <MerinoSheep.description>A domestic breed of sheep, Merino are regarded as having some of the finest wool of any of the sheep species. Merinoâ€™s are excellent foragers and are very adaptable.</MerinoSheep.description>
+  <MerinoSheep.tools.0.label>head</MerinoSheep.tools.0.label>
+  <MerinoSheep.tools.1.label>left hoof</MerinoSheep.tools.1.label>
+  <MerinoSheep.tools.2.label>right hoof</MerinoSheep.tools.2.label>
+
+
+</LanguageData>

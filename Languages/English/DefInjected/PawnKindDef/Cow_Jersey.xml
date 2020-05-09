@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Animal Textures -->
+
+  <JerseyCow.label>jersey cow</JerseyCow.label>
+  <JerseyCow.labelPlural>jersey cows</JerseyCow.labelPlural>
+  <JerseyCow.lifeStages.0.label>jersey calf</JerseyCow.lifeStages.0.label>
+  <JerseyCow.lifeStages.0.labelPlural>jersey calves</JerseyCow.lifeStages.0.labelPlural>
+  <JerseyCow.lifeStages.0.labelMale>male jersey calf</JerseyCow.lifeStages.0.labelMale>
+  <JerseyCow.lifeStages.0.labelMalePlural>male jersey calves</JerseyCow.lifeStages.0.labelMalePlural>
+  <JerseyCow.lifeStages.0.labelFemale>female jersey calf</JerseyCow.lifeStages.0.labelFemale>
+  <JerseyCow.lifeStages.0.labelFemalePlural>female jersey calves</JerseyCow.lifeStages.0.labelFemalePlural>
+  <JerseyCow.lifeStages.1.label>jersey cow</JerseyCow.lifeStages.1.label>
+  <JerseyCow.lifeStages.1.labelPlural>jersey cow</JerseyCow.lifeStages.1.labelPlural>
+  <JerseyCow.lifeStages.1.labelMale>jersey bull</JerseyCow.lifeStages.1.labelMale>
+  <JerseyCow.lifeStages.1.labelMalePlural>male jersey cows</JerseyCow.lifeStages.1.labelMalePlural>
+  <JerseyCow.lifeStages.1.labelFemale>female jersey cow</JerseyCow.lifeStages.1.labelFemale>
+  <JerseyCow.lifeStages.1.labelFemalePlural>female jersey cows</JerseyCow.lifeStages.1.labelFemalePlural>
+  <JerseyCow.lifeStages.2.label>jersey cow</JerseyCow.lifeStages.2.label>
+  <JerseyCow.lifeStages.2.labelPlural>jersey cow</JerseyCow.lifeStages.2.labelPlural>
+  <JerseyCow.lifeStages.2.labelMale>jersey bull</JerseyCow.lifeStages.2.labelMale>
+  <JerseyCow.lifeStages.2.labelMalePlural>male jersey cows</JerseyCow.lifeStages.2.labelMalePlural>
+  <JerseyCow.lifeStages.2.labelFemale>female jersey cow</JerseyCow.lifeStages.2.labelFemale>
+  <JerseyCow.lifeStages.2.labelFemalePlural>female jersey cows</JerseyCow.lifeStages.2.labelFemalePlural>
+  <JerseyCow.labelMale>jersey bull</JerseyCow.labelMale>
+  <JerseyCow.labelMalePlural>jersey bulls</JerseyCow.labelMalePlural>
+  <JerseyCow.labelFemale>female jersey cow</JerseyCow.labelFemale>
+  <JerseyCow.labelFemalePlural>female jersey cows</JerseyCow.labelFemalePlural>
+
+
+</LanguageData>

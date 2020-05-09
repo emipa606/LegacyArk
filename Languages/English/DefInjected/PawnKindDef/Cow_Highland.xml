@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Animal Textures -->
+
+  <HighlandCow.label>highland cow</HighlandCow.label>
+  <HighlandCow.labelPlural>highland cows</HighlandCow.labelPlural>
+  <HighlandCow.lifeStages.0.label>highland calf</HighlandCow.lifeStages.0.label>
+  <HighlandCow.lifeStages.0.labelPlural>highland calves</HighlandCow.lifeStages.0.labelPlural>
+  <HighlandCow.lifeStages.0.labelMale>male highland calf</HighlandCow.lifeStages.0.labelMale>
+  <HighlandCow.lifeStages.0.labelMalePlural>male highland calves</HighlandCow.lifeStages.0.labelMalePlural>
+  <HighlandCow.lifeStages.0.labelFemale>female highland calf</HighlandCow.lifeStages.0.labelFemale>
+  <HighlandCow.lifeStages.0.labelFemalePlural>female highland calves</HighlandCow.lifeStages.0.labelFemalePlural>
+  <HighlandCow.lifeStages.1.label>highland cow</HighlandCow.lifeStages.1.label>
+  <HighlandCow.lifeStages.1.labelPlural>highland cow</HighlandCow.lifeStages.1.labelPlural>
+  <HighlandCow.lifeStages.1.labelMale>highland bull</HighlandCow.lifeStages.1.labelMale>
+  <HighlandCow.lifeStages.1.labelMalePlural>male highland cows</HighlandCow.lifeStages.1.labelMalePlural>
+  <HighlandCow.lifeStages.1.labelFemale>female highland cow</HighlandCow.lifeStages.1.labelFemale>
+  <HighlandCow.lifeStages.1.labelFemalePlural>female highland cows</HighlandCow.lifeStages.1.labelFemalePlural>
+  <HighlandCow.lifeStages.2.label>highland cow</HighlandCow.lifeStages.2.label>
+  <HighlandCow.lifeStages.2.labelPlural>highland cow</HighlandCow.lifeStages.2.labelPlural>
+  <HighlandCow.lifeStages.2.labelMale>highland bull</HighlandCow.lifeStages.2.labelMale>
+  <HighlandCow.lifeStages.2.labelMalePlural>male highland cows</HighlandCow.lifeStages.2.labelMalePlural>
+  <HighlandCow.lifeStages.2.labelFemale>female highland cow</HighlandCow.lifeStages.2.labelFemale>
+  <HighlandCow.lifeStages.2.labelFemalePlural>female highland cows</HighlandCow.lifeStages.2.labelFemalePlural>
+  <HighlandCow.labelMale>highland bull</HighlandCow.labelMale>
+  <HighlandCow.labelMalePlural>highland bulls</HighlandCow.labelMalePlural>
+  <HighlandCow.labelFemale>female highland cow</HighlandCow.labelFemale>
+  <HighlandCow.labelFemalePlural>female highland cows</HighlandCow.labelFemalePlural>
+
+
+</LanguageData>
