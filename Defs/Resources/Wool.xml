@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <!-- Merino Wool -->
+  <!-- Fine Wool -->
   <ThingDef ParentName="WoolBase">
-    <defName>MerinoWool</defName>
-    <label>merino wool</label>
-    <description>Soft finely crimped wool from the Merino sheep.</description>
+    <defName>FineWool</defName>
+    <label>fine wool</label>
+    <description>Soft finely crimped wool.</description>
     <graphicData>
       <color>(201,192,181)</color>
     </graphicData>

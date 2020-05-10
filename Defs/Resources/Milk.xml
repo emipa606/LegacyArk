@@ -5,7 +5,7 @@
     <label>rich milk</label>
     <description>This milk has a slightly higher butterfat content than regular cow's milk.</description>
     <graphicData>
-      <texPath>Item/Milk/RichMilk</texPath>
+      <texPath>Item/RichMilk</texPath>
     </graphicData>
     <socialPropernessMatters>true</socialPropernessMatters>
     <statBases>

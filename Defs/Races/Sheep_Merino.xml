@@ -54,7 +54,7 @@
     </tools>
     <comps>
       <li Class="CompProperties_Shearable">
-        <woolDef>MerinoWool</woolDef>
+        <woolDef>FineWool</woolDef>
         <shearIntervalDays>60</shearIntervalDays>
         <woolAmount>600</woolAmount>
       </li>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Longhorn horn -->
+
+  <LonghornHorn.label>longhorn horn</LonghornHorn.label>
+  <LonghornHorn.description>A horn from a Longhorn cattle, can be used as a weapon or sold for profit.</LonghornHorn.description>
+  <LonghornHorn.tools.0.label>point</LonghornHorn.tools.0.label>
+  <LonghornHorn.tools.1.label>base</LonghornHorn.tools.1.label>
+
+
+</LanguageData>

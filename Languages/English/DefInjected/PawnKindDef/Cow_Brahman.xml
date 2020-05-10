@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Animal Textures -->
+
+  <BrahmanCow.label>brahman cow</BrahmanCow.label>
+  <BrahmanCow.labelPlural>brahman cows</BrahmanCow.labelPlural>
+  <BrahmanCow.lifeStages.0.label>brahman calf</BrahmanCow.lifeStages.0.label>
+  <BrahmanCow.lifeStages.0.labelPlural>brahman calves</BrahmanCow.lifeStages.0.labelPlural>
+  <BrahmanCow.lifeStages.0.labelMale>male brahman calf</BrahmanCow.lifeStages.0.labelMale>
+  <BrahmanCow.lifeStages.0.labelMalePlural>male brahman calves</BrahmanCow.lifeStages.0.labelMalePlural>
+  <BrahmanCow.lifeStages.0.labelFemale>female brahman calf</BrahmanCow.lifeStages.0.labelFemale>
+  <BrahmanCow.lifeStages.0.labelFemalePlural>female brahman calves</BrahmanCow.lifeStages.0.labelFemalePlural>
+  <BrahmanCow.lifeStages.1.label>brahman cow</BrahmanCow.lifeStages.1.label>
+  <BrahmanCow.lifeStages.1.labelPlural>brahman cow</BrahmanCow.lifeStages.1.labelPlural>
+  <BrahmanCow.lifeStages.1.labelMale>brahman bull</BrahmanCow.lifeStages.1.labelMale>
+  <BrahmanCow.lifeStages.1.labelMalePlural>male brahman cows</BrahmanCow.lifeStages.1.labelMalePlural>
+  <BrahmanCow.lifeStages.1.labelFemale>female brahman cow</BrahmanCow.lifeStages.1.labelFemale>
+  <BrahmanCow.lifeStages.1.labelFemalePlural>female brahman cows</BrahmanCow.lifeStages.1.labelFemalePlural>
+  <BrahmanCow.lifeStages.2.label>brahman cow</BrahmanCow.lifeStages.2.label>
+  <BrahmanCow.lifeStages.2.labelPlural>brahman cow</BrahmanCow.lifeStages.2.labelPlural>
+  <BrahmanCow.lifeStages.2.labelMale>brahman bull</BrahmanCow.lifeStages.2.labelMale>
+  <BrahmanCow.lifeStages.2.labelMalePlural>male brahman cows</BrahmanCow.lifeStages.2.labelMalePlural>
+  <BrahmanCow.lifeStages.2.labelFemale>female brahman cow</BrahmanCow.lifeStages.2.labelFemale>
+  <BrahmanCow.lifeStages.2.labelFemalePlural>female brahman cows</BrahmanCow.lifeStages.2.labelFemalePlural>
+  <BrahmanCow.labelMale>brahman bull</BrahmanCow.labelMale>
+  <BrahmanCow.labelMalePlural>brahman bulls</BrahmanCow.labelMalePlural>
+  <BrahmanCow.labelFemale>female brahman cow</BrahmanCow.labelFemale>
+  <BrahmanCow.labelFemalePlural>female brahman cows</BrahmanCow.labelFemalePlural>
+
+
+</LanguageData>

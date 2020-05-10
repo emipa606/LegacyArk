@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Animal Textures -->
+
+  <LonghornCow.label>longhorn cow</LonghornCow.label>
+  <LonghornCow.labelPlural>longhorn cows</LonghornCow.labelPlural>
+  <LonghornCow.lifeStages.0.label>longhorn calf</LonghornCow.lifeStages.0.label>
+  <LonghornCow.lifeStages.0.labelPlural>longhorn calves</LonghornCow.lifeStages.0.labelPlural>
+  <LonghornCow.lifeStages.0.labelMale>male longhorn calf</LonghornCow.lifeStages.0.labelMale>
+  <LonghornCow.lifeStages.0.labelMalePlural>male longhorn calves</LonghornCow.lifeStages.0.labelMalePlural>
+  <LonghornCow.lifeStages.0.labelFemale>female longhorn calf</LonghornCow.lifeStages.0.labelFemale>
+  <LonghornCow.lifeStages.0.labelFemalePlural>female longhorn calves</LonghornCow.lifeStages.0.labelFemalePlural>
+  <LonghornCow.lifeStages.1.label>longhorn cow</LonghornCow.lifeStages.1.label>
+  <LonghornCow.lifeStages.1.labelPlural>longhorn cow</LonghornCow.lifeStages.1.labelPlural>
+  <LonghornCow.lifeStages.1.labelMale>longhorn bull</LonghornCow.lifeStages.1.labelMale>
+  <LonghornCow.lifeStages.1.labelMalePlural>male longhorn cows</LonghornCow.lifeStages.1.labelMalePlural>
+  <LonghornCow.lifeStages.1.labelFemale>female longhorn cow</LonghornCow.lifeStages.1.labelFemale>
+  <LonghornCow.lifeStages.1.labelFemalePlural>female longhorn cows</LonghornCow.lifeStages.1.labelFemalePlural>
+  <LonghornCow.lifeStages.2.label>longhorn cow</LonghornCow.lifeStages.2.label>
+  <LonghornCow.lifeStages.2.labelPlural>longhorn cow</LonghornCow.lifeStages.2.labelPlural>
+  <LonghornCow.lifeStages.2.labelMale>longhorn bull</LonghornCow.lifeStages.2.labelMale>
+  <LonghornCow.lifeStages.2.labelMalePlural>male longhorn cows</LonghornCow.lifeStages.2.labelMalePlural>
+  <LonghornCow.lifeStages.2.labelFemale>female longhorn cow</LonghornCow.lifeStages.2.labelFemale>
+  <LonghornCow.lifeStages.2.labelFemalePlural>female longhorn cows</LonghornCow.lifeStages.2.labelFemalePlural>
+  <LonghornCow.labelMale>longhorn bull</LonghornCow.labelMale>
+  <LonghornCow.labelMalePlural>longhorn bulls</LonghornCow.labelMalePlural>
+  <LonghornCow.labelFemale>female longhorn cow</LonghornCow.labelFemale>
+  <LonghornCow.labelFemalePlural>female longhorn cows</LonghornCow.labelFemalePlural>
+
+
+</LanguageData>

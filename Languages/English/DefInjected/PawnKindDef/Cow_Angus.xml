@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Animal Textures -->
+
+  <AngusCow.label>angus cow</AngusCow.label>
+  <AngusCow.labelPlural>angus cows</AngusCow.labelPlural>
+  <AngusCow.lifeStages.0.label>angus calf</AngusCow.lifeStages.0.label>
+  <AngusCow.lifeStages.0.labelPlural>angus calves</AngusCow.lifeStages.0.labelPlural>
+  <AngusCow.lifeStages.0.labelMale>male angus calf</AngusCow.lifeStages.0.labelMale>
+  <AngusCow.lifeStages.0.labelMalePlural>male angus calves</AngusCow.lifeStages.0.labelMalePlural>
+  <AngusCow.lifeStages.0.labelFemale>female angus calf</AngusCow.lifeStages.0.labelFemale>
+  <AngusCow.lifeStages.0.labelFemalePlural>female angus calves</AngusCow.lifeStages.0.labelFemalePlural>
+  <AngusCow.lifeStages.1.label>angus cow</AngusCow.lifeStages.1.label>
+  <AngusCow.lifeStages.1.labelPlural>angus cow</AngusCow.lifeStages.1.labelPlural>
+  <AngusCow.lifeStages.1.labelMale>angus bull</AngusCow.lifeStages.1.labelMale>
+  <AngusCow.lifeStages.1.labelMalePlural>male angus cows</AngusCow.lifeStages.1.labelMalePlural>
+  <AngusCow.lifeStages.1.labelFemale>female angus cow</AngusCow.lifeStages.1.labelFemale>
+  <AngusCow.lifeStages.1.labelFemalePlural>female angus cows</AngusCow.lifeStages.1.labelFemalePlural>
+  <AngusCow.lifeStages.2.label>angus cow</AngusCow.lifeStages.2.label>
+  <AngusCow.lifeStages.2.labelPlural>angus cow</AngusCow.lifeStages.2.labelPlural>
+  <AngusCow.lifeStages.2.labelMale>angus bull</AngusCow.lifeStages.2.labelMale>
+  <AngusCow.lifeStages.2.labelMalePlural>male angus cows</AngusCow.lifeStages.2.labelMalePlural>
+  <AngusCow.lifeStages.2.labelFemale>female angus cow</AngusCow.lifeStages.2.labelFemale>
+  <AngusCow.lifeStages.2.labelFemalePlural>female angus cows</AngusCow.lifeStages.2.labelFemalePlural>
+  <AngusCow.labelMale>angus bull</AngusCow.labelMale>
+  <AngusCow.labelMalePlural>angus bulls</AngusCow.labelMalePlural>
+  <AngusCow.labelFemale>female angus cow</AngusCow.labelFemale>
+  <AngusCow.labelFemalePlural>female angus cows</AngusCow.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Chicken -->
+  <ThingDef ParentName="EggUnfertBase">
+    <defName>EggBrushTurkeyUnfertilized</defName>
+    <label>brush turkey egg (unfert.)</label>
+    <description>An unfertilized brush turkey egg. It can be eaten raw, but it's much, much better cooked.</description>
+    <graphicData>
+      <color>(228,185,135)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>EggBrushTurkeyFertilized</defName>
+    <label>brush turkey egg (fert.)</label>
+    <description>A fertilized brush turkey egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked.</description>
+    <graphicData>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>3.5</hatcherDaystoHatch>
+        <hatcherPawn>BrushTurkey</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+</Defs>

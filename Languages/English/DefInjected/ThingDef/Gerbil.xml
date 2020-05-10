@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Gerbil.label>gerbil</Gerbil.label>
+  <Gerbil.description>A rodent that is a gentle and hardy animal that has become a popular small house pet.</Gerbil.description>
+  <Gerbil.tools.0.label>left claw</Gerbil.tools.0.label>
+  <Gerbil.tools.1.label>right claw</Gerbil.tools.1.label>
+  <Gerbil.tools.3.label>head</Gerbil.tools.3.label>
+
+
+</LanguageData>
