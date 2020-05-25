@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Animal Textures -->
+
+  <BravaCow.label>brava cow</BravaCow.label>
+  <BravaCow.labelPlural>brava cows</BravaCow.labelPlural>
+  <BravaCow.lifeStages.0.label>brava calf</BravaCow.lifeStages.0.label>
+  <BravaCow.lifeStages.0.labelPlural>brava calves</BravaCow.lifeStages.0.labelPlural>
+  <BravaCow.lifeStages.0.labelMale>male brava calf</BravaCow.lifeStages.0.labelMale>
+  <BravaCow.lifeStages.0.labelMalePlural>male brava calves</BravaCow.lifeStages.0.labelMalePlural>
+  <BravaCow.lifeStages.0.labelFemale>female brava calf</BravaCow.lifeStages.0.labelFemale>
+  <BravaCow.lifeStages.0.labelFemalePlural>female brava calves</BravaCow.lifeStages.0.labelFemalePlural>
+  <BravaCow.lifeStages.1.label>brava cow</BravaCow.lifeStages.1.label>
+  <BravaCow.lifeStages.1.labelPlural>brava cow</BravaCow.lifeStages.1.labelPlural>
+  <BravaCow.lifeStages.1.labelMale>brava bull</BravaCow.lifeStages.1.labelMale>
+  <BravaCow.lifeStages.1.labelMalePlural>male brava cows</BravaCow.lifeStages.1.labelMalePlural>
+  <BravaCow.lifeStages.1.labelFemale>female brava cow</BravaCow.lifeStages.1.labelFemale>
+  <BravaCow.lifeStages.1.labelFemalePlural>female brava cows</BravaCow.lifeStages.1.labelFemalePlural>
+  <BravaCow.lifeStages.2.label>brava cow</BravaCow.lifeStages.2.label>
+  <BravaCow.lifeStages.2.labelPlural>brava cow</BravaCow.lifeStages.2.labelPlural>
+  <BravaCow.lifeStages.2.labelMale>brava bull</BravaCow.lifeStages.2.labelMale>
+  <BravaCow.lifeStages.2.labelMalePlural>male brava cows</BravaCow.lifeStages.2.labelMalePlural>
+  <BravaCow.lifeStages.2.labelFemale>female brava cow</BravaCow.lifeStages.2.labelFemale>
+  <BravaCow.lifeStages.2.labelFemalePlural>female brava cows</BravaCow.lifeStages.2.labelFemalePlural>
+  <BravaCow.labelMale>brava bull</BravaCow.labelMale>
+  <BravaCow.labelMalePlural>brava bulls</BravaCow.labelMalePlural>
+  <BravaCow.labelFemale>female brava cow</BravaCow.labelFemale>
+  <BravaCow.labelFemalePlural>female brava cows</BravaCow.labelFemalePlural>
+
+
+</LanguageData>
