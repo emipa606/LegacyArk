@@ -63,8 +63,7 @@
     <race>
       <body>QuadrupedAnimalWithHooves</body>
       <herdAnimal>true</herdAnimal>
-      <!-- <packAnimal>true</packAnimal> -->
-      <packAnimal>false</packAnimal>
+      <packAnimal>true</packAnimal>
       <baseBodySize>2.0</baseBodySize>
       <baseHungerRate>0.85</baseHungerRate>
       <baseHealthScale>1.5</baseHealthScale>

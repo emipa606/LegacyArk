@@ -1,14 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <!--=============== Longhorn horn ====================-->
-  <ThingDef ParentName="ResourceVerbBase">
-    <defName>LonghornHorn</defName>
-    <label>longhorn horn</label>
-    <description>A horn from a Longhorn cattle, can be used as a weapon or sold for profit.</description>
-    <graphicData>
-      <texPath>Item/LonghornHorn</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-    </graphicData>
+  <!--=============== Horns base ====================-->
+  <ThingDef Name="HornsBase" Abstract="True" ParentName="ResourceVerbBase">
     <equippedAngleOffset>-20</equippedAngleOffset>
     <statBases>
       <MarketValue>30</MarketValue>
@@ -17,8 +10,6 @@
       <Flammability>0.9</Flammability>
       <DeteriorationRate>0.5</DeteriorationRate>
     </statBases>
-    <resourceReadoutPriority>Middle</resourceReadoutPriority>
-    <stackLimit>10</stackLimit>
     <tools>
       <li>
         <label>point</label>
@@ -39,6 +30,8 @@
         <chanceFactor>0.5</chanceFactor>
       </li>
     </tools>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
     <thingCategories>
       <li>Items</li>
     </thingCategories>
@@ -48,5 +41,25 @@
     <thingSetMakerTags>
       <li>AnimalPart</li>
     </thingSetMakerTags>
+  </ThingDef>
+  <!--=============== Longhorn horn ====================-->
+  <ThingDef ParentName="HornsBase">
+    <defName>LonghornHorn</defName>
+    <label>longhorn horn</label>
+    <description>A horn from a Longhorn cattle, can be used as a weapon or sold for profit.</description>
+    <graphicData>
+      <texPath>Item/LonghornHorn</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  <!--=============== Ankole-Watusi horn ====================-->
+  <ThingDef ParentName="HornsBase">
+    <defName>AnkoleWatusiHorn</defName>
+    <label>ankole watusi horn</label>
+    <description>A horn from a Ankole-Watusi cattle, can be used as a weapon or sold for profit.</description>
+    <graphicData>
+      <texPath>Item/AnkoleWatusiHorn</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
   </ThingDef>
 </Defs>

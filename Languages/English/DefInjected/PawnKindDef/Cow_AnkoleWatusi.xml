@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Animal Textures -->
+
+  <AnkoleWatusiCow.label>ankole watusi cow</AnkoleWatusiCow.label>
+  <AnkoleWatusiCow.labelPlural>ankole watusi cows</AnkoleWatusiCow.labelPlural>
+  <AnkoleWatusiCow.lifeStages.0.label>ankole watusi calf</AnkoleWatusiCow.lifeStages.0.label>
+  <AnkoleWatusiCow.lifeStages.0.labelPlural>ankole watusi calves</AnkoleWatusiCow.lifeStages.0.labelPlural>
+  <AnkoleWatusiCow.lifeStages.0.labelMale>male ankole watusi calf</AnkoleWatusiCow.lifeStages.0.labelMale>
+  <AnkoleWatusiCow.lifeStages.0.labelMalePlural>male ankole watusi calves</AnkoleWatusiCow.lifeStages.0.labelMalePlural>
+  <AnkoleWatusiCow.lifeStages.0.labelFemale>female ankole watusi calf</AnkoleWatusiCow.lifeStages.0.labelFemale>
+  <AnkoleWatusiCow.lifeStages.0.labelFemalePlural>female ankole watusi calves</AnkoleWatusiCow.lifeStages.0.labelFemalePlural>
+  <AnkoleWatusiCow.lifeStages.1.label>ankole watusi cow</AnkoleWatusiCow.lifeStages.1.label>
+  <AnkoleWatusiCow.lifeStages.1.labelPlural>ankole watusi cow</AnkoleWatusiCow.lifeStages.1.labelPlural>
+  <AnkoleWatusiCow.lifeStages.1.labelMale>ankole watusi bull</AnkoleWatusiCow.lifeStages.1.labelMale>
+  <AnkoleWatusiCow.lifeStages.1.labelMalePlural>male ankole watusi cows</AnkoleWatusiCow.lifeStages.1.labelMalePlural>
+  <AnkoleWatusiCow.lifeStages.1.labelFemale>female ankole watusi cow</AnkoleWatusiCow.lifeStages.1.labelFemale>
+  <AnkoleWatusiCow.lifeStages.1.labelFemalePlural>female ankole watusi cows</AnkoleWatusiCow.lifeStages.1.labelFemalePlural>
+  <AnkoleWatusiCow.lifeStages.2.label>ankole watusi cow</AnkoleWatusiCow.lifeStages.2.label>
+  <AnkoleWatusiCow.lifeStages.2.labelPlural>ankole watusi cow</AnkoleWatusiCow.lifeStages.2.labelPlural>
+  <AnkoleWatusiCow.lifeStages.2.labelMale>ankole watusi bull</AnkoleWatusiCow.lifeStages.2.labelMale>
+  <AnkoleWatusiCow.lifeStages.2.labelMalePlural>male ankole watusi cows</AnkoleWatusiCow.lifeStages.2.labelMalePlural>
+  <AnkoleWatusiCow.lifeStages.2.labelFemale>female ankole watusi cow</AnkoleWatusiCow.lifeStages.2.labelFemale>
+  <AnkoleWatusiCow.lifeStages.2.labelFemalePlural>female ankole watusi cows</AnkoleWatusiCow.lifeStages.2.labelFemalePlural>
+  <AnkoleWatusiCow.labelMale>ankole watusi bull</AnkoleWatusiCow.labelMale>
+  <AnkoleWatusiCow.labelMalePlural>ankole watusi bulls</AnkoleWatusiCow.labelMalePlural>
+  <AnkoleWatusiCow.labelFemale>female ankole watusi cow</AnkoleWatusiCow.labelFemale>
+  <AnkoleWatusiCow.labelFemalePlural>female ankole watusi cows</AnkoleWatusiCow.labelFemalePlural>
+
+
+</LanguageData>

@@ -9,4 +9,12 @@
   <LonghornHorn.tools.1.label>base</LonghornHorn.tools.1.label>
 
 
+  <!-- Ankole-Watusi horn -->
+
+  <AnkoleWatusiHorn.label>ankole watusi horn</AnkoleWatusiHorn.label>
+  <AnkoleWatusiHorn.description>A horn from a Ankole-Watusi cattle, can be used as a weapon or sold for profit.</AnkoleWatusiHorn.description>
+  <AnkoleWatusiHorn.tools.0.label>point</AnkoleWatusiHorn.tools.0.label>
+  <AnkoleWatusiHorn.tools.1.label>base</AnkoleWatusiHorn.tools.1.label>
+
+
 </LanguageData>

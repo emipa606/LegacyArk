@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Animal Textures -->
+
+  <LimousinCow.label>limousin cow</LimousinCow.label>
+  <LimousinCow.labelPlural>limousin cows</LimousinCow.labelPlural>
+  <LimousinCow.lifeStages.0.label>limousin calf</LimousinCow.lifeStages.0.label>
+  <LimousinCow.lifeStages.0.labelPlural>limousin calves</LimousinCow.lifeStages.0.labelPlural>
+  <LimousinCow.lifeStages.0.labelMale>male limousin calf</LimousinCow.lifeStages.0.labelMale>
+  <LimousinCow.lifeStages.0.labelMalePlural>male limousin calves</LimousinCow.lifeStages.0.labelMalePlural>
+  <LimousinCow.lifeStages.0.labelFemale>female limousin calf</LimousinCow.lifeStages.0.labelFemale>
+  <LimousinCow.lifeStages.0.labelFemalePlural>female limousin calves</LimousinCow.lifeStages.0.labelFemalePlural>
+  <LimousinCow.lifeStages.1.label>limousin cow</LimousinCow.lifeStages.1.label>
+  <LimousinCow.lifeStages.1.labelPlural>limousin cow</LimousinCow.lifeStages.1.labelPlural>
+  <LimousinCow.lifeStages.1.labelMale>limousin bull</LimousinCow.lifeStages.1.labelMale>
+  <LimousinCow.lifeStages.1.labelMalePlural>male limousin cows</LimousinCow.lifeStages.1.labelMalePlural>
+  <LimousinCow.lifeStages.1.labelFemale>female limousin cow</LimousinCow.lifeStages.1.labelFemale>
+  <LimousinCow.lifeStages.1.labelFemalePlural>female limousin cows</LimousinCow.lifeStages.1.labelFemalePlural>
+  <LimousinCow.lifeStages.2.label>limousin cow</LimousinCow.lifeStages.2.label>
+  <LimousinCow.lifeStages.2.labelPlural>limousin cow</LimousinCow.lifeStages.2.labelPlural>
+  <LimousinCow.lifeStages.2.labelMale>limousin bull</LimousinCow.lifeStages.2.labelMale>
+  <LimousinCow.lifeStages.2.labelMalePlural>male limousin cows</LimousinCow.lifeStages.2.labelMalePlural>
+  <LimousinCow.lifeStages.2.labelFemale>female limousin cow</LimousinCow.lifeStages.2.labelFemale>
+  <LimousinCow.lifeStages.2.labelFemalePlural>female limousin cows</LimousinCow.lifeStages.2.labelFemalePlural>
+  <LimousinCow.labelMale>limousin bull</LimousinCow.labelMale>
+  <LimousinCow.labelMalePlural>limousin bulls</LimousinCow.labelMalePlural>
+  <LimousinCow.labelFemale>female limousin cow</LimousinCow.labelFemale>
+  <LimousinCow.labelFemalePlural>female limousin cows</LimousinCow.labelFemalePlural>
+
+
+</LanguageData>

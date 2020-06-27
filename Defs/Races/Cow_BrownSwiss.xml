@@ -1,21 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalThingBase">
-    <defName>ZebuCow</defName>
-    <label>zebu cow</label>
-    <description>The Zebu is a breed of zebuine cattle from the Indus Valley known for their heat tolerance and meat.</description>
+    <defName>BrownSwissCow</defName>
+    <label>brown swiss cow</label>
+    <description>The Brown Swiss is a breed of dairy cattle from Switzerland known for their rich milk.</description>
     <statBases>
       <MoveSpeed>3.2</MoveSpeed>
       <ComfyTemperatureMin>-10</ComfyTemperatureMin>
-      <ComfyTemperatureMax>60</ComfyTemperatureMax>
       <MarketValue>350</MarketValue>
       <Mass>500</Mass>
     </statBases>
     <comps>
       <li Class="CompProperties_Milkable">
-        <milkDef>Milk</milkDef>
+        <milkDef>RichMilk</milkDef>
         <milkIntervalDays>1</milkIntervalDays>
-        <milkAmount>10</milkAmount>
+        <milkAmount>18</milkAmount>
       </li>
     </comps>
     <tools>
@@ -63,6 +62,7 @@
     <race>
       <body>QuadrupedAnimalWithHooves</body>
       <herdAnimal>true</herdAnimal>
+      <packAnimal>false</packAnimal>
       <baseBodySize>2.0</baseBodySize>
       <baseHungerRate>0.85</baseHungerRate>
       <baseHealthScale>1.5</baseHealthScale>
@@ -70,13 +70,8 @@
       <leatherDef>Leather_Plain</leatherDef>
       <trainability>Simple</trainability>
       <meatLabel>beef</meatLabel>
-      <wildness>0.25</wildness>
-      <wildBiomes>
-        <TropicalRainforest>0.6</TropicalRainforest>
-        <AridShrubland>1</AridShrubland>
-      </wildBiomes>
+      <wildness>0.05</wildness>
       <petness>0.05</petness>
-      <packAnimal>true</packAnimal>
       <nuzzleMtbHours>120</nuzzleMtbHours>
       <gestationPeriodDays>15</gestationPeriodDays>
       <manhunterOnDamageChance>0</manhunterOnDamageChance>
@@ -119,19 +114,18 @@
   </ThingDef>
   <!-- Animal Textures -->
   <PawnKindDef ParentName="AnimalKindBase">
-    <defName>ZebuCow</defName>
-    <race>ZebuCow</race>
+    <defName>BrownSwissCow</defName>
+    <race>BrownSwissCow</race>
     <combatPower>75</combatPower>
     <ecoSystemWeight>1.1</ecoSystemWeight>
-    <wildGroupSize>3~9</wildGroupSize>
-    <labelMale>zebu bull</labelMale>
-    <label>zebu cow</label>
+    <labelMale>brown swiss bull</labelMale>
+    <label>brown swiss cow</label>
     <lifeStages>
       <li>
-        <label>zebu calf</label>
-        <labelPlural>zebu calves</labelPlural>
+        <label>brown swiss calf</label>
+        <labelPlural>brown swiss calves</labelPlural>
         <bodyGraphicData>
-          <texPath>Animal/Zebu/ZebuCalf</texPath>
+          <texPath>Animal/BrownSwiss/BrownSwissCalf</texPath>
           <drawSize>1.3</drawSize>
           <color>(255,255,255)</color>
         </bodyGraphicData>
@@ -146,12 +140,12 @@
       </li>
       <li>
         <bodyGraphicData>
-          <texPath>Animal/Zebu/ZebuBull</texPath>
+          <texPath>Animal/BrownSwiss/BrownSwissBull</texPath>
           <drawSize>2.15</drawSize>
           <color>(255,255,255)</color>
         </bodyGraphicData>
         <femaleGraphicData>
-          <texPath>Animal/Zebu/ZebuCow</texPath>
+          <texPath>Animal/BrownSwiss/BrownSwissCow</texPath>
           <drawSize>2.0</drawSize>
         </femaleGraphicData>
         <dessicatedBodyGraphicData>
@@ -165,7 +159,7 @@
       </li>
       <li>
         <bodyGraphicData>
-          <texPath>Animal/Zebu/ZebuBull</texPath>
+          <texPath>Animal/BrownSwiss/BrownSwissBull</texPath>
           <drawSize>2.7</drawSize>
           <color>(255,255,255)</color>
           <shadowData>
@@ -174,7 +168,7 @@
           </shadowData>
         </bodyGraphicData>
         <femaleGraphicData>
-          <texPath>Animal/Zebu/ZebuCow</texPath>
+          <texPath>Animal/BrownSwiss/BrownSwissCow</texPath>
           <drawSize>2.6</drawSize>
         </femaleGraphicData>
         <dessicatedBodyGraphicData>

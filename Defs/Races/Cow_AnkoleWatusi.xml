@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalThingBase">
-    <defName>ZebuCow</defName>
-    <label>zebu cow</label>
-    <description>The Zebu is a breed of zebuine cattle from the Indus Valley known for their heat tolerance and meat.</description>
+    <defName>AnkoleWatusiCow</defName>
+    <label>ankole watusi cow</label>
+    <description>The Ankole-Watusi is a breed of Sanga cattle from Central Africa known for their enormous horns.</description>
     <statBases>
       <MoveSpeed>3.2</MoveSpeed>
       <ComfyTemperatureMin>-10</ComfyTemperatureMin>
@@ -15,7 +15,7 @@
       <li Class="CompProperties_Milkable">
         <milkDef>Milk</milkDef>
         <milkIntervalDays>1</milkIntervalDays>
-        <milkAmount>10</milkAmount>
+        <milkAmount>18</milkAmount>
       </li>
     </comps>
     <tools>
@@ -29,13 +29,13 @@
         <chanceFactor>0.7</chanceFactor>
       </li>
       <li>
-        <label>head</label>
+        <label>horn</label>
         <capacities>
-          <li>Blunt</li>
+          <li>Poke</li>
         </capacities>
-        <power>7</power>
+        <power>10</power>
         <cooldownTime>2</cooldownTime>
-        <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+        <linkedBodyPartsGroup>HornAttackTool</linkedBodyPartsGroup>
         <ensureLinkedBodyPartsGroupAlwaysUsable>true</ensureLinkedBodyPartsGroupAlwaysUsable>
         <chanceFactor>0.2</chanceFactor>
       </li>
@@ -61,8 +61,9 @@
       </li>
     </tools>
     <race>
-      <body>QuadrupedAnimalWithHooves</body>
+      <body>QuadrupedAnimalWithHoovesAndHorns</body>
       <herdAnimal>true</herdAnimal>
+      <packAnimal>false</packAnimal>
       <baseBodySize>2.0</baseBodySize>
       <baseHungerRate>0.85</baseHungerRate>
       <baseHealthScale>1.5</baseHealthScale>
@@ -70,13 +71,8 @@
       <leatherDef>Leather_Plain</leatherDef>
       <trainability>Simple</trainability>
       <meatLabel>beef</meatLabel>
-      <wildness>0.25</wildness>
-      <wildBiomes>
-        <TropicalRainforest>0.6</TropicalRainforest>
-        <AridShrubland>1</AridShrubland>
-      </wildBiomes>
+      <wildness>0.15</wildness>
       <petness>0.05</petness>
-      <packAnimal>true</packAnimal>
       <nuzzleMtbHours>120</nuzzleMtbHours>
       <gestationPeriodDays>15</gestationPeriodDays>
       <manhunterOnDamageChance>0</manhunterOnDamageChance>
@@ -119,19 +115,18 @@
   </ThingDef>
   <!-- Animal Textures -->
   <PawnKindDef ParentName="AnimalKindBase">
-    <defName>ZebuCow</defName>
-    <race>ZebuCow</race>
+    <defName>AnkoleWatusiCow</defName>
+    <race>AnkoleWatusiCow</race>
     <combatPower>75</combatPower>
     <ecoSystemWeight>1.1</ecoSystemWeight>
-    <wildGroupSize>3~9</wildGroupSize>
-    <labelMale>zebu bull</labelMale>
-    <label>zebu cow</label>
+    <labelMale>ankole watusi bull</labelMale>
+    <label>ankole watusi cow</label>
     <lifeStages>
       <li>
-        <label>zebu calf</label>
-        <labelPlural>zebu calves</labelPlural>
+        <label>ankole watusi calf</label>
+        <labelPlural>ankole watusi calves</labelPlural>
         <bodyGraphicData>
-          <texPath>Animal/Zebu/ZebuCalf</texPath>
+          <texPath>Animal/AnkoleWatusi/AnkoleWatusiCalf</texPath>
           <drawSize>1.3</drawSize>
           <color>(255,255,255)</color>
         </bodyGraphicData>
@@ -146,12 +141,12 @@
       </li>
       <li>
         <bodyGraphicData>
-          <texPath>Animal/Zebu/ZebuBull</texPath>
+          <texPath>Animal/AnkoleWatusi/AnkoleWatusiBull</texPath>
           <drawSize>2.15</drawSize>
           <color>(255,255,255)</color>
         </bodyGraphicData>
         <femaleGraphicData>
-          <texPath>Animal/Zebu/ZebuCow</texPath>
+          <texPath>Animal/AnkoleWatusi/AnkoleWatusiCow</texPath>
           <drawSize>2.0</drawSize>
         </femaleGraphicData>
         <dessicatedBodyGraphicData>
@@ -165,7 +160,7 @@
       </li>
       <li>
         <bodyGraphicData>
-          <texPath>Animal/Zebu/ZebuBull</texPath>
+          <texPath>Animal/AnkoleWatusi/AnkoleWatusiBull</texPath>
           <drawSize>2.7</drawSize>
           <color>(255,255,255)</color>
           <shadowData>
@@ -174,7 +169,7 @@
           </shadowData>
         </bodyGraphicData>
         <femaleGraphicData>
-          <texPath>Animal/Zebu/ZebuCow</texPath>
+          <texPath>Animal/AnkoleWatusi/AnkoleWatusiCow</texPath>
           <drawSize>2.6</drawSize>
         </femaleGraphicData>
         <dessicatedBodyGraphicData>
@@ -185,6 +180,11 @@
           <texPath>Things/Pawn/Animal/Cow/Dessicated_Cow</texPath>
           <drawSize>2.6</drawSize>
         </femaleDessicatedBodyGraphicData>
+        <butcherBodyPart>
+          <bodyPartGroup>HornAttackTool</bodyPartGroup>
+          <thing>AnkoleWatusiHorn</thing>
+          <allowFemale>true</allowFemale>
+        </butcherBodyPart>
       </li>
     </lifeStages>
   </PawnKindDef>
