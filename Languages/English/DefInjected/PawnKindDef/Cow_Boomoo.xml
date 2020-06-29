@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Animal Textures -->
+
+  <BoomooCow.label>boomoo cow</BoomooCow.label>
+  <BoomooCow.labelPlural>boomoo cows</BoomooCow.labelPlural>
+  <BoomooCow.lifeStages.0.label>boomoo calf</BoomooCow.lifeStages.0.label>
+  <BoomooCow.lifeStages.0.labelPlural>boomoo calves</BoomooCow.lifeStages.0.labelPlural>
+  <BoomooCow.lifeStages.0.labelMale>male boomoo calf</BoomooCow.lifeStages.0.labelMale>
+  <BoomooCow.lifeStages.0.labelMalePlural>male boomoo calves</BoomooCow.lifeStages.0.labelMalePlural>
+  <BoomooCow.lifeStages.0.labelFemale>female boomoo calf</BoomooCow.lifeStages.0.labelFemale>
+  <BoomooCow.lifeStages.0.labelFemalePlural>female boomoo calves</BoomooCow.lifeStages.0.labelFemalePlural>
+  <BoomooCow.lifeStages.1.label>boomoo cow</BoomooCow.lifeStages.1.label>
+  <BoomooCow.lifeStages.1.labelPlural>boomoo cow</BoomooCow.lifeStages.1.labelPlural>
+  <BoomooCow.lifeStages.1.labelMale>boomoo bull</BoomooCow.lifeStages.1.labelMale>
+  <BoomooCow.lifeStages.1.labelMalePlural>male boomoo cows</BoomooCow.lifeStages.1.labelMalePlural>
+  <BoomooCow.lifeStages.1.labelFemale>female boomoo cow</BoomooCow.lifeStages.1.labelFemale>
+  <BoomooCow.lifeStages.1.labelFemalePlural>female boomoo cows</BoomooCow.lifeStages.1.labelFemalePlural>
+  <BoomooCow.lifeStages.2.label>boomoo cow</BoomooCow.lifeStages.2.label>
+  <BoomooCow.lifeStages.2.labelPlural>boomoo cow</BoomooCow.lifeStages.2.labelPlural>
+  <BoomooCow.lifeStages.2.labelMale>boomoo bull</BoomooCow.lifeStages.2.labelMale>
+  <BoomooCow.lifeStages.2.labelMalePlural>male boomoo cows</BoomooCow.lifeStages.2.labelMalePlural>
+  <BoomooCow.lifeStages.2.labelFemale>female boomoo cow</BoomooCow.lifeStages.2.labelFemale>
+  <BoomooCow.lifeStages.2.labelFemalePlural>female boomoo cows</BoomooCow.lifeStages.2.labelFemalePlural>
+  <BoomooCow.labelMale>boomoo bull</BoomooCow.labelMale>
+  <BoomooCow.labelMalePlural>boomoo bulls</BoomooCow.labelMalePlural>
+  <BoomooCow.labelFemale>female boomoo cow</BoomooCow.labelFemale>
+  <BoomooCow.labelFemalePlural>female boomoo cows</BoomooCow.labelFemalePlural>
+
+
+</LanguageData>
