@@ -70,6 +70,7 @@
       <leatherDef>Leather_Plain</leatherDef>
       <trainability>Simple</trainability>
       <meatLabel>beef</meatLabel>
+      <useMeatFrom>Cow</useMeatFrom>
       <wildness>0.25</wildness>
       <wildBiomes>
         <TropicalRainforest>0.6</TropicalRainforest>

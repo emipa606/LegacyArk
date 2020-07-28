@@ -70,6 +70,7 @@
       <leatherDef>Leather_Plain</leatherDef>
       <trainability>Simple</trainability>
       <meatLabel>beef</meatLabel>
+      <useMeatFrom>Cow</useMeatFrom>
       <wildness>0.2</wildness>
       <petness>0.05</petness>
       <nuzzleMtbHours>120</nuzzleMtbHours>
