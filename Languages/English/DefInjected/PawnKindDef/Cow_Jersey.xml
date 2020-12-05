@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Animal Textures -->
-
   <JerseyCow.label>jersey cow</JerseyCow.label>
   <JerseyCow.labelPlural>jersey cows</JerseyCow.labelPlural>
   <JerseyCow.lifeStages.0.label>jersey calf</JerseyCow.lifeStages.0.label>
@@ -27,6 +25,4 @@
   <JerseyCow.labelMalePlural>jersey bulls</JerseyCow.labelMalePlural>
   <JerseyCow.labelFemale>female jersey cow</JerseyCow.labelFemale>
   <JerseyCow.labelFemalePlural>female jersey cows</JerseyCow.labelFemalePlural>
-
-
 </LanguageData>

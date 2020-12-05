@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WaterDeer.label>water deer</WaterDeer.label>
+  <WaterDeer.labelPlural>water deer</WaterDeer.labelPlural>
+  <WaterDeer.lifeStages.0.label>water deer</WaterDeer.lifeStages.0.label>
+  <WaterDeer.lifeStages.0.labelPlural>water deer</WaterDeer.lifeStages.0.labelPlural>
+  <WaterDeer.lifeStages.0.labelMale>water deer buck</WaterDeer.lifeStages.0.labelMale>
+  <WaterDeer.lifeStages.0.labelMalePlural>male water deers</WaterDeer.lifeStages.0.labelMalePlural>
+  <WaterDeer.lifeStages.0.labelFemale>water deer doe</WaterDeer.lifeStages.0.labelFemale>
+  <WaterDeer.lifeStages.0.labelFemalePlural>female water deers</WaterDeer.lifeStages.0.labelFemalePlural>
+  <WaterDeer.lifeStages.1.label>water deer</WaterDeer.lifeStages.1.label>
+  <WaterDeer.lifeStages.1.labelPlural>water deer</WaterDeer.lifeStages.1.labelPlural>
+  <WaterDeer.lifeStages.1.labelMale>water deer buck</WaterDeer.lifeStages.1.labelMale>
+  <WaterDeer.lifeStages.1.labelMalePlural>male water deers</WaterDeer.lifeStages.1.labelMalePlural>
+  <WaterDeer.lifeStages.1.labelFemale>water deer doe</WaterDeer.lifeStages.1.labelFemale>
+  <WaterDeer.lifeStages.1.labelFemalePlural>female water deers</WaterDeer.lifeStages.1.labelFemalePlural>
+  <WaterDeer.lifeStages.2.label>water deer</WaterDeer.lifeStages.2.label>
+  <WaterDeer.lifeStages.2.labelPlural>water deer</WaterDeer.lifeStages.2.labelPlural>
+  <WaterDeer.lifeStages.2.labelMale>water deer buck</WaterDeer.lifeStages.2.labelMale>
+  <WaterDeer.lifeStages.2.labelMalePlural>male water deers</WaterDeer.lifeStages.2.labelMalePlural>
+  <WaterDeer.lifeStages.2.labelFemale>water deer doe</WaterDeer.lifeStages.2.labelFemale>
+  <WaterDeer.lifeStages.2.labelFemalePlural>female water deers</WaterDeer.lifeStages.2.labelFemalePlural>
+  <WaterDeer.labelMale>water deer buck</WaterDeer.labelMale>
+  <WaterDeer.labelMalePlural>male water deer</WaterDeer.labelMalePlural>
+  <WaterDeer.labelFemale>water deer doe</WaterDeer.labelFemale>
+  <WaterDeer.labelFemalePlural>female water deer</WaterDeer.labelFemalePlural>
+</LanguageData>

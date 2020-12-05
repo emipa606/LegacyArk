@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Animal Textures -->
-
   <HerefordCow.label>hereford cow</HerefordCow.label>
   <HerefordCow.labelPlural>hereford cows</HerefordCow.labelPlural>
   <HerefordCow.lifeStages.0.label>hereford calf</HerefordCow.lifeStages.0.label>
@@ -27,6 +25,4 @@
   <HerefordCow.labelMalePlural>hereford bulls</HerefordCow.labelMalePlural>
   <HerefordCow.labelFemale>female hereford cow</HerefordCow.labelFemale>
   <HerefordCow.labelFemalePlural>female hereford cows</HerefordCow.labelFemalePlural>
-
-
 </LanguageData>

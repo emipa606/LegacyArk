@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Animal Textures -->
+  <MouflonSheep.label>mouflon ewe</MouflonSheep.label>
+  <MouflonSheep.labelPlural>mouflon sheep</MouflonSheep.labelPlural>
+  <MouflonSheep.lifeStages.0.label>mouflon lamb</MouflonSheep.lifeStages.0.label>
+  <MouflonSheep.lifeStages.0.labelPlural>mouflon lambs</MouflonSheep.lifeStages.0.labelPlural>
+  <MouflonSheep.lifeStages.0.labelMale>male mouflon lamb</MouflonSheep.lifeStages.0.labelMale>
+  <MouflonSheep.lifeStages.0.labelMalePlural>male mouflon lambs</MouflonSheep.lifeStages.0.labelMalePlural>
+  <MouflonSheep.lifeStages.0.labelFemale>female mouflon lamb</MouflonSheep.lifeStages.0.labelFemale>
+  <MouflonSheep.lifeStages.0.labelFemalePlural>female mouflon lambs</MouflonSheep.lifeStages.0.labelFemalePlural>
+  <MouflonSheep.lifeStages.1.label>mouflon ewe</MouflonSheep.lifeStages.1.label>
+  <MouflonSheep.lifeStages.1.labelPlural>mouflon sheep</MouflonSheep.lifeStages.1.labelPlural>
+  <MouflonSheep.lifeStages.1.labelMale>mouflon ram</MouflonSheep.lifeStages.1.labelMale>
+  <MouflonSheep.lifeStages.1.labelMalePlural>male mouflon ewes</MouflonSheep.lifeStages.1.labelMalePlural>
+  <MouflonSheep.lifeStages.1.labelFemale>female mouflon ewe</MouflonSheep.lifeStages.1.labelFemale>
+  <MouflonSheep.lifeStages.1.labelFemalePlural>female mouflon ewes</MouflonSheep.lifeStages.1.labelFemalePlural>
+  <MouflonSheep.lifeStages.2.label>mouflon ewe</MouflonSheep.lifeStages.2.label>
+  <MouflonSheep.lifeStages.2.labelPlural>mouflon sheep</MouflonSheep.lifeStages.2.labelPlural>
+  <MouflonSheep.lifeStages.2.labelMale>mouflon ram</MouflonSheep.lifeStages.2.labelMale>
+  <MouflonSheep.lifeStages.2.labelMalePlural>male mouflon ewes</MouflonSheep.lifeStages.2.labelMalePlural>
+  <MouflonSheep.lifeStages.2.labelFemale>female mouflon ewe</MouflonSheep.lifeStages.2.labelFemale>
+  <MouflonSheep.lifeStages.2.labelFemalePlural>female mouflon ewes</MouflonSheep.lifeStages.2.labelFemalePlural>
+  <MouflonSheep.labelMale>mouflon ram</MouflonSheep.labelMale>
+  <MouflonSheep.labelMalePlural>male mouflon sheep</MouflonSheep.labelMalePlural>
+  <MouflonSheep.labelFemale>female mouflon ewe</MouflonSheep.labelFemale>
+  <MouflonSheep.labelFemalePlural>female mouflon sheep</MouflonSheep.labelFemalePlural>
+</LanguageData>

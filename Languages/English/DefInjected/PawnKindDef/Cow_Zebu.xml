@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Animal Textures -->
-
   <ZebuCow.label>zebu cow</ZebuCow.label>
   <ZebuCow.labelPlural>zebu cows</ZebuCow.labelPlural>
   <ZebuCow.lifeStages.0.label>zebu calf</ZebuCow.lifeStages.0.label>
@@ -27,6 +25,4 @@
   <ZebuCow.labelMalePlural>zebu bulls</ZebuCow.labelMalePlural>
   <ZebuCow.labelFemale>female zebu cow</ZebuCow.labelFemale>
   <ZebuCow.labelFemalePlural>female zebu cows</ZebuCow.labelFemalePlural>
-
-
 </LanguageData>

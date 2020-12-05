@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Animal Textures -->
-
   <BrownSwissCow.label>brown swiss cow</BrownSwissCow.label>
   <BrownSwissCow.labelPlural>brown swiss cows</BrownSwissCow.labelPlural>
   <BrownSwissCow.lifeStages.0.label>brown swiss calf</BrownSwissCow.lifeStages.0.label>
@@ -27,6 +25,4 @@
   <BrownSwissCow.labelMalePlural>brown swiss bulls</BrownSwissCow.labelMalePlural>
   <BrownSwissCow.labelFemale>female brown swiss cow</BrownSwissCow.labelFemale>
   <BrownSwissCow.labelFemalePlural>female brown swiss cows</BrownSwissCow.labelFemalePlural>
-
-
 </LanguageData>

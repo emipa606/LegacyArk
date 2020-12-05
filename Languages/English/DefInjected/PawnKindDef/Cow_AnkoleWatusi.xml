@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Animal Textures -->
-
   <AnkoleWatusiCow.label>ankole watusi cow</AnkoleWatusiCow.label>
   <AnkoleWatusiCow.labelPlural>ankole watusi cows</AnkoleWatusiCow.labelPlural>
   <AnkoleWatusiCow.lifeStages.0.label>ankole watusi calf</AnkoleWatusiCow.lifeStages.0.label>
@@ -27,6 +25,4 @@
   <AnkoleWatusiCow.labelMalePlural>ankole watusi bulls</AnkoleWatusiCow.labelMalePlural>
   <AnkoleWatusiCow.labelFemale>female ankole watusi cow</AnkoleWatusiCow.labelFemale>
   <AnkoleWatusiCow.labelFemalePlural>female ankole watusi cows</AnkoleWatusiCow.labelFemalePlural>
-
-
 </LanguageData>

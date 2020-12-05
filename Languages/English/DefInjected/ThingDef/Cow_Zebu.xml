@@ -1,11 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <ZebuCow.label>zebu cow</ZebuCow.label>
   <ZebuCow.description>The Zebu is a breed of zebuine cattle from the Indus Valley known for their heat tolerance and meat.</ZebuCow.description>
   <ZebuCow.tools.1.label>head</ZebuCow.tools.1.label>
   <ZebuCow.tools.2.label>left hoof</ZebuCow.tools.2.label>
   <ZebuCow.tools.3.label>right hoof</ZebuCow.tools.3.label>
-
-
 </LanguageData>

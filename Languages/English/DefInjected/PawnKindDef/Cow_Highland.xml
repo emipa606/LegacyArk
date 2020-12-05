@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Animal Textures -->
-
   <HighlandCow.label>highland cow</HighlandCow.label>
   <HighlandCow.labelPlural>highland cows</HighlandCow.labelPlural>
   <HighlandCow.lifeStages.0.label>highland calf</HighlandCow.lifeStages.0.label>
@@ -27,6 +25,4 @@
   <HighlandCow.labelMalePlural>highland bulls</HighlandCow.labelMalePlural>
   <HighlandCow.labelFemale>female highland cow</HighlandCow.labelFemale>
   <HighlandCow.labelFemalePlural>female highland cows</HighlandCow.labelFemalePlural>
-
-
 </LanguageData>

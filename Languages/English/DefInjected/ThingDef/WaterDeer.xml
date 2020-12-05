@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WaterDeer.label>water deer</WaterDeer.label>
+  <WaterDeer.description>Water Deer are fanged deer native to Asia. Although water deer resemble extinct primitive deer in lacking antlers, they evolved from ancestors with antlers that were subsequently lost.</WaterDeer.description>
+  <WaterDeer.tools.0.label>left hoof</WaterDeer.tools.0.label>
+  <WaterDeer.tools.1.label>right hoof</WaterDeer.tools.1.label>
+  <WaterDeer.tools.2.label>teeth</WaterDeer.tools.2.label>
+  <WaterDeer.tools.3.label>head</WaterDeer.tools.3.label>
+</LanguageData>

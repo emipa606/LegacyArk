@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Animal Textures -->
+  <BighornSheep.label>bighorn ewe</BighornSheep.label>
+  <BighornSheep.labelPlural>bighorn sheep</BighornSheep.labelPlural>
+  <BighornSheep.lifeStages.0.label>bighorn lamb</BighornSheep.lifeStages.0.label>
+  <BighornSheep.lifeStages.0.labelPlural>bighorn lambs</BighornSheep.lifeStages.0.labelPlural>
+  <BighornSheep.lifeStages.0.labelMale>male bighorn lamb</BighornSheep.lifeStages.0.labelMale>
+  <BighornSheep.lifeStages.0.labelMalePlural>male bighorn lambs</BighornSheep.lifeStages.0.labelMalePlural>
+  <BighornSheep.lifeStages.0.labelFemale>female bighorn lamb</BighornSheep.lifeStages.0.labelFemale>
+  <BighornSheep.lifeStages.0.labelFemalePlural>female bighorn lambs</BighornSheep.lifeStages.0.labelFemalePlural>
+  <BighornSheep.lifeStages.1.label>bighorn ewe</BighornSheep.lifeStages.1.label>
+  <BighornSheep.lifeStages.1.labelPlural>bighorn sheep</BighornSheep.lifeStages.1.labelPlural>
+  <BighornSheep.lifeStages.1.labelMale>bighorn ram</BighornSheep.lifeStages.1.labelMale>
+  <BighornSheep.lifeStages.1.labelMalePlural>male bighorn ewes</BighornSheep.lifeStages.1.labelMalePlural>
+  <BighornSheep.lifeStages.1.labelFemale>female bighorn ewe</BighornSheep.lifeStages.1.labelFemale>
+  <BighornSheep.lifeStages.1.labelFemalePlural>female bighorn ewes</BighornSheep.lifeStages.1.labelFemalePlural>
+  <BighornSheep.lifeStages.2.label>bighorn ewe</BighornSheep.lifeStages.2.label>
+  <BighornSheep.lifeStages.2.labelPlural>bighorn sheep</BighornSheep.lifeStages.2.labelPlural>
+  <BighornSheep.lifeStages.2.labelMale>bighorn ram</BighornSheep.lifeStages.2.labelMale>
+  <BighornSheep.lifeStages.2.labelMalePlural>male bighorn ewes</BighornSheep.lifeStages.2.labelMalePlural>
+  <BighornSheep.lifeStages.2.labelFemale>female bighorn ewe</BighornSheep.lifeStages.2.labelFemale>
+  <BighornSheep.lifeStages.2.labelFemalePlural>female bighorn ewes</BighornSheep.lifeStages.2.labelFemalePlural>
+  <BighornSheep.labelMale>bighorn ram</BighornSheep.labelMale>
+  <BighornSheep.labelMalePlural>male bighorn sheep</BighornSheep.labelMalePlural>
+  <BighornSheep.labelFemale>female bighorn ewe</BighornSheep.labelFemale>
+  <BighornSheep.labelFemalePlural>female bighorn sheep</BighornSheep.labelFemalePlural>
+</LanguageData>

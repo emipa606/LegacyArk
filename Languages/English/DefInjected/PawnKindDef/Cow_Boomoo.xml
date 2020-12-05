@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Animal Textures -->
-
   <BoomooCow.label>boomoo cow</BoomooCow.label>
   <BoomooCow.labelPlural>boomoo cows</BoomooCow.labelPlural>
   <BoomooCow.lifeStages.0.label>boomoo calf</BoomooCow.lifeStages.0.label>
@@ -27,6 +25,4 @@
   <BoomooCow.labelMalePlural>boomoo bulls</BoomooCow.labelMalePlural>
   <BoomooCow.labelFemale>female boomoo cow</BoomooCow.labelFemale>
   <BoomooCow.labelFemalePlural>female boomoo cows</BoomooCow.labelFemalePlural>
-
-
 </LanguageData>

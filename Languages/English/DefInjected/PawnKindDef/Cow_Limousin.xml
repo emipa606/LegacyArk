@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Animal Textures -->
-
   <LimousinCow.label>limousin cow</LimousinCow.label>
   <LimousinCow.labelPlural>limousin cows</LimousinCow.labelPlural>
   <LimousinCow.lifeStages.0.label>limousin calf</LimousinCow.lifeStages.0.label>
@@ -27,6 +25,4 @@
   <LimousinCow.labelMalePlural>limousin bulls</LimousinCow.labelMalePlural>
   <LimousinCow.labelFemale>female limousin cow</LimousinCow.labelFemale>
   <LimousinCow.labelFemalePlural>female limousin cows</LimousinCow.labelFemalePlural>
-
-
 </LanguageData>

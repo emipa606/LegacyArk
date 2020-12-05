@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Animal Base -->
+  <JacobsSheep.label>jacobs sheep</JacobsSheep.label>
+  <JacobsSheep.description>The Jacob is a breed of sheep from the England known for their four horns.</JacobsSheep.description>
+  <JacobsSheep.tools.0.label>head</JacobsSheep.tools.0.label>
+  <JacobsSheep.tools.1.label>horn</JacobsSheep.tools.1.label>
+  <JacobsSheep.tools.2.label>left hoof</JacobsSheep.tools.2.label>
+  <JacobsSheep.tools.3.label>right hoof</JacobsSheep.tools.3.label>
+</LanguageData>

@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Animal Textures -->
-
   <HolsteinFriesianCow.label>holstein friesian cow</HolsteinFriesianCow.label>
   <HolsteinFriesianCow.labelPlural>holstein friesian cows</HolsteinFriesianCow.labelPlural>
   <HolsteinFriesianCow.lifeStages.0.label>holstein friesian calf</HolsteinFriesianCow.lifeStages.0.label>
@@ -27,6 +25,4 @@
   <HolsteinFriesianCow.labelMalePlural>holstein friesian bulls</HolsteinFriesianCow.labelMalePlural>
   <HolsteinFriesianCow.labelFemale>female holstein friesian cow</HolsteinFriesianCow.labelFemale>
   <HolsteinFriesianCow.labelFemalePlural>female holstein friesian cows</HolsteinFriesianCow.labelFemalePlural>
-
-
 </LanguageData>

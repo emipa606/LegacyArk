@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QuadrupedAnimalWithHoovesAndHorns.label>quadruped animal</QuadrupedAnimalWithHoovesAndHorns.label>
+  <QuadrupedAnimalWithHoovesAndHorns.corePart.parts.3.customLabel>left lung</QuadrupedAnimalWithHoovesAndHorns.corePart.parts.3.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorns.corePart.parts.4.customLabel>right lung</QuadrupedAnimalWithHoovesAndHorns.corePart.parts.4.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorns.corePart.parts.5.customLabel>left kidney</QuadrupedAnimalWithHoovesAndHorns.corePart.parts.5.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorns.corePart.parts.6.customLabel>right kidney</QuadrupedAnimalWithHoovesAndHorns.corePart.parts.6.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorns.corePart.parts.8.parts.0.parts.1.customLabel>left horn</QuadrupedAnimalWithHoovesAndHorns.corePart.parts.8.parts.0.parts.1.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorns.corePart.parts.8.parts.0.parts.2.customLabel>right horn</QuadrupedAnimalWithHoovesAndHorns.corePart.parts.8.parts.0.parts.2.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorns.corePart.parts.8.parts.0.parts.3.customLabel>left eye</QuadrupedAnimalWithHoovesAndHorns.corePart.parts.8.parts.0.parts.3.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorns.corePart.parts.8.parts.0.parts.4.customLabel>right eye</QuadrupedAnimalWithHoovesAndHorns.corePart.parts.8.parts.0.parts.4.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorns.corePart.parts.8.parts.0.parts.5.customLabel>left ear</QuadrupedAnimalWithHoovesAndHorns.corePart.parts.8.parts.0.parts.5.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorns.corePart.parts.8.parts.0.parts.6.customLabel>right ear</QuadrupedAnimalWithHoovesAndHorns.corePart.parts.8.parts.0.parts.6.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorns.corePart.parts.9.customLabel>front left leg</QuadrupedAnimalWithHoovesAndHorns.corePart.parts.9.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorns.corePart.parts.9.parts.0.customLabel>front left hoof</QuadrupedAnimalWithHoovesAndHorns.corePart.parts.9.parts.0.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorns.corePart.parts.10.customLabel>front right leg</QuadrupedAnimalWithHoovesAndHorns.corePart.parts.10.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorns.corePart.parts.10.parts.0.customLabel>front right hoof</QuadrupedAnimalWithHoovesAndHorns.corePart.parts.10.parts.0.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorns.corePart.parts.11.customLabel>rear left leg</QuadrupedAnimalWithHoovesAndHorns.corePart.parts.11.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorns.corePart.parts.11.parts.0.customLabel>rear left hoof</QuadrupedAnimalWithHoovesAndHorns.corePart.parts.11.parts.0.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorns.corePart.parts.12.customLabel>rear right leg</QuadrupedAnimalWithHoovesAndHorns.corePart.parts.12.customLabel>
+  <QuadrupedAnimalWithHoovesAndHorns.corePart.parts.12.parts.0.customLabel>rear right hoof</QuadrupedAnimalWithHoovesAndHorns.corePart.parts.12.parts.0.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.label>quadruped animal</QuadrupedAnimalWithHoovesAndFourHorns.label>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.3.customLabel>left lung</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.3.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.4.customLabel>right lung</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.4.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.5.customLabel>left kidney</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.5.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.6.customLabel>right kidney</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.6.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.8.parts.0.parts.1.customLabel>left upper horn</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.8.parts.0.parts.1.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.8.parts.0.parts.2.customLabel>right upper horn</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.8.parts.0.parts.2.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.8.parts.0.parts.3.customLabel>left lower horn</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.8.parts.0.parts.3.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.8.parts.0.parts.4.customLabel>left lower horn</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.8.parts.0.parts.4.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.8.parts.0.parts.5.customLabel>left eye</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.8.parts.0.parts.5.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.8.parts.0.parts.6.customLabel>right eye</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.8.parts.0.parts.6.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.8.parts.0.parts.7.customLabel>left ear</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.8.parts.0.parts.7.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.8.parts.0.parts.8.customLabel>right ear</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.8.parts.0.parts.8.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.9.customLabel>front left leg</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.9.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.9.parts.0.customLabel>front left hoof</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.9.parts.0.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.10.customLabel>front right leg</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.10.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.10.parts.0.customLabel>front right hoof</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.10.parts.0.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.11.customLabel>rear left leg</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.11.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.11.parts.0.customLabel>rear left hoof</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.11.parts.0.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.12.customLabel>rear right leg</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.12.customLabel>
+  <QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.12.parts.0.customLabel>rear right hoof</QuadrupedAnimalWithHoovesAndFourHorns.corePart.parts.12.parts.0.customLabel>
+</LanguageData>

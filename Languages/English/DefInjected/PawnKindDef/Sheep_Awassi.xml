@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Animal Textures -->
+  <AwassiSheep.label>awassi ewe</AwassiSheep.label>
+  <AwassiSheep.labelPlural>awassi sheep</AwassiSheep.labelPlural>
+  <AwassiSheep.lifeStages.0.label>awassi lamb</AwassiSheep.lifeStages.0.label>
+  <AwassiSheep.lifeStages.0.labelPlural>awassi lambs</AwassiSheep.lifeStages.0.labelPlural>
+  <AwassiSheep.lifeStages.0.labelMale>male awassi lamb</AwassiSheep.lifeStages.0.labelMale>
+  <AwassiSheep.lifeStages.0.labelMalePlural>male awassi lambs</AwassiSheep.lifeStages.0.labelMalePlural>
+  <AwassiSheep.lifeStages.0.labelFemale>female awassi lamb</AwassiSheep.lifeStages.0.labelFemale>
+  <AwassiSheep.lifeStages.0.labelFemalePlural>female awassi lambs</AwassiSheep.lifeStages.0.labelFemalePlural>
+  <AwassiSheep.lifeStages.1.label>awassi ewe</AwassiSheep.lifeStages.1.label>
+  <AwassiSheep.lifeStages.1.labelPlural>awassi sheep</AwassiSheep.lifeStages.1.labelPlural>
+  <AwassiSheep.lifeStages.1.labelMale>awassi ram</AwassiSheep.lifeStages.1.labelMale>
+  <AwassiSheep.lifeStages.1.labelMalePlural>male awassi ewes</AwassiSheep.lifeStages.1.labelMalePlural>
+  <AwassiSheep.lifeStages.1.labelFemale>female awassi ewe</AwassiSheep.lifeStages.1.labelFemale>
+  <AwassiSheep.lifeStages.1.labelFemalePlural>female awassi ewes</AwassiSheep.lifeStages.1.labelFemalePlural>
+  <AwassiSheep.lifeStages.2.label>awassi ewe</AwassiSheep.lifeStages.2.label>
+  <AwassiSheep.lifeStages.2.labelPlural>awassi sheep</AwassiSheep.lifeStages.2.labelPlural>
+  <AwassiSheep.lifeStages.2.labelMale>awassi ram</AwassiSheep.lifeStages.2.labelMale>
+  <AwassiSheep.lifeStages.2.labelMalePlural>male awassi ewes</AwassiSheep.lifeStages.2.labelMalePlural>
+  <AwassiSheep.lifeStages.2.labelFemale>female awassi ewe</AwassiSheep.lifeStages.2.labelFemale>
+  <AwassiSheep.lifeStages.2.labelFemalePlural>female awassi ewes</AwassiSheep.lifeStages.2.labelFemalePlural>
+  <AwassiSheep.labelMale>awassi ram</AwassiSheep.labelMale>
+  <AwassiSheep.labelMalePlural>male awassi sheep</AwassiSheep.labelMalePlural>
+  <AwassiSheep.labelFemale>female awassi ewe</AwassiSheep.labelFemale>
+  <AwassiSheep.labelFemalePlural>female awassi sheep</AwassiSheep.labelFemalePlural>
+</LanguageData>

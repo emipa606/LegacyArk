@@ -62,4 +62,54 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
   </ThingDef>
+  <!--=============== Arapawa horn ====================-->
+  <ThingDef ParentName="HornsBase">
+    <defName>ArapawaHorn</defName>
+    <label>arapawa horn</label>
+    <description>A horn from a Arapawa sheep, can be used as a weapon or sold for profit.</description>
+    <graphicData>
+      <texPath>Item/ArapawaHorn</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  <!--=============== Bighorn horn ====================-->
+  <ThingDef ParentName="HornsBase">
+    <defName>BighornHorn</defName>
+    <label>bighorn horn</label>
+    <description>A horn from a Bighorn sheep, can be used as a weapon or sold for profit.</description>
+    <graphicData>
+      <texPath>Item/BighornHorn</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  <!--=============== Jacob horn ====================-->
+  <ThingDef ParentName="HornsBase">
+    <defName>JacobsHorn</defName>
+    <label>jacobs horn</label>
+    <description>A horn from a Jacobs sheep, can be used as a weapon or sold for profit.</description>
+    <graphicData>
+      <texPath>Item/JacobsHorn</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  <!--=============== Mouflon horn ====================-->
+  <ThingDef ParentName="HornsBase">
+    <defName>MouflonHorn</defName>
+    <label>mouflon horn</label>
+    <description>A horn from a Mouflon sheep, can be used as a weapon or sold for profit.</description>
+    <graphicData>
+      <texPath>Item/MuflonHorn</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
+  <!--=============== Racka horn ====================-->
+  <ThingDef ParentName="HornsBase">
+    <defName>RackaHorn</defName>
+    <label>racka horn</label>
+    <description>A horn from a Racka sheep, can be used as a weapon or sold for profit.</description>
+    <graphicData>
+      <texPath>Item/RackaHorn</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+  </ThingDef>
 </Defs>

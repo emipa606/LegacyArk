@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Animal Textures -->
-
   <AngusCow.label>angus cow</AngusCow.label>
   <AngusCow.labelPlural>angus cows</AngusCow.labelPlural>
   <AngusCow.lifeStages.0.label>angus calf</AngusCow.lifeStages.0.label>
@@ -27,6 +25,4 @@
   <AngusCow.labelMalePlural>angus bulls</AngusCow.labelMalePlural>
   <AngusCow.labelFemale>female angus cow</AngusCow.labelFemale>
   <AngusCow.labelFemalePlural>female angus cows</AngusCow.labelFemalePlural>
-
-
 </LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Animal Textures -->
+  <SuffolkSheep.label>suffolk ewe</SuffolkSheep.label>
+  <SuffolkSheep.labelPlural>suffolk sheep</SuffolkSheep.labelPlural>
+  <SuffolkSheep.lifeStages.0.label>suffolk lamb</SuffolkSheep.lifeStages.0.label>
+  <SuffolkSheep.lifeStages.0.labelPlural>suffolk lambs</SuffolkSheep.lifeStages.0.labelPlural>
+  <SuffolkSheep.lifeStages.0.labelMale>male suffolk lamb</SuffolkSheep.lifeStages.0.labelMale>
+  <SuffolkSheep.lifeStages.0.labelMalePlural>male suffolk lambs</SuffolkSheep.lifeStages.0.labelMalePlural>
+  <SuffolkSheep.lifeStages.0.labelFemale>female suffolk lamb</SuffolkSheep.lifeStages.0.labelFemale>
+  <SuffolkSheep.lifeStages.0.labelFemalePlural>female suffolk lambs</SuffolkSheep.lifeStages.0.labelFemalePlural>
+  <SuffolkSheep.lifeStages.1.label>suffolk ewe</SuffolkSheep.lifeStages.1.label>
+  <SuffolkSheep.lifeStages.1.labelPlural>suffolk sheep</SuffolkSheep.lifeStages.1.labelPlural>
+  <SuffolkSheep.lifeStages.1.labelMale>suffolk ram</SuffolkSheep.lifeStages.1.labelMale>
+  <SuffolkSheep.lifeStages.1.labelMalePlural>male suffolk ewes</SuffolkSheep.lifeStages.1.labelMalePlural>
+  <SuffolkSheep.lifeStages.1.labelFemale>female suffolk ewe</SuffolkSheep.lifeStages.1.labelFemale>
+  <SuffolkSheep.lifeStages.1.labelFemalePlural>female suffolk ewes</SuffolkSheep.lifeStages.1.labelFemalePlural>
+  <SuffolkSheep.lifeStages.2.label>suffolk ewe</SuffolkSheep.lifeStages.2.label>
+  <SuffolkSheep.lifeStages.2.labelPlural>suffolk sheep</SuffolkSheep.lifeStages.2.labelPlural>
+  <SuffolkSheep.lifeStages.2.labelMale>suffolk ram</SuffolkSheep.lifeStages.2.labelMale>
+  <SuffolkSheep.lifeStages.2.labelMalePlural>male suffolk ewes</SuffolkSheep.lifeStages.2.labelMalePlural>
+  <SuffolkSheep.lifeStages.2.labelFemale>female suffolk ewe</SuffolkSheep.lifeStages.2.labelFemale>
+  <SuffolkSheep.lifeStages.2.labelFemalePlural>female suffolk ewes</SuffolkSheep.lifeStages.2.labelFemalePlural>
+  <SuffolkSheep.labelMale>suffolk ram</SuffolkSheep.labelMale>
+  <SuffolkSheep.labelMalePlural>male suffolk sheep</SuffolkSheep.labelMalePlural>
+  <SuffolkSheep.labelFemale>female suffolk ewe</SuffolkSheep.labelFemale>
+  <SuffolkSheep.labelFemalePlural>female suffolk sheep</SuffolkSheep.labelFemalePlural>
+</LanguageData>

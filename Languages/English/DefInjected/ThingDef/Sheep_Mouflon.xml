@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Animal Base -->
+  <MouflonSheep.label>mouflon sheep</MouflonSheep.label>
+  <MouflonSheep.description>The Muflon is a wild sheep from the Eurasia and ancestor to all domestic sheep.</MouflonSheep.description>
+  <MouflonSheep.tools.0.label>head</MouflonSheep.tools.0.label>
+  <MouflonSheep.tools.1.label>horn</MouflonSheep.tools.1.label>
+  <MouflonSheep.tools.2.label>left hoof</MouflonSheep.tools.2.label>
+  <MouflonSheep.tools.3.label>right hoof</MouflonSheep.tools.3.label>
+</LanguageData>

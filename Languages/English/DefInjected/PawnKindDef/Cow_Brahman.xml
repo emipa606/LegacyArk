@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Animal Textures -->
-
   <BrahmanCow.label>brahman cow</BrahmanCow.label>
   <BrahmanCow.labelPlural>brahman cows</BrahmanCow.labelPlural>
   <BrahmanCow.lifeStages.0.label>brahman calf</BrahmanCow.lifeStages.0.label>
@@ -27,6 +25,4 @@
   <BrahmanCow.labelMalePlural>brahman bulls</BrahmanCow.labelMalePlural>
   <BrahmanCow.labelFemale>female brahman cow</BrahmanCow.labelFemale>
   <BrahmanCow.labelFemalePlural>female brahman cows</BrahmanCow.labelFemalePlural>
-
-
 </LanguageData>

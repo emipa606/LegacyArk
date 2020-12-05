@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Animal Textures -->
-
   <LonghornCow.label>longhorn cow</LonghornCow.label>
   <LonghornCow.labelPlural>longhorn cows</LonghornCow.labelPlural>
   <LonghornCow.lifeStages.0.label>longhorn calf</LonghornCow.lifeStages.0.label>
@@ -27,6 +25,4 @@
   <LonghornCow.labelMalePlural>longhorn bulls</LonghornCow.labelMalePlural>
   <LonghornCow.labelFemale>female longhorn cow</LonghornCow.labelFemale>
   <LonghornCow.labelFemalePlural>female longhorn cows</LonghornCow.labelFemalePlural>
-
-
 </LanguageData>

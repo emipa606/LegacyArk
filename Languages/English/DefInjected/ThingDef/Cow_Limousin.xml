@@ -1,11 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <LimousinCow.label>limousin cow</LimousinCow.label>
   <LimousinCow.description>The Limousin is a breed of beef cattle from France known for producing meat.</LimousinCow.description>
   <LimousinCow.tools.1.label>head</LimousinCow.tools.1.label>
   <LimousinCow.tools.2.label>left hoof</LimousinCow.tools.2.label>
   <LimousinCow.tools.3.label>right hoof</LimousinCow.tools.3.label>
-
-
 </LanguageData>

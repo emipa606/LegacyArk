@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Animal Textures -->
-
   <HarianaCow.label>hariana cow</HarianaCow.label>
   <HarianaCow.labelPlural>hariana cows</HarianaCow.labelPlural>
   <HarianaCow.lifeStages.0.label>hariana calf</HarianaCow.lifeStages.0.label>
@@ -27,6 +25,4 @@
   <HarianaCow.labelMalePlural>hariana bulls</HarianaCow.labelMalePlural>
   <HarianaCow.labelFemale>female hariana cow</HarianaCow.labelFemale>
   <HarianaCow.labelFemalePlural>female hariana cows</HarianaCow.labelFemalePlural>
-
-
 </LanguageData>

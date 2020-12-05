@@ -1,11 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <LonghornCow.label>longhorn cow</LonghornCow.label>
   <LonghornCow.description>The Longhorn is a breed of beef cattle from Texas known for their large horns.</LonghornCow.description>
   <LonghornCow.tools.1.label>horn</LonghornCow.tools.1.label>
   <LonghornCow.tools.2.label>left hoof</LonghornCow.tools.2.label>
   <LonghornCow.tools.3.label>right hoof</LonghornCow.tools.3.label>
-
-
 </LanguageData>

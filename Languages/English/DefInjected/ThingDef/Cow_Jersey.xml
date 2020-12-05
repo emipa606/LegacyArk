@@ -1,11 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <JerseyCow.label>jersey cow</JerseyCow.label>
   <JerseyCow.description>The Jersey is a breed of dairy cattle from the British Channel Islands known for their rich milk.</JerseyCow.description>
   <JerseyCow.tools.1.label>head</JerseyCow.tools.1.label>
   <JerseyCow.tools.2.label>left hoof</JerseyCow.tools.2.label>
   <JerseyCow.tools.3.label>right hoof</JerseyCow.tools.3.label>
-
-
 </LanguageData>

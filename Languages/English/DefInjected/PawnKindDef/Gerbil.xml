@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <Gerbil.label>gerbil</Gerbil.label>
   <Gerbil.labelPlural>gerbils</Gerbil.labelPlural>
   <Gerbil.lifeStages.0.label>gerbil baby</Gerbil.lifeStages.0.label>
@@ -25,6 +24,4 @@
   <Gerbil.labelMalePlural>gerbil males</Gerbil.labelMalePlural>
   <Gerbil.labelFemale>gerbil female</Gerbil.labelFemale>
   <Gerbil.labelFemalePlural>gerbil females</Gerbil.labelFemalePlural>
-
-
 </LanguageData>

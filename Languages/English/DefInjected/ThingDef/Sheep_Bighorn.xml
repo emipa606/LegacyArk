@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Animal Base -->
+  <BighornSheep.label>bighorn sheep</BighornSheep.label>
+  <BighornSheep.description>The Bighorn Sheep is a wild sheep from the North America known for their valuable horns.</BighornSheep.description>
+  <BighornSheep.tools.0.label>head</BighornSheep.tools.0.label>
+  <BighornSheep.tools.1.label>horn</BighornSheep.tools.1.label>
+  <BighornSheep.tools.2.label>left hoof</BighornSheep.tools.2.label>
+  <BighornSheep.tools.3.label>right hoof</BighornSheep.tools.3.label>
+</LanguageData>

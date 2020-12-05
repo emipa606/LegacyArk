@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Animal Textures -->
+  <LincolnSheep.label>lincoln ewe</LincolnSheep.label>
+  <LincolnSheep.labelPlural>lincoln sheep</LincolnSheep.labelPlural>
+  <LincolnSheep.lifeStages.0.label>lincoln lamb</LincolnSheep.lifeStages.0.label>
+  <LincolnSheep.lifeStages.0.labelPlural>lincoln lambs</LincolnSheep.lifeStages.0.labelPlural>
+  <LincolnSheep.lifeStages.0.labelMale>male lincoln lamb</LincolnSheep.lifeStages.0.labelMale>
+  <LincolnSheep.lifeStages.0.labelMalePlural>male lincoln lambs</LincolnSheep.lifeStages.0.labelMalePlural>
+  <LincolnSheep.lifeStages.0.labelFemale>female lincoln lamb</LincolnSheep.lifeStages.0.labelFemale>
+  <LincolnSheep.lifeStages.0.labelFemalePlural>female lincoln lambs</LincolnSheep.lifeStages.0.labelFemalePlural>
+  <LincolnSheep.lifeStages.1.label>lincoln ewe</LincolnSheep.lifeStages.1.label>
+  <LincolnSheep.lifeStages.1.labelPlural>lincoln sheep</LincolnSheep.lifeStages.1.labelPlural>
+  <LincolnSheep.lifeStages.1.labelMale>lincoln ram</LincolnSheep.lifeStages.1.labelMale>
+  <LincolnSheep.lifeStages.1.labelMalePlural>male lincoln ewes</LincolnSheep.lifeStages.1.labelMalePlural>
+  <LincolnSheep.lifeStages.1.labelFemale>female lincoln ewe</LincolnSheep.lifeStages.1.labelFemale>
+  <LincolnSheep.lifeStages.1.labelFemalePlural>female lincoln ewes</LincolnSheep.lifeStages.1.labelFemalePlural>
+  <LincolnSheep.lifeStages.2.label>lincoln ewe</LincolnSheep.lifeStages.2.label>
+  <LincolnSheep.lifeStages.2.labelPlural>lincoln sheep</LincolnSheep.lifeStages.2.labelPlural>
+  <LincolnSheep.lifeStages.2.labelMale>lincoln ram</LincolnSheep.lifeStages.2.labelMale>
+  <LincolnSheep.lifeStages.2.labelMalePlural>male lincoln ewes</LincolnSheep.lifeStages.2.labelMalePlural>
+  <LincolnSheep.lifeStages.2.labelFemale>female lincoln ewe</LincolnSheep.lifeStages.2.labelFemale>
+  <LincolnSheep.lifeStages.2.labelFemalePlural>female lincoln ewes</LincolnSheep.lifeStages.2.labelFemalePlural>
+  <LincolnSheep.labelMale>lincoln ram</LincolnSheep.labelMale>
+  <LincolnSheep.labelMalePlural>male lincoln sheep</LincolnSheep.labelMalePlural>
+  <LincolnSheep.labelFemale>female lincoln ewe</LincolnSheep.labelFemale>
+  <LincolnSheep.labelFemalePlural>female lincoln sheep</LincolnSheep.labelFemalePlural>
+</LanguageData>

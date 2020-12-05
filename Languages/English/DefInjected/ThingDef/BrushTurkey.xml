@@ -1,11 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <BrushTurkey.label>brush turkey</BrushTurkey.label>
   <BrushTurkey.description>It is a large bird with black feathers and a red head. Despite its name and their superficial similarities, the bird is not closely related to American turkeys.</BrushTurkey.description>
   <BrushTurkey.tools.0.label>claws</BrushTurkey.tools.0.label>
   <BrushTurkey.tools.1.label>beak</BrushTurkey.tools.1.label>
   <BrushTurkey.tools.2.label>head</BrushTurkey.tools.2.label>
-
-
 </LanguageData>

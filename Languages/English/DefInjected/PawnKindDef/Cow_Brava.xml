@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Animal Textures -->
-
   <BravaCow.label>brava cow</BravaCow.label>
   <BravaCow.labelPlural>brava cows</BravaCow.labelPlural>
   <BravaCow.lifeStages.0.label>brava calf</BravaCow.lifeStages.0.label>
@@ -27,6 +25,4 @@
   <BravaCow.labelMalePlural>brava bulls</BravaCow.labelMalePlural>
   <BravaCow.labelFemale>female brava cow</BravaCow.labelFemale>
   <BravaCow.labelFemalePlural>female brava cows</BravaCow.labelFemalePlural>
-
-
 </LanguageData>

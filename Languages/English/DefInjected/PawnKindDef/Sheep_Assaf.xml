@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Animal Textures -->
+  <AssafSheep.label>assaf ewe</AssafSheep.label>
+  <AssafSheep.labelPlural>assaf sheep</AssafSheep.labelPlural>
+  <AssafSheep.lifeStages.0.label>assaf lamb</AssafSheep.lifeStages.0.label>
+  <AssafSheep.lifeStages.0.labelPlural>assaf lambs</AssafSheep.lifeStages.0.labelPlural>
+  <AssafSheep.lifeStages.0.labelMale>male assaf lamb</AssafSheep.lifeStages.0.labelMale>
+  <AssafSheep.lifeStages.0.labelMalePlural>male assaf lambs</AssafSheep.lifeStages.0.labelMalePlural>
+  <AssafSheep.lifeStages.0.labelFemale>female assaf lamb</AssafSheep.lifeStages.0.labelFemale>
+  <AssafSheep.lifeStages.0.labelFemalePlural>female assaf lambs</AssafSheep.lifeStages.0.labelFemalePlural>
+  <AssafSheep.lifeStages.1.label>assaf ewe</AssafSheep.lifeStages.1.label>
+  <AssafSheep.lifeStages.1.labelPlural>assaf sheep</AssafSheep.lifeStages.1.labelPlural>
+  <AssafSheep.lifeStages.1.labelMale>assaf ram</AssafSheep.lifeStages.1.labelMale>
+  <AssafSheep.lifeStages.1.labelMalePlural>male assaf ewes</AssafSheep.lifeStages.1.labelMalePlural>
+  <AssafSheep.lifeStages.1.labelFemale>female assaf ewe</AssafSheep.lifeStages.1.labelFemale>
+  <AssafSheep.lifeStages.1.labelFemalePlural>female assaf ewes</AssafSheep.lifeStages.1.labelFemalePlural>
+  <AssafSheep.lifeStages.2.label>assaf ewe</AssafSheep.lifeStages.2.label>
+  <AssafSheep.lifeStages.2.labelPlural>assaf sheep</AssafSheep.lifeStages.2.labelPlural>
+  <AssafSheep.lifeStages.2.labelMale>assaf ram</AssafSheep.lifeStages.2.labelMale>
+  <AssafSheep.lifeStages.2.labelMalePlural>male assaf ewes</AssafSheep.lifeStages.2.labelMalePlural>
+  <AssafSheep.lifeStages.2.labelFemale>female assaf ewe</AssafSheep.lifeStages.2.labelFemale>
+  <AssafSheep.lifeStages.2.labelFemalePlural>female assaf ewes</AssafSheep.lifeStages.2.labelFemalePlural>
+  <AssafSheep.labelMale>assaf ram</AssafSheep.labelMale>
+  <AssafSheep.labelMalePlural>male assaf sheep</AssafSheep.labelMalePlural>
+  <AssafSheep.labelFemale>female assaf ewe</AssafSheep.labelFemale>
+  <AssafSheep.labelFemalePlural>female assaf sheep</AssafSheep.labelFemalePlural>
+</LanguageData>

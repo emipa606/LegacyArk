@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Animal Base -->
+  <AwassiSheep.label>awassi sheep</AwassiSheep.label>
+  <AwassiSheep.description>The Arapawa is a breed of sheep from the Middle East known for their heat tolerance and milk.</AwassiSheep.description>
+  <AwassiSheep.tools.0.label>head</AwassiSheep.tools.0.label>
+  <AwassiSheep.tools.1.label>left hoof</AwassiSheep.tools.1.label>
+  <AwassiSheep.tools.2.label>right hoof</AwassiSheep.tools.2.label>
+</LanguageData>

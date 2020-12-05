@@ -1,11 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <AngusCow.label>angus cow</AngusCow.label>
   <AngusCow.description>The Angus is a breed of beef cattle from Scottland known for their superior quality meat.</AngusCow.description>
   <AngusCow.tools.1.label>head</AngusCow.tools.1.label>
   <AngusCow.tools.2.label>left hoof</AngusCow.tools.2.label>
   <AngusCow.tools.3.label>right hoof</AngusCow.tools.3.label>
-
-
 </LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Animal Textures -->
+  <BorderLeicesterSheep.label>border leicester ewe</BorderLeicesterSheep.label>
+  <BorderLeicesterSheep.labelPlural>border leicester sheep</BorderLeicesterSheep.labelPlural>
+  <BorderLeicesterSheep.lifeStages.0.label>border leicester lamb</BorderLeicesterSheep.lifeStages.0.label>
+  <BorderLeicesterSheep.lifeStages.0.labelPlural>border leicester lambs</BorderLeicesterSheep.lifeStages.0.labelPlural>
+  <BorderLeicesterSheep.lifeStages.0.labelMale>male border leicester lamb</BorderLeicesterSheep.lifeStages.0.labelMale>
+  <BorderLeicesterSheep.lifeStages.0.labelMalePlural>male border leicester lambs</BorderLeicesterSheep.lifeStages.0.labelMalePlural>
+  <BorderLeicesterSheep.lifeStages.0.labelFemale>female border leicester lamb</BorderLeicesterSheep.lifeStages.0.labelFemale>
+  <BorderLeicesterSheep.lifeStages.0.labelFemalePlural>female border leicester lambs</BorderLeicesterSheep.lifeStages.0.labelFemalePlural>
+  <BorderLeicesterSheep.lifeStages.1.label>border leicester ewe</BorderLeicesterSheep.lifeStages.1.label>
+  <BorderLeicesterSheep.lifeStages.1.labelPlural>border leicester sheep</BorderLeicesterSheep.lifeStages.1.labelPlural>
+  <BorderLeicesterSheep.lifeStages.1.labelMale>border leicester ram</BorderLeicesterSheep.lifeStages.1.labelMale>
+  <BorderLeicesterSheep.lifeStages.1.labelMalePlural>male border leicester ewes</BorderLeicesterSheep.lifeStages.1.labelMalePlural>
+  <BorderLeicesterSheep.lifeStages.1.labelFemale>female border leicester ewe</BorderLeicesterSheep.lifeStages.1.labelFemale>
+  <BorderLeicesterSheep.lifeStages.1.labelFemalePlural>female border leicester ewes</BorderLeicesterSheep.lifeStages.1.labelFemalePlural>
+  <BorderLeicesterSheep.lifeStages.2.label>border leicester ewe</BorderLeicesterSheep.lifeStages.2.label>
+  <BorderLeicesterSheep.lifeStages.2.labelPlural>border leicester sheep</BorderLeicesterSheep.lifeStages.2.labelPlural>
+  <BorderLeicesterSheep.lifeStages.2.labelMale>border leicester ram</BorderLeicesterSheep.lifeStages.2.labelMale>
+  <BorderLeicesterSheep.lifeStages.2.labelMalePlural>male border leicester ewes</BorderLeicesterSheep.lifeStages.2.labelMalePlural>
+  <BorderLeicesterSheep.lifeStages.2.labelFemale>female border leicester ewe</BorderLeicesterSheep.lifeStages.2.labelFemale>
+  <BorderLeicesterSheep.lifeStages.2.labelFemalePlural>female border leicester ewes</BorderLeicesterSheep.lifeStages.2.labelFemalePlural>
+  <BorderLeicesterSheep.labelMale>border leicester ram</BorderLeicesterSheep.labelMale>
+  <BorderLeicesterSheep.labelMalePlural>male border leicester sheep</BorderLeicesterSheep.labelMalePlural>
+  <BorderLeicesterSheep.labelFemale>female border leicester ewe</BorderLeicesterSheep.labelFemale>
+  <BorderLeicesterSheep.labelFemalePlural>female border leicester sheep</BorderLeicesterSheep.labelFemalePlural>
+</LanguageData>
