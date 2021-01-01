@@ -141,7 +141,7 @@
           <color>(255,255,255)</color>
         </bodyGraphicData>
         <femaleGraphicData>
-          <texPath>Animal/Sheep/Merino/Merino</texPath>
+          <texPath>Animal/Sheep/Merino/MerinoEwe</texPath>
           <drawSize>1.2</drawSize>
         </femaleGraphicData>
         <dessicatedBodyGraphicData>
@@ -164,7 +164,7 @@
           </shadowData>
         </bodyGraphicData>
         <femaleGraphicData>
-          <texPath>Animal/Sheep/Merino/Merino</texPath>
+          <texPath>Animal/Sheep/Merino/MerinoEwe</texPath>
           <drawSize>1.6</drawSize>
         </femaleGraphicData>
         <dessicatedBodyGraphicData>
