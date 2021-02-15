@@ -48,6 +48,78 @@
     </comps>
   </ThingDef>
   <ThingDef ParentName="EggFertBase">
+    <defName>EggCoralSnakeFertilized</defName>
+    <label>coral snake egg (fert.)</label>
+    <description>A fertilized coral snake egg. If all goes well, it should hatch into a baby coral snake. It can be eaten raw, but it's much better cooked.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggOval</texPath>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>40.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>4.5</hatcherDaystoHatch>
+        <hatcherPawn>CoralSnake</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>EggCottonmouthFertilized</defName>
+    <label>cottonmouth egg (fert.)</label>
+    <description>A fertilized cottonmouth egg. If all goes well, it should hatch into a baby cottonmouth. It can be eaten raw, but it's much better cooked.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggOval</texPath>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>40.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>4.5</hatcherDaystoHatch>
+        <hatcherPawn>Cottonmouth</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>EggMudSnakeFertilized</defName>
+    <label>mud snake egg (fert.)</label>
+    <description>A fertilized mud snake egg. If all goes well, it should hatch into a baby mud snake. It can be eaten raw, but it's much better cooked.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggOval</texPath>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>40.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>4.5</hatcherDaystoHatch>
+        <hatcherPawn>MudSnake</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>EggTimberRattlerFertilized</defName>
+    <label>timber rattler egg (fert.)</label>
+    <description>A fertilized timber rattler egg. If all goes well, it should hatch into a baby timber rattler. It can be eaten raw, but it's much better cooked.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggOval</texPath>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>40.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>4.5</hatcherDaystoHatch>
+        <hatcherPawn>TimberRattler</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
     <defName>EggCactusMantisFertilized</defName>
     <label>cactus mantis egg (fert.)</label>
     <description>A fertilized cactus mantis egg. If all goes well, it should hatch into a baby cactus mantis. It can be eaten raw, but it's much better cooked.</description>
