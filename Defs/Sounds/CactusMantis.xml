@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <SoundDef>
+    <defName>Pawn_CactusMantis_Call</defName>
+    <context>MapOnly</context>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>CactusMantisCall</clipFolderPath>
+          </li>
+        </grains>
+        <distRange>0~50</distRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+</Defs>
