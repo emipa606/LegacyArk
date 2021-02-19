@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalThingBase">
-    <defName>MudSnake</defName>
-    <label>mud snake</label>
-    <description>A small predatory snake. Mud snakes can be highly aggressive if provoked, but this one does not have any venom in its bite.</description>
+    <defName>RedRattler</defName>
+    <label>red rattler</label>
+    <description>A small predatory snake. Red rattlers can be highly aggressive if provoked, and their bite injects toxic venom into the victim.</description>
     <statBases>
       <MoveSpeed>3.0</MoveSpeed>
       <MarketValue>110</MarketValue>
@@ -13,9 +13,9 @@
     <uiIconScale>1.1</uiIconScale>
     <tools>
       <li>
-        <label>fangs</label>
+        <label>venom-fangs</label>
         <capacities>
-          <li>Bite</li>
+          <li>ToxicBite</li>
         </capacities>
         <power>8</power>
         <cooldownTime>2</cooldownTime>
@@ -43,7 +43,7 @@
     </tools>
     <comps>
       <li Class="CompProperties_EggLayer">
-        <eggFertilizedDef>EggMudSnakeFertilized</eggFertilizedDef>
+        <eggFertilizedDef>EggRedRattlerFertilized</eggFertilizedDef>
         <eggFertilizationCountMax>1</eggFertilizationCountMax>
         <eggLayIntervalDays>20.0</eggLayIntervalDays>
         <eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
@@ -62,7 +62,8 @@
       <useMeatFrom>Copperhead</useMeatFrom>
       <wildness>0.75</wildness>
       <wildBiomes>
-        <TemperateSwamp>1</TemperateSwamp>
+        <AridShrubland>1</AridShrubland>
+        <Desert>0.6</Desert>
       </wildBiomes>
       <petness>0.05</petness>
       <manhunterOnTameFailChance>0.10</manhunterOnTameFailChance>
@@ -97,15 +98,15 @@
     </tradeTags>
   </ThingDef>
   <PawnKindDef ParentName="AnimalKindBase">
-    <defName>MudSnake</defName>
-    <label>mud snake</label>
-    <race>MudSnake</race>
+    <defName>RedRattler</defName>
+    <label>red rattler</label>
+    <race>RedRattler</race>
     <combatPower>45</combatPower>
     <ecoSystemWeight>0.25</ecoSystemWeight>
     <lifeStages>
       <li>
         <bodyGraphicData>
-          <texPath>Animal/Critter/MudSnake/MudSnake</texPath>
+          <texPath>Animal/Critter/RedRattler/RedRattler</texPath>
           <drawSize>0.5</drawSize>
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
@@ -115,7 +116,7 @@
       </li>
       <li>
         <bodyGraphicData>
-          <texPath>Animal/Critter/MudSnake/MudSnake</texPath>
+          <texPath>Animal/Critter/RedRattler/RedRattler</texPath>
           <drawSize>0.9</drawSize>
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
@@ -125,7 +126,7 @@
       </li>
       <li>
         <bodyGraphicData>
-          <texPath>Animal/Critter/MudSnake/MudSnake</texPath>
+          <texPath>Animal/Critter/RedRattler/RedRattler</texPath>
           <drawSize>1.1</drawSize>
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
