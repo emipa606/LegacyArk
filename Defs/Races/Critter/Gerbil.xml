@@ -149,7 +149,7 @@
           <drawSize>0.3</drawSize>
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
-          <texPath>Things/Pawn/Animal/Critter/Capybara/Dessicated_Capybara</texPath>
+          <texPath>Things/Pawn/Animal/Capybara/Dessicated_Capybara</texPath>
           <drawSize>0.3</drawSize>
         </dessicatedBodyGraphicData>
       </li>
@@ -163,7 +163,7 @@
           </shadowData>
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
-          <texPath>Things/Pawn/Animal/Critter/Capybara/Dessicated_Capybara</texPath>
+          <texPath>Things/Pawn/Animal/Capybara/Dessicated_Capybara</texPath>
           <drawSize>0.5</drawSize>
         </dessicatedBodyGraphicData>
       </li>
@@ -177,7 +177,7 @@
           </shadowData>
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
-          <texPath>Things/Pawn/Animal/Critter/Capybara/Dessicated_Capybara</texPath>
+          <texPath>Things/Pawn/Animal/Capybara/Dessicated_Capybara</texPath>
           <drawSize>0.7</drawSize>
         </dessicatedBodyGraphicData>
       </li>
