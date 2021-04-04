@@ -60,7 +60,7 @@
       <baseHungerRate>0.40</baseHungerRate>
       <foodType>VegetarianRoughAnimal</foodType>
       <leatherDef>Leather_Plain</leatherDef>
-      <meatLabel>venison</meatLabel>
+      <useMeatFrom>Deer</useMeatFrom>
       <wildness>0.75</wildness>
       <wildBiomes>
         <TemperateForest>0.5</TemperateForest>

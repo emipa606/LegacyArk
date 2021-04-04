@@ -59,7 +59,7 @@
       <baseHealthScale>0.5</baseHealthScale>
       <foodType>CarnivoreAnimal, OvivoreAnimal</foodType>
       <leatherDef>Leather_Lizard</leatherDef>
-      <meatLabel>snake meat</meatLabel>
+      <useMeatFrom>Copperhead</useMeatFrom>
       <wildness>0.75</wildness>
       <wildBiomes>
         <BorealForest>1</BorealForest>

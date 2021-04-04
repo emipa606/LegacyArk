@@ -71,7 +71,6 @@
       <foodType>VegetarianRoughAnimal</foodType>
       <leatherDef>Leather_Plain</leatherDef>
       <trainability>Simple</trainability>
-      <meatLabel>beef</meatLabel>
       <useMeatFrom>Cow</useMeatFrom>
       <wildness>0.3</wildness>
       <petness>0.05</petness>

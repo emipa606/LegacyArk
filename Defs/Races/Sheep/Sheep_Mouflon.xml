@@ -79,6 +79,7 @@
       <baseHealthScale>1.0</baseHealthScale>
       <foodType>VegetarianRoughAnimal</foodType>
       <leatherDef>Leather_Plain</leatherDef>
+      <useMeatFrom>Sheep</useMeatFrom>
       <trainability>Simple</trainability>
       <wildness>0.45</wildness>
       <wildBiomes>

@@ -15,6 +15,7 @@
       <baseHealthScale>0.6</baseHealthScale>
       <baseHungerRate>0.50</baseHungerRate>
       <foodType>VegetarianRoughAnimal</foodType>
+      <useMeatFrom>Turkey</useMeatFrom>
       <wildness>0.45</wildness>
       <trainability>None</trainability>
       <wildBiomes>
