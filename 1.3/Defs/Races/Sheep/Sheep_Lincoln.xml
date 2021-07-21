@@ -1,56 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- Animal Base -->
-  <ThingDef ParentName="AnimalThingBase">
+  <ThingDef ParentName="ArkSheepBase">
     <defName>LincolnSheep</defName>
     <label>lincoln sheep</label>
     <description>The Lincoln is a breed of sheep from the England known for their cold tolerance and long heavy wool.</description>
     <statBases>
-      <MoveSpeed>3.8</MoveSpeed>
       <ComfyTemperatureMin>-75</ComfyTemperatureMin>
-      <MarketValue>250</MarketValue>
     </statBases>
-    <tools>
-      <li>
-        <label>head</label>
-        <capacities>
-          <li>Blunt</li>
-        </capacities>
-        <power>14</power>
-        <cooldownTime>2.9</cooldownTime>
-        <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
-        <ensureLinkedBodyPartsGroupAlwaysUsable>true</ensureLinkedBodyPartsGroupAlwaysUsable>
-      </li>
-      <li>
-        <label>left hoof</label>
-        <capacities>
-          <li>Blunt</li>
-          <li>Poke</li>
-        </capacities>
-        <power>6</power>
-        <cooldownTime>2</cooldownTime>
-        <linkedBodyPartsGroup>FrontLeftLeg</linkedBodyPartsGroup>
-      </li>
-      <li>
-        <label>right hoof</label>
-        <capacities>
-          <li>Blunt</li>
-          <li>Poke</li>
-        </capacities>
-        <power>6</power>
-        <cooldownTime>2</cooldownTime>
-        <linkedBodyPartsGroup>FrontRightLeg</linkedBodyPartsGroup>
-      </li>
-      <li>
-        <capacities>
-          <li>Bite</li>
-        </capacities>
-        <power>8</power>
-        <cooldownTime>2</cooldownTime>
-        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
-        <chanceFactor>0.5</chanceFactor>
-      </li>
-    </tools>
     <comps>
       <li Class="CompProperties_Shearable">
         <woolDef>WoolSheep</woolDef>
@@ -59,64 +16,15 @@
       </li>
     </comps>
     <race>
-      <body>QuadrupedAnimalWithHooves</body>
-      <herdAnimal>true</herdAnimal>
-      <packAnimal>false</packAnimal>
-      <baseBodySize>1.0</baseBodySize>
-      <baseHungerRate>0.5</baseHungerRate>
-      <baseHealthScale>1.0</baseHealthScale>
-      <foodType>VegetarianRoughAnimal</foodType>
-      <leatherDef>Leather_Plain</leatherDef>
-      <useMeatFrom>Sheep</useMeatFrom>
-      <trainability>Intermediate</trainability>
       <wildness>0.05</wildness>
       <petness>0.10</petness>
-      <nuzzleMtbHours>120</nuzzleMtbHours>
-      <gestationPeriodDays>25</gestationPeriodDays>
-      <litterSizeCurve>
-        <points>
-          <li>(0.5, 0)</li>
-          <li>(1, 0.85)</li>
-          <li>(2, 0.15)</li>
-          <li>(2.5, 0)</li>
-        </points>
-      </litterSizeCurve>
-      <lifeExpectancy>10</lifeExpectancy>
-      <lifeStageAges>
-        <li>
-          <def>AnimalBaby</def>
-          <minAge>0</minAge>
-        </li>
-        <li>
-          <def>AnimalJuvenile</def>
-          <minAge>0.25</minAge>
-        </li>
-        <li>
-          <def>AnimalAdult</def>
-          <minAge>0.8</minAge>
-          <soundWounded>Pawn_Elk_Wounded</soundWounded>
-          <soundDeath>Pawn_Elk_Death</soundDeath>
-          <soundCall>Pawn_Elk_Call</soundCall>
-          <soundAngry>Pawn_Elk_Angry</soundAngry>
-        </li>
-      </lifeStageAges>
-      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
-      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
-      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
     </race>
-    <tradeTags>
-      <li>AnimalCommon</li>
-      <li>AnimalFarm</li>
-      <li>LA_Livestock</li>
-    </tradeTags>
   </ThingDef>
   <!-- Animal Textures -->
-  <PawnKindDef ParentName="AnimalKindBase">
+  <PawnKindDef ParentName="ArkSheepPawnBase">
     <defName>LincolnSheep</defName>
     <labelPlural>lincoln sheep</labelPlural>
     <race>LincolnSheep</race>
-    <combatPower>35</combatPower>
-    <ecoSystemWeight>0.6</ecoSystemWeight>
     <wildGroupSize>3~9</wildGroupSize>
     <labelMale>lincoln ram</labelMale>
     <label>lincoln ewe</label>

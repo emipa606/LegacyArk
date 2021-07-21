@@ -1,14 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <ThingDef ParentName="AnimalThingBase">
+  <ThingDef ParentName="ArkCowBase">
     <defName>HighlandCow</defName>
     <label>highland cow</label>
     <description>Highland cattle have long horns and wavy coats of fur. They are very hardy breed of cattle and adapt at living in harsh environments. Highlands are primarily bred for their high quality milk.</description>
     <statBases>
-      <MoveSpeed>3.1</MoveSpeed>
       <ComfyTemperatureMin>-35</ComfyTemperatureMin>
-      <MarketValue>350</MarketValue>
-      <Mass>500</Mass>
     </statBases>
     <comps>
       <li Class="CompProperties_Milkable">
@@ -17,107 +14,16 @@
         <milkAmount>18</milkAmount>
       </li>
     </comps>
-    <tools>
-      <li>
-        <capacities>
-          <li>Bite</li>
-        </capacities>
-        <power>8.8</power>
-        <cooldownTime>2.6</cooldownTime>
-        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
-        <chanceFactor>0.7</chanceFactor>
-      </li>
-      <li>
-        <label>head</label>
-        <capacities>
-          <li>Blunt</li>
-        </capacities>
-        <power>7</power>
-        <cooldownTime>2</cooldownTime>
-        <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
-        <ensureLinkedBodyPartsGroupAlwaysUsable>true</ensureLinkedBodyPartsGroupAlwaysUsable>
-        <chanceFactor>0.2</chanceFactor>
-      </li>
-      <li>
-        <label>left hoof</label>
-        <capacities>
-          <li>Blunt</li>
-          <li>Poke</li>
-        </capacities>
-        <power>8</power>
-        <cooldownTime>2</cooldownTime>
-        <linkedBodyPartsGroup>FrontLeftLeg</linkedBodyPartsGroup>
-      </li>
-      <li>
-        <label>right hoof</label>
-        <capacities>
-          <li>Blunt</li>
-          <li>Poke</li>
-        </capacities>
-        <power>8</power>
-        <cooldownTime>2</cooldownTime>
-        <linkedBodyPartsGroup>FrontRightLeg</linkedBodyPartsGroup>
-      </li>
-    </tools>
     <race>
-      <body>QuadrupedAnimalWithHooves</body>
-      <herdAnimal>true</herdAnimal>
-      <packAnimal>false</packAnimal>
-      <baseBodySize>1.8</baseBodySize>
-      <baseHungerRate>0.9</baseHungerRate>
-      <baseHealthScale>1.5</baseHealthScale>
-      <foodType>VegetarianRoughAnimal</foodType>
-      <leatherDef>Leather_Plain</leatherDef>
-      <trainability>None</trainability>
-      <useMeatFrom>Cow</useMeatFrom>
       <wildness>0.15</wildness>
       <petness>0.05</petness>
-      <nuzzleMtbHours>120</nuzzleMtbHours>
-      <gestationPeriodDays>20</gestationPeriodDays>
-      <manhunterOnDamageChance>0</manhunterOnDamageChance>
-      <manhunterOnTameFailChance>0</manhunterOnTameFailChance>
-      <litterSizeCurve>
-        <points>
-          <li>(0.5, 0)</li>
-          <li>(1, 0.85)</li>
-          <li>(2, 0.15)</li>
-          <li>(2.5, 0)</li>
-        </points>
-      </litterSizeCurve>
-      <lifeExpectancy>20</lifeExpectancy>
-      <lifeStageAges>
-        <li>
-          <def>AnimalBaby</def>
-          <minAge>0</minAge>
-        </li>
-        <li>
-          <def>AnimalJuvenile</def>
-          <minAge>0.2</minAge>
-        </li>
-        <li>
-          <def>AnimalAdult</def>
-          <minAge>0.45</minAge>
-          <soundWounded>Pawn_Muffalo_Wounded</soundWounded>
-          <soundDeath>Pawn_Muffalo_Death</soundDeath>
-          <soundCall>Pawn_Muffalo_Call</soundCall>
-          <soundAngry>Pawn_Muffalo_Angry</soundAngry>
-        </li>
-      </lifeStageAges>
-      <soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn>
-      <soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
-      <soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
+      <useMeatFrom>Cow</useMeatFrom>
     </race>
-    <tradeTags>
-      <li>AnimalCommon</li>
-      <li>AnimalFarm</li>
-    </tradeTags>
   </ThingDef>
   <!-- Animal Textures -->
-  <PawnKindDef ParentName="AnimalKindBase">
+  <PawnKindDef ParentName="ArkCowPawnBase">
     <defName>HighlandCow</defName>
     <race>HighlandCow</race>
-    <combatPower>55</combatPower>
-    <ecoSystemWeight>0.5</ecoSystemWeight>
     <labelMale>highland bull</labelMale>
     <label>highland cow</label>
     <lifeStages>

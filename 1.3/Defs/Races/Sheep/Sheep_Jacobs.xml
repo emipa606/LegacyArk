@@ -1,15 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- Animal Base -->
-  <ThingDef ParentName="AnimalThingBase">
+  <ThingDef ParentName="ArkSheepBase">
     <defName>JacobsSheep</defName>
     <label>jacobs sheep</label>
     <description>The Jacob is a breed of sheep from the England known for their four horns.</description>
     <statBases>
-      <MoveSpeed>3.8</MoveSpeed>
       <ComfyTemperatureMin>-55</ComfyTemperatureMin>
       <ComfyTemperatureMax>45</ComfyTemperatureMax>
-      <MarketValue>250</MarketValue>
     </statBases>
     <tools>
       <li>
@@ -72,62 +70,19 @@
     </comps>
     <race>
       <body>QuadrupedAnimalWithHoovesAndFourHorns</body>
-      <herdAnimal>true</herdAnimal>
-      <packAnimal>false</packAnimal>
-      <baseBodySize>1.0</baseBodySize>
-      <baseHungerRate>0.5</baseHungerRate>
-      <baseHealthScale>1.0</baseHealthScale>
-      <foodType>VegetarianRoughAnimal</foodType>
-      <leatherDef>Leather_Plain</leatherDef>
-      <useMeatFrom>Sheep</useMeatFrom>
-      <trainability>Intermediate</trainability>
       <wildness>0.50</wildness>
       <wildBiomes>
         <Desert>0.6</Desert>
         <AridShrubland>1</AridShrubland>
       </wildBiomes>
       <petness>0.10</petness>
-      <nuzzleMtbHours>120</nuzzleMtbHours>
-      <gestationPeriodDays>25</gestationPeriodDays>
-      <litterSizeCurve>
-        <points>
-          <li>(0.5, 0)</li>
-          <li>(1, 0.85)</li>
-          <li>(2, 0.15)</li>
-          <li>(2.5, 0)</li>
-        </points>
-      </litterSizeCurve>
-      <lifeExpectancy>10</lifeExpectancy>
-      <lifeStageAges>
-        <li>
-          <def>AnimalBaby</def>
-          <minAge>0</minAge>
-        </li>
-        <li>
-          <def>AnimalJuvenile</def>
-          <minAge>0.25</minAge>
-        </li>
-        <li>
-          <def>AnimalAdult</def>
-          <minAge>0.8</minAge>
-          <soundWounded>Pawn_Elk_Wounded</soundWounded>
-          <soundDeath>Pawn_Elk_Death</soundDeath>
-          <soundCall>Pawn_Elk_Call</soundCall>
-          <soundAngry>Pawn_Elk_Angry</soundAngry>
-        </li>
-      </lifeStageAges>
-      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
-      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
-      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
     </race>
   </ThingDef>
   <!-- Animal Textures -->
-  <PawnKindDef ParentName="AnimalKindBase">
+  <PawnKindDef ParentName="ArkSheepPawnBase">
     <defName>JacobsSheep</defName>
     <labelPlural>jacobs sheep</labelPlural>
     <race>JacobsSheep</race>
-    <combatPower>35</combatPower>
-    <ecoSystemWeight>0.6</ecoSystemWeight>
     <wildGroupSize>3~9</wildGroupSize>
     <labelMale>jacobs ram</labelMale>
     <label>jacobs ewe</label>
