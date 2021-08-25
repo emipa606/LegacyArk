@@ -1,5 +1,8 @@
 # Changelog for LegacyArk
 
+1.0.24.0 - Added Muskrat and Nutria
+
+
 1.0.23.0 - Updated the cows and sheep to be recognized as pen-animals correctly
 
 
