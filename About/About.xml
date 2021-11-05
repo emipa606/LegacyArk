@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Legacy Ark</name>
   <packageId>Mlie.LegacyArk</packageId>
@@ -15,8 +15,10 @@
     <li>dismarzero.VGP.VGPGardenGourmet</li>
     <li>Crustypeanut.RC2.MaME</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
   
+For a full description see the [url= https://rimworld-bestiary.fandom.com/wiki/Legacy_Ark]Wiki[/url]
+
 Deep in rimspace, a science vessel was recently discovered. An ark vault containing thousands upon thousands of tissue samples from earth that was. Now that glitterworld bioengineers have gotten their hands on them, old earth species are once again seeding far off words.
 
 So far they have reanimated a lot of cattle and sheep, more sheep are yet to come. A badger and a gerbil has also been sighted as well as some sort of bird. These animals can be bought of traders although some has spread to the wild in some areas. Snakes and some sort of prickly mantis seem to be showing up as well.
@@ -37,7 +39,7 @@ The rest is found in the AnimalCollabProj-mod
     [/tr]
 [/table]
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -46,6 +48,5 @@ The rest is found in the AnimalCollabProj-mod
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [/list]
-
 </description>
 </ModMetaData>

@@ -209,4 +209,43 @@
       </li>
     </comps>
   </ThingDef>
+  <!-- Tortoise -->
+  <ThingDef ParentName="EggFertBase">
+    <defName>EggLeopardTortoiseFertilized</defName>
+    <label>leopard tortoise egg (fert.)</label>
+    <description>A fertilized leopard tortoise egg. If all goes well, it should hatch into a baby leopard tortoise. It can be eaten raw, but it's much better cooked.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+      <color>(225,245,225)</color>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>23.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>3.5</hatcherDaystoHatch>
+        <hatcherPawn>LeopardTortoise</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>EggRedFootedTortoiseFertilized</defName>
+    <label>red-footed tortoise egg (fert.)</label>
+    <description>A fertilized red-footed tortoise egg. If all goes well, it should hatch into a baby red-footed tortoise. It can be eaten raw, but it's much better cooked.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+      <color>(245,225,225)</color>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>23.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>3.5</hatcherDaystoHatch>
+        <hatcherPawn>RedFootedTortoise</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
 </Defs>

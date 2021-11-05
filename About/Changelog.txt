@@ -1,5 +1,8 @@
 # Changelog for LegacyArk
 
+1.0.25.0 - Added two Tortoise: Leopard Tortoise and Red Footed Tortoise
+
+
 1.0.24.0 - Added Muskrat and Nutria
 
 

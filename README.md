@@ -1,8 +1,10 @@
 # LegacyArk
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
   
+For a full description see the  https://rimworld-bestiary.fandom.com/wiki/Legacy_Ark]Wiki
+
 Deep in rimspace, a science vessel was recently discovered. An ark vault containing thousands upon thousands of tissue samples from earth that was. Now that glitterworld bioengineers have gotten their hands on them, old earth species are once again seeding far off words.
 
 So far they have reanimated a lot of cattle and sheep, more sheep are yet to come. A badger and a gerbil has also been sighted as well as some sort of bird. These animals can be bought of traders although some has spread to the wild in some areas. Snakes and some sort of prickly mantis seem to be showing up as well.
@@ -16,16 +18,7 @@ The animals saved from that version is
 - Highland Cow
 The rest is found in the AnimalCollabProj-mod
 
-[table]
-    [tr]
-        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-        [td]https://github.com/emipa606/LegacyArk]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-    [/tr]
-[/table]
-
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -35,7 +28,6 @@ The rest is found in the AnimalCollabProj-mod
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
-
 
 
 
