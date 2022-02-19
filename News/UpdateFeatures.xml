@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <HugsLib.UpdateFeatureDef Abstract="true" Name="UpdateFeatureBase">
+  <HugsLib.UpdateFeatureDef Abstract="true" Name="LegacyArk_UpdateFeatureBase">
     <modNameReadable>LegacyArk</modNameReadable>
     <linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2070686241</linkUrl>
   </HugsLib.UpdateFeatureDef>
-  <HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+  <HugsLib.UpdateFeatureDef ParentName="LegacyArk_UpdateFeatureBase">
     <defName>LegacyArk_1_0_9_0</defName>
     <assemblyVersion>1.0.9.0</assemblyVersion>
     <content>This version adds a lot of Cattle as well as a Badger, a Gerbil and a Turkey. Most of the cattle can only be bought by traders. 
@@ -12,7 +12,7 @@
 The mod will continue to grow and the next up is different types of sheep. For a list of the different cattle and their stats please see the mod-page for more information.
 </content>
   </HugsLib.UpdateFeatureDef>
-  <HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+  <HugsLib.UpdateFeatureDef ParentName="LegacyArk_UpdateFeatureBase">
     <defName>LegacyArk_1_0_12_0</defName>
     <assemblyVersion>1.0.12.0</assemblyVersion>
     <content>This version brings 8 new types of sheep: Assaf, Awassi, Bighorn, Border Leicester, Jacobs, Lincoln, Mouflon and Suffolk.
