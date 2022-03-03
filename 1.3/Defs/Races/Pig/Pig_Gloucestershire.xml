@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ArkPigBase">
+    <defName>GloucestershirePig</defName>
+    <label>gloucestershire pig</label>
+    <description>The Gloucestershire is a breed of pig from the UK known for their spotted pattern and large size.</description>
+    <statBases>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <race>
+      <baseBodySize>2</baseBodySize>
+      <baseHealthScale>1</baseHealthScale>
+      <baseHungerRate>0.70</baseHungerRate>
+    </race>
+  </ThingDef>
+  <!-- Animal Textures -->
+  <PawnKindDef ParentName="ArkPigPawnBase">
+    <defName>GloucestershirePig</defName>
+    <race>GloucestershirePig</race>
+    <labelFemale>gloucestershire sow</labelFemale>
+    <label>gloucestershire pig</label>
+    <lifeStages>
+      <li>
+        <label>gloucestershire piglet</label>
+        <labelPlural>gloucestershire piglets</labelPlural>
+        <bodyGraphicData>
+          <texPath>Animal/Pig/Gloucestershire/GloucestershirePig</texPath>
+          <drawSize>0.7</drawSize>
+          <color>(255,255,255)</color>
+          <shaderType>CutoutSkin</shaderType>
+          <shadowData>
+            <volume>(0.25, 0.25, 0.25)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>0.7</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Pig/Gloucestershire/GloucestershirePig</texPath>
+          <drawSize>1.3</drawSize>
+          <color>(255,255,255)</color>
+          <shaderType>CutoutSkin</shaderType>
+          <shadowData>
+            <volume>(0.25, 0.25, 0.25)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>1.3</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Pig/Gloucestershire/GloucestershirePig</texPath>
+          <drawSize>2</drawSize>
+          <color>(255,255,255)</color>
+          <shaderType>CutoutSkin</shaderType>
+          <shadowData>
+            <volume>(0.375, 0.375, 0.375)</volume>
+            <offset>(0,0,0)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>2</drawSize>
+        </dessicatedBodyGraphicData>
+        <femaleDessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>2</drawSize>
+        </femaleDessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>
