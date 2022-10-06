@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ArkCowBase">
+    <defName>HarianaCow</defName>
+    <label>hariana cow</label>
+    <description>The Hariana is a breed of zebuine cattle from North India known for their heat tolerance.</description>
+    <statBases>
+      <ComfyTemperatureMin>-10</ComfyTemperatureMin>
+      <ComfyTemperatureMax>60</ComfyTemperatureMax>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Milkable">
+        <milkDef>Milk</milkDef>
+        <milkIntervalDays>1</milkIntervalDays>
+        <milkAmount>18</milkAmount>
+      </li>
+    </comps>
+    <race>
+      <packAnimal>true</packAnimal>
+      <wildness>0.1</wildness>
+      <petness>0.05</petness>
+      <useMeatFrom>Cow</useMeatFrom>
+    </race>
+  </ThingDef>
+  <!-- Animal Textures -->
+  <PawnKindDef ParentName="ArkCowPawnBase">
+    <defName>HarianaCow</defName>
+    <race>HarianaCow</race>
+    <labelMale>hariana bull</labelMale>
+    <label>hariana cow</label>
+    <lifeStages>
+      <li>
+        <label>hariana calf</label>
+        <labelPlural>hariana calves</labelPlural>
+        <bodyGraphicData>
+          <texPath>Animal/Cow/Hariana/HarianaCalf</texPath>
+          <drawSize>1.3</drawSize>
+          <color>(255,255,255)</color>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Cow/Dessicated_Bull</texPath>
+          <drawSize>1.3</drawSize>
+        </dessicatedBodyGraphicData>
+        <femaleDessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Cow/Dessicated_Cow</texPath>
+          <drawSize>1.25</drawSize>
+        </femaleDessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Cow/Hariana/HarianaBull</texPath>
+          <drawSize>2.15</drawSize>
+          <color>(255,255,255)</color>
+        </bodyGraphicData>
+        <femaleGraphicData>
+          <texPath>Animal/Cow/Hariana/HarianaCow</texPath>
+          <drawSize>2.0</drawSize>
+        </femaleGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Cow/Dessicated_Bull</texPath>
+          <drawSize>2.15</drawSize>
+        </dessicatedBodyGraphicData>
+        <femaleDessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Cow/Dessicated_Cow</texPath>
+          <drawSize>2.0</drawSize>
+        </femaleDessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Cow/Hariana/HarianaBull</texPath>
+          <drawSize>2.7</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.4, 0.3)</volume>
+            <offset>(0,0,-0.05)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <femaleGraphicData>
+          <texPath>Animal/Cow/Hariana/HarianaCow</texPath>
+          <drawSize>2.6</drawSize>
+        </femaleGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Cow/Dessicated_Bull</texPath>
+          <drawSize>2.7</drawSize>
+        </dessicatedBodyGraphicData>
+        <femaleDessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Cow/Dessicated_Cow</texPath>
+          <drawSize>2.6</drawSize>
+        </femaleDessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Animal Base -->
+  <ThingDef ParentName="ArkSheepBase">
+    <defName>AssafSheep</defName>
+    <label>assaf sheep</label>
+    <description>The Assaf is a breed of sheep from Israel known for their milk and floppy ears.</description>
+    <statBases>
+      <ComfyTemperatureMin>-55</ComfyTemperatureMin>
+      <ComfyTemperatureMax>45</ComfyTemperatureMax>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Shearable">
+        <woolDef>WoolSheep</woolDef>
+        <shearIntervalDays>10</shearIntervalDays>
+        <woolAmount>45</woolAmount>
+      </li>
+      <li Class="CompProperties_Milkable">
+        <milkDef>Milk</milkDef>
+        <milkIntervalDays>2</milkIntervalDays>
+        <milkAmount>18</milkAmount>
+      </li>
+    </comps>
+    <race>
+      <wildness>0.05</wildness>
+      <petness>0.10</petness>
+    </race>
+  </ThingDef>
+  <!-- Animal Textures -->
+  <PawnKindDef ParentName="ArkSheepPawnBase">
+    <defName>AssafSheep</defName>
+    <labelPlural>assaf sheep</labelPlural>
+    <race>AssafSheep</race>
+    <wildGroupSize>3~9</wildGroupSize>
+    <labelMale>assaf ram</labelMale>
+    <label>assaf ewe</label>
+    <lifeStages>
+      <li>
+        <label>assaf lamb</label>
+        <labelPlural>assaf lambs</labelPlural>
+        <bodyGraphicData>
+          <texPath>Animal/Sheep/Assaf/Assaf</texPath>
+          <drawSize>1.0</drawSize>
+          <color>(190,140,50)</color>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Sheep/Dessicated_SheepFemale</texPath>
+          <drawSize>1.2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Sheep/Assaf/Assaf</texPath>
+          <drawSize>1.4</drawSize>
+          <color>(255,255,255)</color>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Sheep/Dessicated_SheepFemale</texPath>
+          <drawSize>1.30</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Sheep/Assaf/Assaf</texPath>
+          <drawSize>1.8</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.4, 0.3)</volume>
+            <offset>(0,0,-0.05)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Sheep/Dessicated_SheepFemale</texPath>
+          <drawSize>1.75</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

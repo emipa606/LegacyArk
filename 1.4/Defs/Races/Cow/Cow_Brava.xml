@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ArkCowBase">
+    <defName>BravaCow</defName>
+    <label>brava cow</label>
+    <description>The Brava is a breed of beef cattle from Scottland known for their superior quality meat.</description>
+    <statBases>
+      <ComfyTemperatureMin>-10</ComfyTemperatureMin>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Milkable">
+        <milkDef>Milk</milkDef>
+        <milkIntervalDays>1</milkIntervalDays>
+        <milkAmount>18</milkAmount>
+      </li>
+    </comps>
+    <race>
+      <trainability>Intermediate</trainability>
+      <wildness>0.15</wildness>
+      <petness>0.05</petness>
+      <useMeatFrom>Cow</useMeatFrom>
+    </race>
+  </ThingDef>
+  <!-- Animal Textures -->
+  <PawnKindDef ParentName="ArkCowPawnBase">
+    <defName>BravaCow</defName>
+    <race>BravaCow</race>
+    <labelMale>brava bull</labelMale>
+    <label>brava cow</label>
+    <lifeStages>
+      <li>
+        <label>brava calf</label>
+        <labelPlural>brava calves</labelPlural>
+        <bodyGraphicData>
+          <texPath>Animal/Cow/Brava/BravaCalf</texPath>
+          <drawSize>1.3</drawSize>
+          <color>(255,255,255)</color>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Cow/Dessicated_Bull</texPath>
+          <drawSize>1.3</drawSize>
+        </dessicatedBodyGraphicData>
+        <femaleDessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Cow/Dessicated_Cow</texPath>
+          <drawSize>1.25</drawSize>
+        </femaleDessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Cow/Brava/BravaBull</texPath>
+          <drawSize>2.15</drawSize>
+          <color>(255,255,255)</color>
+        </bodyGraphicData>
+        <femaleGraphicData>
+          <texPath>Animal/Cow/Brava/BravaCow</texPath>
+          <drawSize>2.0</drawSize>
+        </femaleGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Cow/Dessicated_Bull</texPath>
+          <drawSize>2.15</drawSize>
+        </dessicatedBodyGraphicData>
+        <femaleDessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Cow/Dessicated_Cow</texPath>
+          <drawSize>2.0</drawSize>
+        </femaleDessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Cow/Brava/BravaBull</texPath>
+          <drawSize>2.7</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.4, 0.3)</volume>
+            <offset>(0,0,-0.05)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <femaleGraphicData>
+          <texPath>Animal/Cow/Brava/BravaCow</texPath>
+          <drawSize>2.6</drawSize>
+        </femaleGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Cow/Dessicated_Bull</texPath>
+          <drawSize>2.7</drawSize>
+        </dessicatedBodyGraphicData>
+        <femaleDessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Cow/Dessicated_Cow</texPath>
+          <drawSize>2.6</drawSize>
+        </femaleDessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

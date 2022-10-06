@@ -10,6 +10,7 @@ Deep in rimspace, a science vessel was recently discovered. An ark vault contain
 So far they have reanimated a lot of cattle and sheep and pigs, more are yet to come. A badger and a gerbil has also been sighted as well as some sort of bird. These animals can be bought of traders although some has spread to the wild in some areas. Snakes and some sort of prickly mantis seem to be showing up as well.
 
 Snakes venom glands can be harvested if using https://steamcommunity.com/sharedfiles/filedetails/?id=1430501911]Infectious Creatures
+Sheep drop sheepskin if using https://steamcommunity.com/sharedfiles/filedetails/?id=2746519764]Sheepskin
 
 Continuation of lindseyries mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=857283007
@@ -28,6 +29,7 @@ The rest is found in the AnimalCollabProj-mod
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 

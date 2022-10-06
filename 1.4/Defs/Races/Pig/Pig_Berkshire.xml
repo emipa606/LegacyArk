@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ArkPigBase">
+    <defName>BerkshirePig</defName>
+    <label>berkshire pig</label>
+    <description>The Berkshire is a breed of pig from the UK known for their black coats and quality meat.</description>
+    <statBases>
+      <ComfyTemperatureMin>-10</ComfyTemperatureMin>
+    </statBases>
+    <race>
+      <meatLabel>quality pork</meatLabel>
+    </race>
+  </ThingDef>
+  <!-- Animal Textures -->
+  <PawnKindDef ParentName="ArkPigPawnBase">
+    <defName>BerkshirePig</defName>
+    <race>BerkshirePig</race>
+    <labelFemale>berkshire sow</labelFemale>
+    <label>berkshire pig</label>
+    <lifeStages>
+      <li>
+        <label>berkshire piglet</label>
+        <labelPlural>berkshire piglets</labelPlural>
+        <bodyGraphicData>
+          <texPath>Animal/Pig/Berkshire/BerkshirePig</texPath>
+          <drawSize>0.6</drawSize>
+          <color>(255,255,255)</color>
+          <shaderType>CutoutSkin</shaderType>
+          <shadowData>
+            <volume>(0.25, 0.25, 0.25)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>0.6</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Pig/Berkshire/BerkshirePig</texPath>
+          <drawSize>1.15</drawSize>
+          <color>(255,255,255)</color>
+          <shaderType>CutoutSkin</shaderType>
+          <shadowData>
+            <volume>(0.25, 0.25, 0.25)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>1.15</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Pig/Berkshire/BerkshirePig</texPath>
+          <drawSize>1.6</drawSize>
+          <color>(255,255,255)</color>
+          <shaderType>CutoutSkin</shaderType>
+          <shadowData>
+            <volume>(0.375, 0.375, 0.375)</volume>
+            <offset>(0,0,0)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>1.6</drawSize>
+        </dessicatedBodyGraphicData>
+        <femaleDessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>1.6</drawSize>
+        </femaleDessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

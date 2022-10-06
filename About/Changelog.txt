@@ -1,5 +1,8 @@
 # Changelog for LegacyArk
 
+1.4.1 - Mod updated for 1.4 and passed autotests
+
+
 1.3.3 - All sheep now drop sheepskin if the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2746519764]Sheepskin[/url] mod is loaded
 
 

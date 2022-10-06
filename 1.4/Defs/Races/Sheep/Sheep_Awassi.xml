@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Animal Base -->
+  <ThingDef ParentName="ArkSheepBase">
+    <defName>AwassiSheep</defName>
+    <label>awassi sheep</label>
+    <description>The Awassi is a breed of sheep from the Middle East known for their heat tolerance and milk.</description>
+    <statBases>
+      <ComfyTemperatureMin>-10</ComfyTemperatureMin>
+      <ComfyTemperatureMax>60</ComfyTemperatureMax>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Shearable">
+        <woolDef>WoolSheep</woolDef>
+        <shearIntervalDays>10</shearIntervalDays>
+        <woolAmount>45</woolAmount>
+      </li>
+      <li Class="CompProperties_Milkable">
+        <milkDef>Milk</milkDef>
+        <milkIntervalDays>2</milkIntervalDays>
+        <milkAmount>18</milkAmount>
+      </li>
+    </comps>
+    <race>
+      <wildness>0.45</wildness>
+      <petness>0.10</petness>
+    </race>
+  </ThingDef>
+  <!-- Animal Textures -->
+  <PawnKindDef ParentName="ArkSheepPawnBase">
+    <defName>AwassiSheep</defName>
+    <labelPlural>awassi sheep</labelPlural>
+    <race>AwassiSheep</race>
+    <wildGroupSize>3~9</wildGroupSize>
+    <labelMale>awassi ram</labelMale>
+    <label>awassi ewe</label>
+    <lifeStages>
+      <li>
+        <label>awassi lamb</label>
+        <labelPlural>awassi lambs</labelPlural>
+        <bodyGraphicData>
+          <texPath>Animal/Sheep/Awassi/AwassiLamb</texPath>
+          <drawSize>1.0</drawSize>
+          <color>(190,140,50)</color>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Sheep/Dessicated_SheepFemale</texPath>
+          <drawSize>1.2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Sheep/Awassi/AwassiRam</texPath>
+          <drawSize>1.4</drawSize>
+          <color>(255,255,255)</color>
+        </bodyGraphicData>
+        <femaleGraphicData>
+          <texPath>Animal/Sheep/Awassi/AwassiEwe</texPath>
+          <drawSize>1.2</drawSize>
+        </femaleGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Sheep/Dessicated_SheepMale</texPath>
+          <drawSize>1.30</drawSize>
+        </dessicatedBodyGraphicData>
+        <femaleDessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Sheep/Dessicated_SheepFemale</texPath>
+          <drawSize>1.30</drawSize>
+        </femaleDessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Sheep/Awassi/AwassiRam</texPath>
+          <drawSize>1.8</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.4, 0.3)</volume>
+            <offset>(0,0,-0.05)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <femaleGraphicData>
+          <texPath>Animal/Sheep/Awassi/AwassiEwe</texPath>
+          <drawSize>1.6</drawSize>
+        </femaleGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Sheep/Dessicated_SheepMale</texPath>
+          <drawSize>1.75</drawSize>
+        </dessicatedBodyGraphicData>
+        <femaleDessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Sheep/Dessicated_SheepFemale</texPath>
+          <drawSize>1.70</drawSize>
+        </femaleDessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>
