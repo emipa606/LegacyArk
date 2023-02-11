@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/RecipeDef/ingredients/li/filter/thingDefs/li[text()="Milk"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationInsert">
+      <xpath>/Defs/RecipeDef/ingredients/li/filter/thingDefs/li[text()="Milk"]</xpath>
+      <value>
+        <li>RichMilk</li>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/RecipeDef/fixedIngredientFilter/thingDefs/li[text()="Milk"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationInsert">
+      <xpath>/Defs/RecipeDef/fixedIngredientFilter/thingDefs/li[text()="Milk"]</xpath>
+      <value>
+        <li>RichMilk</li>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/RecipeDef/ingredients/li/filter/thingDefs/li[text()="Milk"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationInsert">
+      <xpath>/Defs/RecipeDef/defaultIngredientFilter/thingDefs/li[text()="Milk"]</xpath>
+      <value>
+        <li>RichMilk</li>
+      </value>
+    </match>
+  </Operation>
+</Patch>
