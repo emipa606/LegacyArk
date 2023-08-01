@@ -1,5 +1,8 @@
 # Changelog for LegacyArk
 
+1.4.4 - Reinstated the insulation factors for Fine Wool, thanks heatherathebyne!
+
+
 1.4.3 - Added a generic patch for Rich Milk, should now be usable wherever normal milk can be used.
 
 

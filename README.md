@@ -1,6 +1,6 @@
 # LegacyArk
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://i.imgur.com/iCj5o7O.png)
 
   
 For a full description see the  https://rimworld-bestiary.fandom.com/wiki/Legacy_Ark]Wiki
@@ -19,7 +19,7 @@ The animals saved from that version is
 - Highland Cow
 The rest is found in the AnimalCollabProj-mod
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://i.imgur.com/5xwDG6H.png)
 
 
 
@@ -31,4 +31,4 @@ The rest is found in the AnimalCollabProj-mod
 -  If you have the solution for a problem, please post it to the GitHub repository.
 
 
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2070686241]Last updated 2023-02-11
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2070686241]Last updated 2023-08-01
