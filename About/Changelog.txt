@@ -1,5 +1,8 @@
 # Changelog for LegacyArk
 
+1.5.0 - Mod updated for 1.5 and passed autotests
+
+
 1.4.4 - Reinstated the insulation factors for Fine Wool, thanks heatherathebyne!
 
 
