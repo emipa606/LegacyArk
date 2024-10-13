@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Legacy Ark</name>
+  <name>Legacy Ark (Continued)</name>
   <packageId>Mlie.LegacyArk</packageId>
   <author>Mlie</author>
   <url>https://github.com/emipa606/LegacyArk</url>
@@ -17,23 +17,15 @@
     <li>dismarzero.VGP.VGPGardenGourmet</li>
     <li>Crustypeanut.RC2.MaME</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/iCj5o7O.png[/img]
-  
-For a full description see the [url= https://rimworld-bestiary.fandom.com/wiki/Legacy_Ark]Wiki[/url]
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of lindseyries mod https://steamcommunity.com/sharedfiles/filedetails/?id=857283007
 
-Deep in rimspace, a science vessel was recently discovered. An ark vault containing thousands upon thousands of tissue samples from earth that was. Now that glitterworld bioengineers have gotten their hands on them, old earth species are once again seeding far off words.
-
-So far they have reanimated a lot of cattle and sheep and pigs, more are yet to come. A badger and a gerbil has also been sighted as well as some sort of bird. These animals can be bought of traders although some has spread to the wild in some areas. Snakes and some sort of prickly mantis seem to be showing up as well.
-
-Snakes venom glands can be harvested if using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1430501911]Infectious Creatures[/url]
-Sheep drop sheepskin if using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2746519764]Sheepskin[/url]
-
-Continuation of lindseyries mod
-https://steamcommunity.com/sharedfiles/filedetails/?id=857283007
 The animals saved from that version is
 - Merino Sheep
 - Highland Cow
 The rest is found in the AnimalCollabProj-mod
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
@@ -46,7 +38,18 @@ The rest is found in the AnimalCollabProj-mod
     [/tr]
 [/table]
 
-[img]https://i.imgur.com/5xwDG6H.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+For a full description see the [url= https://rimworld-bestiary.fandom.com/wiki/Legacy_Ark]Wiki[/url]
+
+Deep in rimspace, a science vessel was recently discovered. An ark vault containing thousands upon thousands of tissue samples from earth that was. Now that glitterworld bioengineers have gotten their hands on them, old earth species are once again seeding far off words.
+
+So far they have reanimated a lot of cattle and sheep and pigs, more are yet to come. A badger and a gerbil has also been sighted as well as some sort of bird. These animals can be bought of traders although some has spread to the wild in some areas. Snakes and some sort of prickly mantis seem to be showing up as well.
+
+Snakes venom glands can be harvested if using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1430501911]Infectious Creatures[/url]
+Sheep drop sheepskin if using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2746519764]Sheepskin[/url]
+
+
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -55,7 +58,8 @@ The rest is found in the AnimalCollabProj-mod
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]
+[/list] 
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2070686241][img]https://img.shields.io/github/v/release/emipa606/LegacyArk?label=latest%20version&amp;style=plastic&amp;labelColor=0070cd&amp;color=white[/img][/url]</description>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2070686241][img]https://img.shields.io/github/v/release/emipa606/LegacyArk?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  animal vault,  genetic engineering, biodiversity</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
 </ModMetaData>
