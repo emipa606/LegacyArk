@@ -30,5 +30,6 @@
     <thingCategories>
       <li>AnimalProductRaw</li>
     </thingCategories>
+    <allowedArchonexusCount>80</allowedArchonexusCount>
   </ThingDef>
 </Defs>

@@ -1,5 +1,8 @@
 # Changelog for LegacyArk
 
+1.5.2 - Rich milk can be given to babies, thanks heatherathebyne
+
+
 1.5.1 - Used non-continued style for some reason
 
 
