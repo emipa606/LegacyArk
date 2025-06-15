@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: hariana cow -->
+  <HarianaCow.label>hariana cow</HarianaCow.label>
+  <!-- EN: The Hariana is a breed of zebuine cattle from North India known for their heat tolerance. -->
+  <HarianaCow.description>The Hariana is a breed of zebuine cattle from North India known for their heat tolerance.</HarianaCow.description>
+  <!-- EN: head -->
+  <HarianaCow.tools.head.label>head</HarianaCow.tools.head.label>
+  <!-- EN: left hoof -->
+  <HarianaCow.tools.left_hoof.label>left hoof</HarianaCow.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <HarianaCow.tools.right_hoof.label>right hoof</HarianaCow.tools.right_hoof.label>
+</LanguageData>

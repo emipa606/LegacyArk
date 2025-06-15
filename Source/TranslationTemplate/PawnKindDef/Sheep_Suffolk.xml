@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: suffolk ewe -->
+  <SuffolkSheep.label>suffolk ewe</SuffolkSheep.label>
+  <SuffolkSheep.labelFemale />
+  <SuffolkSheep.labelFemalePlural />
+  <!-- EN: suffolk ram -->
+  <SuffolkSheep.labelMale>suffolk ram</SuffolkSheep.labelMale>
+  <SuffolkSheep.labelMalePlural />
+  <!-- EN: suffolk sheep -->
+  <SuffolkSheep.labelPlural>suffolk sheep</SuffolkSheep.labelPlural>
+  <!-- EN: suffolk lamb -->
+  <SuffolkSheep.lifeStages.suffolk_lamb.label>suffolk lamb</SuffolkSheep.lifeStages.suffolk_lamb.label>
+  <SuffolkSheep.lifeStages.suffolk_lamb.labelFemale />
+  <SuffolkSheep.lifeStages.suffolk_lamb.labelFemalePlural />
+  <SuffolkSheep.lifeStages.suffolk_lamb.labelMale />
+  <SuffolkSheep.lifeStages.suffolk_lamb.labelMalePlural />
+  <!-- EN: suffolk lambs -->
+  <SuffolkSheep.lifeStages.suffolk_lamb.labelPlural>suffolk lambs</SuffolkSheep.lifeStages.suffolk_lamb.labelPlural>
+  <SuffolkSheep.lifeStages.1.label />
+  <SuffolkSheep.lifeStages.1.labelFemale />
+  <SuffolkSheep.lifeStages.1.labelFemalePlural />
+  <SuffolkSheep.lifeStages.1.labelMale />
+  <SuffolkSheep.lifeStages.1.labelMalePlural />
+  <SuffolkSheep.lifeStages.1.labelPlural />
+  <SuffolkSheep.lifeStages.2.label />
+  <SuffolkSheep.lifeStages.2.labelFemale />
+  <SuffolkSheep.lifeStages.2.labelFemalePlural />
+  <SuffolkSheep.lifeStages.2.labelMale />
+  <SuffolkSheep.lifeStages.2.labelMalePlural />
+  <SuffolkSheep.lifeStages.2.labelPlural />
+</LanguageData>

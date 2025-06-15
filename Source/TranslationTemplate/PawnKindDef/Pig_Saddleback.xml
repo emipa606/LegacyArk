@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: saddleback pig -->
+  <SaddlebackPig.label>saddleback pig</SaddlebackPig.label>
+  <!-- EN: saddleback sow -->
+  <SaddlebackPig.labelFemale>saddleback sow</SaddlebackPig.labelFemale>
+  <!-- EN: saddleback piglet -->
+  <SaddlebackPig.lifeStages.saddleback_piglet.label>saddleback piglet</SaddlebackPig.lifeStages.saddleback_piglet.label>
+  <!-- EN: saddleback piglets -->
+  <SaddlebackPig.lifeStages.saddleback_piglet.labelPlural>saddleback piglets</SaddlebackPig.lifeStages.saddleback_piglet.labelPlural>
+</LanguageData>

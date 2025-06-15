@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: boomoo cow -->
+  <BoomooCow.label>boomoo cow</BoomooCow.label>
+  <BoomooCow.labelFemale />
+  <BoomooCow.labelFemalePlural />
+  <!-- EN: boomoo bull -->
+  <BoomooCow.labelMale>boomoo bull</BoomooCow.labelMale>
+  <BoomooCow.labelMalePlural />
+  <BoomooCow.labelPlural />
+  <!-- EN: boomoo calf -->
+  <BoomooCow.lifeStages.boomoo_calf.label>boomoo calf</BoomooCow.lifeStages.boomoo_calf.label>
+  <BoomooCow.lifeStages.boomoo_calf.labelFemale />
+  <BoomooCow.lifeStages.boomoo_calf.labelFemalePlural />
+  <BoomooCow.lifeStages.boomoo_calf.labelMale />
+  <BoomooCow.lifeStages.boomoo_calf.labelMalePlural />
+  <!-- EN: boomoo calves -->
+  <BoomooCow.lifeStages.boomoo_calf.labelPlural>boomoo calves</BoomooCow.lifeStages.boomoo_calf.labelPlural>
+  <BoomooCow.lifeStages.1.label />
+  <BoomooCow.lifeStages.1.labelFemale />
+  <BoomooCow.lifeStages.1.labelFemalePlural />
+  <BoomooCow.lifeStages.1.labelMale />
+  <BoomooCow.lifeStages.1.labelMalePlural />
+  <BoomooCow.lifeStages.1.labelPlural />
+  <BoomooCow.lifeStages.2.label />
+  <BoomooCow.lifeStages.2.labelFemale />
+  <BoomooCow.lifeStages.2.labelFemalePlural />
+  <BoomooCow.lifeStages.2.labelMale />
+  <BoomooCow.lifeStages.2.labelMalePlural />
+  <BoomooCow.lifeStages.2.labelPlural />
+</LanguageData>

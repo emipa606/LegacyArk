@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: angus cow -->
+  <AngusCow.label>angus cow</AngusCow.label>
+  <AngusCow.labelFemale />
+  <AngusCow.labelFemalePlural />
+  <!-- EN: angus bull -->
+  <AngusCow.labelMale>angus bull</AngusCow.labelMale>
+  <AngusCow.labelMalePlural />
+  <AngusCow.labelPlural />
+  <!-- EN: angus calf -->
+  <AngusCow.lifeStages.angus_calf.label>angus calf</AngusCow.lifeStages.angus_calf.label>
+  <AngusCow.lifeStages.angus_calf.labelFemale />
+  <AngusCow.lifeStages.angus_calf.labelFemalePlural />
+  <AngusCow.lifeStages.angus_calf.labelMale />
+  <AngusCow.lifeStages.angus_calf.labelMalePlural />
+  <!-- EN: angus calves -->
+  <AngusCow.lifeStages.angus_calf.labelPlural>angus calves</AngusCow.lifeStages.angus_calf.labelPlural>
+  <AngusCow.lifeStages.1.label />
+  <AngusCow.lifeStages.1.labelFemale />
+  <AngusCow.lifeStages.1.labelFemalePlural />
+  <AngusCow.lifeStages.1.labelMale />
+  <AngusCow.lifeStages.1.labelMalePlural />
+  <AngusCow.lifeStages.1.labelPlural />
+  <AngusCow.lifeStages.2.label />
+  <AngusCow.lifeStages.2.labelFemale />
+  <AngusCow.lifeStages.2.labelFemalePlural />
+  <AngusCow.lifeStages.2.labelMale />
+  <AngusCow.lifeStages.2.labelMalePlural />
+  <AngusCow.lifeStages.2.labelPlural />
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: hereford cow -->
+  <HerefordCow.label>hereford cow</HerefordCow.label>
+  <!-- EN: The Hereford is a breed of beef cattle from England known for their meat and fast growth. -->
+  <HerefordCow.description>The Hereford is a breed of beef cattle from England known for their meat and fast growth.</HerefordCow.description>
+  <!-- EN: head -->
+  <HerefordCow.tools.head.label>head</HerefordCow.tools.head.label>
+  <!-- EN: left hoof -->
+  <HerefordCow.tools.left_hoof.label>left hoof</HerefordCow.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <HerefordCow.tools.right_hoof.label>right hoof</HerefordCow.tools.right_hoof.label>
+</LanguageData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: jacobs ewe -->
+  <JacobsSheep.label>jacobs ewe</JacobsSheep.label>
+  <JacobsSheep.labelFemale />
+  <JacobsSheep.labelFemalePlural />
+  <!-- EN: jacobs ram -->
+  <JacobsSheep.labelMale>jacobs ram</JacobsSheep.labelMale>
+  <JacobsSheep.labelMalePlural />
+  <!-- EN: jacobs sheep -->
+  <JacobsSheep.labelPlural>jacobs sheep</JacobsSheep.labelPlural>
+  <!-- EN: jacobs lamb -->
+  <JacobsSheep.lifeStages.jacobs_lamb.label>jacobs lamb</JacobsSheep.lifeStages.jacobs_lamb.label>
+  <JacobsSheep.lifeStages.jacobs_lamb.labelFemale />
+  <JacobsSheep.lifeStages.jacobs_lamb.labelFemalePlural />
+  <JacobsSheep.lifeStages.jacobs_lamb.labelMale />
+  <JacobsSheep.lifeStages.jacobs_lamb.labelMalePlural />
+  <!-- EN: jacobs lambs -->
+  <JacobsSheep.lifeStages.jacobs_lamb.labelPlural>jacobs lambs</JacobsSheep.lifeStages.jacobs_lamb.labelPlural>
+  <JacobsSheep.lifeStages.1.label />
+  <JacobsSheep.lifeStages.1.labelFemale />
+  <JacobsSheep.lifeStages.1.labelFemalePlural />
+  <JacobsSheep.lifeStages.1.labelMale />
+  <JacobsSheep.lifeStages.1.labelMalePlural />
+  <JacobsSheep.lifeStages.1.labelPlural />
+  <JacobsSheep.lifeStages.2.label />
+  <JacobsSheep.lifeStages.2.labelFemale />
+  <JacobsSheep.lifeStages.2.labelFemalePlural />
+  <JacobsSheep.lifeStages.2.labelMale />
+  <JacobsSheep.lifeStages.2.labelMalePlural />
+  <JacobsSheep.lifeStages.2.labelPlural />
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: border leicester sheep -->
+  <BorderLeicesterSheep.label>border leicester sheep</BorderLeicesterSheep.label>
+  <!-- EN: The Border Leicester is a breed of sheep from the England known for their rabbit-like ears and quality meat. -->
+  <BorderLeicesterSheep.description>The Border Leicester is a breed of sheep from the England known for their rabbit-like ears and quality meat.</BorderLeicesterSheep.description>
+  <!-- EN: head -->
+  <BorderLeicesterSheep.tools.head.label>head</BorderLeicesterSheep.tools.head.label>
+  <!-- EN: left hoof -->
+  <BorderLeicesterSheep.tools.left_hoof.label>left hoof</BorderLeicesterSheep.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <BorderLeicesterSheep.tools.right_hoof.label>right hoof</BorderLeicesterSheep.tools.right_hoof.label>
+</LanguageData>

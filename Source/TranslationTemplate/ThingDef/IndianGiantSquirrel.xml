@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: indian giant squirrel -->
+  <IndianGiantSquirrel.label>indian giant squirrel</IndianGiantSquirrel.label>
+  <!-- EN: The Indian giant squirrel is a large squirrel that lives in the forests and woodlands of India. Squirrels are distinguished by their bushy tails, which they use as umbrellas in bad weather. -->
+  <IndianGiantSquirrel.description>The Indian giant squirrel is a large squirrel that lives in the forests and woodlands of India. Squirrels are distinguished by their bushy tails, which they use as umbrellas in bad weather.</IndianGiantSquirrel.description>
+  <!-- EN: left claw -->
+  <IndianGiantSquirrel.tools.left_claw.label>left claw</IndianGiantSquirrel.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <IndianGiantSquirrel.tools.right_claw.label>right claw</IndianGiantSquirrel.tools.right_claw.label>
+  <!-- EN: head -->
+  <IndianGiantSquirrel.tools.head.label>head</IndianGiantSquirrel.tools.head.label>
+</LanguageData>

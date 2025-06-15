@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: yellow viper -->
+  <YellowViper.label>yellow viper</YellowViper.label>
+  <!-- EN: A small predatory snake. Yellow vipers can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <YellowViper.description>A small predatory snake. Yellow vipers can be highly aggressive if provoked, and their bite injects toxic venom into the victim.</YellowViper.description>
+  <!-- EN: venom-fangs -->
+  <YellowViper.tools.venomfangs.label>venom-fangs</YellowViper.tools.venomfangs.label>
+  <!-- EN: head -->
+  <YellowViper.tools.head.label>head</YellowViper.tools.head.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: red-footed tortoise -->
+  <RedFootedTortoise.label>red-footed tortoise</RedFootedTortoise.label>
+  <!-- EN: The red-footed tortoise (Chelonoidis carbonarius) is a species of tortoise from northern South America. These medium-sized tortoises generally average 30 cm (12 in) as adults, but can reach over 40 cm (16 in). They have dark-colored, loaf-shaped carapaces (back shell) with a lighter patch in the middle of each scute (scales on the shell), and dark limbs with brightly colored scales that range from pale yellow to dark red. Recognized differences are seen between red-footed tortoises from different regions. -->
+  <RedFootedTortoise.description>The red-footed tortoise (Chelonoidis carbonarius) is a species of tortoise from northern South America. These medium-sized tortoises generally average 30 cm (12 in) as adults, but can reach over 40 cm (16 in). They have dark-colored, loaf-shaped carapaces (back shell) with a lighter patch in the middle of each scute (scales on the shell), and dark limbs with brightly colored scales that range from pale yellow to dark red. Recognized differences are seen between red-footed tortoises from different regions.</RedFootedTortoise.description>
+  <!-- EN: beak -->
+  <RedFootedTortoise.tools.beak.label>beak</RedFootedTortoise.tools.beak.label>
+  <!-- EN: head -->
+  <RedFootedTortoise.tools.head.label>head</RedFootedTortoise.tools.head.label>
+</LanguageData>

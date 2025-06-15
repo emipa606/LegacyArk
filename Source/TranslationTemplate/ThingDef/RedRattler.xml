@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: red rattler -->
+  <RedRattler.label>red rattler</RedRattler.label>
+  <!-- EN: A small predatory snake. Red rattlers can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <RedRattler.description>A small predatory snake. Red rattlers can be highly aggressive if provoked, and their bite injects toxic venom into the victim.</RedRattler.description>
+  <!-- EN: venom-fangs -->
+  <RedRattler.tools.venomfangs.label>venom-fangs</RedRattler.tools.venomfangs.label>
+  <!-- EN: head -->
+  <RedRattler.tools.head.label>head</RedRattler.tools.head.label>
+</LanguageData>

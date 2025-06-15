@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: duroc pig -->
+  <DurocPig.label>duroc pig</DurocPig.label>
+  <!-- EN: The Duroc is a breed of pig from New England known for their rusty coats and fast growth. -->
+  <DurocPig.description>The Duroc is a breed of pig from New England known for their rusty coats and fast growth.</DurocPig.description>
+  <!-- EN: pork -->
+  <DurocPig.race.meatLabel>pork</DurocPig.race.meatLabel>
+  <!-- EN: head -->
+  <DurocPig.tools.head.label>head</DurocPig.tools.head.label>
+</LanguageData>

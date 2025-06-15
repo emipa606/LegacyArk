@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: mouflon sheep -->
+  <MouflonSheep.label>mouflon sheep</MouflonSheep.label>
+  <!-- EN: The Muflon is a wild sheep from the Eurasia and ancestor to all domestic sheep. -->
+  <MouflonSheep.description>The Muflon is a wild sheep from the Eurasia and ancestor to all domestic sheep.</MouflonSheep.description>
+  <!-- EN: head -->
+  <MouflonSheep.tools.head-0.label>head</MouflonSheep.tools.head-0.label>
+  <!-- EN: left hoof -->
+  <MouflonSheep.tools.left_hoof-0.label>left hoof</MouflonSheep.tools.left_hoof-0.label>
+  <!-- EN: right hoof -->
+  <MouflonSheep.tools.right_hoof-0.label>right hoof</MouflonSheep.tools.right_hoof-0.label>
+  <MouflonSheep.tools.3.label />
+  <!-- EN: head -->
+  <MouflonSheep.tools.head-1.label>head</MouflonSheep.tools.head-1.label>
+  <!-- EN: horn -->
+  <MouflonSheep.tools.horn.label>horn</MouflonSheep.tools.horn.label>
+  <!-- EN: left hoof -->
+  <MouflonSheep.tools.left_hoof-1.label>left hoof</MouflonSheep.tools.left_hoof-1.label>
+  <!-- EN: right hoof -->
+  <MouflonSheep.tools.right_hoof-1.label>right hoof</MouflonSheep.tools.right_hoof-1.label>
+</LanguageData>

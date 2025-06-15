@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: hereford cow -->
+  <HerefordCow.label>hereford cow</HerefordCow.label>
+  <HerefordCow.labelFemale />
+  <HerefordCow.labelFemalePlural />
+  <!-- EN: hereford bull -->
+  <HerefordCow.labelMale>hereford bull</HerefordCow.labelMale>
+  <HerefordCow.labelMalePlural />
+  <HerefordCow.labelPlural />
+  <!-- EN: hereford calf -->
+  <HerefordCow.lifeStages.hereford_calf.label>hereford calf</HerefordCow.lifeStages.hereford_calf.label>
+  <HerefordCow.lifeStages.hereford_calf.labelFemale />
+  <HerefordCow.lifeStages.hereford_calf.labelFemalePlural />
+  <HerefordCow.lifeStages.hereford_calf.labelMale />
+  <HerefordCow.lifeStages.hereford_calf.labelMalePlural />
+  <!-- EN: hereford calves -->
+  <HerefordCow.lifeStages.hereford_calf.labelPlural>hereford calves</HerefordCow.lifeStages.hereford_calf.labelPlural>
+  <HerefordCow.lifeStages.1.label />
+  <HerefordCow.lifeStages.1.labelFemale />
+  <HerefordCow.lifeStages.1.labelFemalePlural />
+  <HerefordCow.lifeStages.1.labelMale />
+  <HerefordCow.lifeStages.1.labelMalePlural />
+  <HerefordCow.lifeStages.1.labelPlural />
+  <HerefordCow.lifeStages.2.label />
+  <HerefordCow.lifeStages.2.labelFemale />
+  <HerefordCow.lifeStages.2.labelFemalePlural />
+  <HerefordCow.lifeStages.2.labelMale />
+  <HerefordCow.lifeStages.2.labelMalePlural />
+  <HerefordCow.lifeStages.2.labelPlural />
+</LanguageData>

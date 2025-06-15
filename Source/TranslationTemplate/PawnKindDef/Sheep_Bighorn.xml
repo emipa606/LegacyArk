@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bighorn ewe -->
+  <BighornSheep.label>bighorn ewe</BighornSheep.label>
+  <BighornSheep.labelFemale />
+  <BighornSheep.labelFemalePlural />
+  <!-- EN: bighorn ram -->
+  <BighornSheep.labelMale>bighorn ram</BighornSheep.labelMale>
+  <BighornSheep.labelMalePlural />
+  <!-- EN: bighorn sheep -->
+  <BighornSheep.labelPlural>bighorn sheep</BighornSheep.labelPlural>
+  <!-- EN: bighorn lamb -->
+  <BighornSheep.lifeStages.bighorn_lamb.label>bighorn lamb</BighornSheep.lifeStages.bighorn_lamb.label>
+  <BighornSheep.lifeStages.bighorn_lamb.labelFemale />
+  <BighornSheep.lifeStages.bighorn_lamb.labelFemalePlural />
+  <BighornSheep.lifeStages.bighorn_lamb.labelMale />
+  <BighornSheep.lifeStages.bighorn_lamb.labelMalePlural />
+  <!-- EN: bighorn lambs -->
+  <BighornSheep.lifeStages.bighorn_lamb.labelPlural>bighorn lambs</BighornSheep.lifeStages.bighorn_lamb.labelPlural>
+  <BighornSheep.lifeStages.1.label />
+  <BighornSheep.lifeStages.1.labelFemale />
+  <BighornSheep.lifeStages.1.labelFemalePlural />
+  <BighornSheep.lifeStages.1.labelMale />
+  <BighornSheep.lifeStages.1.labelMalePlural />
+  <BighornSheep.lifeStages.1.labelPlural />
+  <BighornSheep.lifeStages.2.label />
+  <BighornSheep.lifeStages.2.labelFemale />
+  <BighornSheep.lifeStages.2.labelFemalePlural />
+  <BighornSheep.lifeStages.2.labelMale />
+  <BighornSheep.lifeStages.2.labelMalePlural />
+  <BighornSheep.lifeStages.2.labelPlural />
+</LanguageData>

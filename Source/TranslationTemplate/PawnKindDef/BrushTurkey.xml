@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: brush turkey -->
+  <BrushTurkey.label>brush turkey</BrushTurkey.label>
+  <BrushTurkey.labelFemale />
+  <BrushTurkey.labelFemalePlural />
+  <BrushTurkey.labelMale />
+  <BrushTurkey.labelMalePlural />
+  <BrushTurkey.labelPlural />
+  <BrushTurkey.lifeStages.0.label />
+  <BrushTurkey.lifeStages.0.labelFemale />
+  <BrushTurkey.lifeStages.0.labelFemalePlural />
+  <BrushTurkey.lifeStages.0.labelMale />
+  <BrushTurkey.lifeStages.0.labelMalePlural />
+  <BrushTurkey.lifeStages.0.labelPlural />
+  <BrushTurkey.lifeStages.1.label />
+  <BrushTurkey.lifeStages.1.labelFemale />
+  <BrushTurkey.lifeStages.1.labelFemalePlural />
+  <BrushTurkey.lifeStages.1.labelMale />
+  <BrushTurkey.lifeStages.1.labelMalePlural />
+  <BrushTurkey.lifeStages.1.labelPlural />
+  <BrushTurkey.lifeStages.2.label />
+  <BrushTurkey.lifeStages.2.labelFemale />
+  <BrushTurkey.lifeStages.2.labelFemalePlural />
+  <BrushTurkey.lifeStages.2.labelMale />
+  <BrushTurkey.lifeStages.2.labelMalePlural />
+  <BrushTurkey.lifeStages.2.labelPlural />
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: merino sheep -->
+  <MerinoSheep.label>merino sheep</MerinoSheep.label>
+  <!-- EN: The Merino is a breed of sheep from the Spain known for their fine heavy wool. -->
+  <MerinoSheep.description>The Merino is a breed of sheep from the Spain known for their fine heavy wool.</MerinoSheep.description>
+  <!-- EN: head -->
+  <MerinoSheep.tools.head.label>head</MerinoSheep.tools.head.label>
+  <!-- EN: left hoof -->
+  <MerinoSheep.tools.left_hoof.label>left hoof</MerinoSheep.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <MerinoSheep.tools.right_hoof.label>right hoof</MerinoSheep.tools.right_hoof.label>
+</LanguageData>

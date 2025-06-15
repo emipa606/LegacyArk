@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: assaf ewe -->
+  <AssafSheep.label>assaf ewe</AssafSheep.label>
+  <AssafSheep.labelFemale />
+  <AssafSheep.labelFemalePlural />
+  <!-- EN: assaf ram -->
+  <AssafSheep.labelMale>assaf ram</AssafSheep.labelMale>
+  <AssafSheep.labelMalePlural />
+  <!-- EN: assaf sheep -->
+  <AssafSheep.labelPlural>assaf sheep</AssafSheep.labelPlural>
+  <!-- EN: assaf lamb -->
+  <AssafSheep.lifeStages.assaf_lamb.label>assaf lamb</AssafSheep.lifeStages.assaf_lamb.label>
+  <AssafSheep.lifeStages.assaf_lamb.labelFemale />
+  <AssafSheep.lifeStages.assaf_lamb.labelFemalePlural />
+  <AssafSheep.lifeStages.assaf_lamb.labelMale />
+  <AssafSheep.lifeStages.assaf_lamb.labelMalePlural />
+  <!-- EN: assaf lambs -->
+  <AssafSheep.lifeStages.assaf_lamb.labelPlural>assaf lambs</AssafSheep.lifeStages.assaf_lamb.labelPlural>
+  <AssafSheep.lifeStages.1.label />
+  <AssafSheep.lifeStages.1.labelFemale />
+  <AssafSheep.lifeStages.1.labelFemalePlural />
+  <AssafSheep.lifeStages.1.labelMale />
+  <AssafSheep.lifeStages.1.labelMalePlural />
+  <AssafSheep.lifeStages.1.labelPlural />
+  <AssafSheep.lifeStages.2.label />
+  <AssafSheep.lifeStages.2.labelFemale />
+  <AssafSheep.lifeStages.2.labelFemalePlural />
+  <AssafSheep.lifeStages.2.labelMale />
+  <AssafSheep.lifeStages.2.labelMalePlural />
+  <AssafSheep.lifeStages.2.labelPlural />
+</LanguageData>

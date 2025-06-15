@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: berkshire pig -->
+  <BerkshirePig.label>berkshire pig</BerkshirePig.label>
+  <!-- EN: berkshire sow -->
+  <BerkshirePig.labelFemale>berkshire sow</BerkshirePig.labelFemale>
+  <!-- EN: berkshire piglet -->
+  <BerkshirePig.lifeStages.berkshire_piglet.label>berkshire piglet</BerkshirePig.lifeStages.berkshire_piglet.label>
+  <!-- EN: berkshire piglets -->
+  <BerkshirePig.lifeStages.berkshire_piglet.labelPlural>berkshire piglets</BerkshirePig.lifeStages.berkshire_piglet.labelPlural>
+</LanguageData>

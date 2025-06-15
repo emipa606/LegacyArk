@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: wooly pig -->
+  <WoolyPig.label>wooly pig</WoolyPig.label>
+  <!-- EN: wooly sow -->
+  <WoolyPig.labelFemale>wooly sow</WoolyPig.labelFemale>
+  <!-- EN: wooly piglet -->
+  <WoolyPig.lifeStages.wooly_piglet.label>wooly piglet</WoolyPig.lifeStages.wooly_piglet.label>
+  <!-- EN: wooly piglets -->
+  <WoolyPig.lifeStages.wooly_piglet.labelPlural>wooly piglets</WoolyPig.lifeStages.wooly_piglet.labelPlural>
+</LanguageData>

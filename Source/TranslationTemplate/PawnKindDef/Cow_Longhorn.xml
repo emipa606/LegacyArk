@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: longhorn cow -->
+  <LonghornCow.label>longhorn cow</LonghornCow.label>
+  <LonghornCow.labelFemale />
+  <LonghornCow.labelFemalePlural />
+  <!-- EN: longhorn bull -->
+  <LonghornCow.labelMale>longhorn bull</LonghornCow.labelMale>
+  <LonghornCow.labelMalePlural />
+  <LonghornCow.labelPlural />
+  <!-- EN: longhorn calf -->
+  <LonghornCow.lifeStages.longhorn_calf.label>longhorn calf</LonghornCow.lifeStages.longhorn_calf.label>
+  <LonghornCow.lifeStages.longhorn_calf.labelFemale />
+  <LonghornCow.lifeStages.longhorn_calf.labelFemalePlural />
+  <LonghornCow.lifeStages.longhorn_calf.labelMale />
+  <LonghornCow.lifeStages.longhorn_calf.labelMalePlural />
+  <!-- EN: longhorn calves -->
+  <LonghornCow.lifeStages.longhorn_calf.labelPlural>longhorn calves</LonghornCow.lifeStages.longhorn_calf.labelPlural>
+  <LonghornCow.lifeStages.1.label />
+  <LonghornCow.lifeStages.1.labelFemale />
+  <LonghornCow.lifeStages.1.labelFemalePlural />
+  <LonghornCow.lifeStages.1.labelMale />
+  <LonghornCow.lifeStages.1.labelMalePlural />
+  <LonghornCow.lifeStages.1.labelPlural />
+  <LonghornCow.lifeStages.2.label />
+  <LonghornCow.lifeStages.2.labelFemale />
+  <LonghornCow.lifeStages.2.labelFemalePlural />
+  <LonghornCow.lifeStages.2.labelMale />
+  <LonghornCow.lifeStages.2.labelMalePlural />
+  <LonghornCow.lifeStages.2.labelPlural />
+</LanguageData>

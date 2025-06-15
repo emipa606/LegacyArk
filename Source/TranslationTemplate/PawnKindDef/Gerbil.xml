@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: gerbil -->
+  <Gerbil.label>gerbil</Gerbil.label>
+  <!-- EN: gerbil female -->
+  <Gerbil.labelFemale>gerbil female</Gerbil.labelFemale>
+  <Gerbil.labelFemalePlural />
+  <!-- EN: gerbil male -->
+  <Gerbil.labelMale>gerbil male</Gerbil.labelMale>
+  <Gerbil.labelMalePlural />
+  <Gerbil.labelPlural />
+  <!-- EN: gerbil baby -->
+  <Gerbil.lifeStages.gerbil_baby.label>gerbil baby</Gerbil.lifeStages.gerbil_baby.label>
+  <Gerbil.lifeStages.gerbil_baby.labelFemale />
+  <Gerbil.lifeStages.gerbil_baby.labelFemalePlural />
+  <Gerbil.lifeStages.gerbil_baby.labelMale />
+  <Gerbil.lifeStages.gerbil_baby.labelMalePlural />
+  <Gerbil.lifeStages.gerbil_baby.labelPlural />
+  <Gerbil.lifeStages.1.label />
+  <Gerbil.lifeStages.1.labelFemale />
+  <Gerbil.lifeStages.1.labelFemalePlural />
+  <Gerbil.lifeStages.1.labelMale />
+  <Gerbil.lifeStages.1.labelMalePlural />
+  <Gerbil.lifeStages.1.labelPlural />
+  <Gerbil.lifeStages.2.label />
+  <Gerbil.lifeStages.2.labelFemale />
+  <Gerbil.lifeStages.2.labelFemalePlural />
+  <Gerbil.lifeStages.2.labelMale />
+  <Gerbil.lifeStages.2.labelMalePlural />
+  <Gerbil.lifeStages.2.labelPlural />
+</LanguageData>

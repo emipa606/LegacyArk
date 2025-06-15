@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bighorn sheep -->
+  <BighornSheep.label>bighorn sheep</BighornSheep.label>
+  <!-- EN: The Bighorn Sheep is a wild sheep from the North America known for their valuable horns. -->
+  <BighornSheep.description>The Bighorn Sheep is a wild sheep from the North America known for their valuable horns.</BighornSheep.description>
+  <!-- EN: head -->
+  <BighornSheep.tools.head-0.label>head</BighornSheep.tools.head-0.label>
+  <!-- EN: left hoof -->
+  <BighornSheep.tools.left_hoof-0.label>left hoof</BighornSheep.tools.left_hoof-0.label>
+  <!-- EN: right hoof -->
+  <BighornSheep.tools.right_hoof-0.label>right hoof</BighornSheep.tools.right_hoof-0.label>
+  <BighornSheep.tools.3.label />
+  <!-- EN: head -->
+  <BighornSheep.tools.head-1.label>head</BighornSheep.tools.head-1.label>
+  <!-- EN: horn -->
+  <BighornSheep.tools.horn.label>horn</BighornSheep.tools.horn.label>
+  <!-- EN: left hoof -->
+  <BighornSheep.tools.left_hoof-1.label>left hoof</BighornSheep.tools.left_hoof-1.label>
+  <!-- EN: right hoof -->
+  <BighornSheep.tools.right_hoof-1.label>right hoof</BighornSheep.tools.right_hoof-1.label>
+</LanguageData>

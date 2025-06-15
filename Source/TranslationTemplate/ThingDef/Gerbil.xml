@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: gerbil -->
+  <Gerbil.label>gerbil</Gerbil.label>
+  <!-- EN: A rodent that is a gentle and hardy animal that has become a popular small house pet. -->
+  <Gerbil.description>A rodent that is a gentle and hardy animal that has become a popular small house pet.</Gerbil.description>
+  <!-- EN: left claw -->
+  <Gerbil.tools.left_claw.label>left claw</Gerbil.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Gerbil.tools.right_claw.label>right claw</Gerbil.tools.right_claw.label>
+  <!-- EN: head -->
+  <Gerbil.tools.head.label>head</Gerbil.tools.head.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: gloucestershire pig -->
+  <GloucestershirePig.label>gloucestershire pig</GloucestershirePig.label>
+  <!-- EN: gloucestershire sow -->
+  <GloucestershirePig.labelFemale>gloucestershire sow</GloucestershirePig.labelFemale>
+  <!-- EN: gloucestershire piglet -->
+  <GloucestershirePig.lifeStages.gloucestershire_piglet.label>gloucestershire piglet</GloucestershirePig.lifeStages.gloucestershire_piglet.label>
+  <!-- EN: gloucestershire piglets -->
+  <GloucestershirePig.lifeStages.gloucestershire_piglet.labelPlural>gloucestershire piglets</GloucestershirePig.lifeStages.gloucestershire_piglet.labelPlural>
+</LanguageData>

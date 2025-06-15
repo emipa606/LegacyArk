@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: brush turkey egg (fert.) -->
+  <EggBrushTurkeyFertilized.label>brush turkey egg (fert.)</EggBrushTurkeyFertilized.label>
+  <!-- EN: A fertilized brush turkey egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked. -->
+  <EggBrushTurkeyFertilized.description>A fertilized brush turkey egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked.</EggBrushTurkeyFertilized.description>
+  <!-- EN: brush turkey egg (unfert.) -->
+  <EggBrushTurkeyUnfertilized.label>brush turkey egg (unfert.)</EggBrushTurkeyUnfertilized.label>
+  <!-- EN: An unfertilized brush turkey egg. It can be eaten raw, but it's much, much better cooked. -->
+  <EggBrushTurkeyUnfertilized.description>An unfertilized brush turkey egg. It can be eaten raw, but it's much, much better cooked.</EggBrushTurkeyUnfertilized.description>
+  <!-- EN: cactus mantis egg (fert.) -->
+  <EggCactusMantisFertilized.label>cactus mantis egg (fert.)</EggCactusMantisFertilized.label>
+  <!-- EN: A fertilized cactus mantis egg. If all goes well, it should hatch into a baby cactus mantis. It can be eaten raw, but it's much better cooked. -->
+  <EggCactusMantisFertilized.description>A fertilized cactus mantis egg. If all goes well, it should hatch into a baby cactus mantis. It can be eaten raw, but it's much better cooked.</EggCactusMantisFertilized.description>
+  <!-- EN: cactus mantis egg (unfert.) -->
+  <EggCactusMantisUnFertilized.label>cactus mantis egg (unfert.)</EggCactusMantisUnFertilized.label>
+  <!-- EN: An unfertilized cactus mantis egg. It can be eaten raw, but it's much better cooked. -->
+  <EggCactusMantisUnFertilized.description>An unfertilized cactus mantis egg. It can be eaten raw, but it's much better cooked.</EggCactusMantisUnFertilized.description>
+  <!-- EN: copperhead egg (fert.) -->
+  <EggCopperheadFertilized.label>copperhead egg (fert.)</EggCopperheadFertilized.label>
+  <!-- EN: A fertilized copperhead egg. If all goes well, it should hatch into a baby copperhead. It can be eaten raw, but it's much better cooked. -->
+  <EggCopperheadFertilized.description>A fertilized copperhead egg. If all goes well, it should hatch into a baby copperhead. It can be eaten raw, but it's much better cooked.</EggCopperheadFertilized.description>
+  <!-- EN: copperhead egg (unfert.) -->
+  <EggCopperheadUnFertilized.label>copperhead egg (unfert.)</EggCopperheadUnFertilized.label>
+  <!-- EN: An unfertilized copperhead egg. It can be eaten raw, but it's much better cooked. -->
+  <EggCopperheadUnFertilized.description>An unfertilized copperhead egg. It can be eaten raw, but it's much better cooked.</EggCopperheadUnFertilized.description>
+  <!-- EN: coral snake egg (fert.) -->
+  <EggCoralSnakeFertilized.label>coral snake egg (fert.)</EggCoralSnakeFertilized.label>
+  <!-- EN: A fertilized coral snake egg. If all goes well, it should hatch into a baby coral snake. It can be eaten raw, but it's much better cooked. -->
+  <EggCoralSnakeFertilized.description>A fertilized coral snake egg. If all goes well, it should hatch into a baby coral snake. It can be eaten raw, but it's much better cooked.</EggCoralSnakeFertilized.description>
+  <!-- EN: coral snake egg (unfert.) -->
+  <EggCoralSnakeUnFertilized.label>coral snake egg (unfert.)</EggCoralSnakeUnFertilized.label>
+  <!-- EN: An unfertilized coral snake egg. It can be eaten raw, but it's much better cooked. -->
+  <EggCoralSnakeUnFertilized.description>An unfertilized coral snake egg. It can be eaten raw, but it's much better cooked.</EggCoralSnakeUnFertilized.description>
+  <!-- EN: cottonmouth egg (fert.) -->
+  <EggCottonmouthFertilized.label>cottonmouth egg (fert.)</EggCottonmouthFertilized.label>
+  <!-- EN: A fertilized cottonmouth egg. If all goes well, it should hatch into a baby cottonmouth. It can be eaten raw, but it's much better cooked. -->
+  <EggCottonmouthFertilized.description>A fertilized cottonmouth egg. If all goes well, it should hatch into a baby cottonmouth. It can be eaten raw, but it's much better cooked.</EggCottonmouthFertilized.description>
+  <!-- EN: cottonmouth egg (unfert.) -->
+  <EggCottonmouthUnFertilized.label>cottonmouth egg (unfert.)</EggCottonmouthUnFertilized.label>
+  <!-- EN: An unfertilized cottonmouth egg. It can be eaten raw, but it's much better cooked. -->
+  <EggCottonmouthUnFertilized.description>An unfertilized cottonmouth egg. It can be eaten raw, but it's much better cooked.</EggCottonmouthUnFertilized.description>
+  <!-- EN: green snake egg (fert.) -->
+  <EggGreenSnakeFertilized.label>green snake egg (fert.)</EggGreenSnakeFertilized.label>
+  <!-- EN: A fertilized green snake egg. If all goes well, it should hatch into a baby green snake. It can be eaten raw, but it's much better cooked. -->
+  <EggGreenSnakeFertilized.description>A fertilized green snake egg. If all goes well, it should hatch into a baby green snake. It can be eaten raw, but it's much better cooked.</EggGreenSnakeFertilized.description>
+  <!-- EN: green snake egg (unfert.) -->
+  <EggGreenSnakeUnFertilized.label>green snake egg (unfert.)</EggGreenSnakeUnFertilized.label>
+  <!-- EN: An unfertilized green snake egg. It can be eaten raw, but it's much better cooked. -->
+  <EggGreenSnakeUnFertilized.description>An unfertilized green snake egg. It can be eaten raw, but it's much better cooked.</EggGreenSnakeUnFertilized.description>
+  <!-- EN: leopard tortoise egg (fert.) -->
+  <EggLeopardTortoiseFertilized.label>leopard tortoise egg (fert.)</EggLeopardTortoiseFertilized.label>
+  <!-- EN: A fertilized leopard tortoise egg. If all goes well, it should hatch into a baby leopard tortoise. It can be eaten raw, but it's much better cooked. -->
+  <EggLeopardTortoiseFertilized.description>A fertilized leopard tortoise egg. If all goes well, it should hatch into a baby leopard tortoise. It can be eaten raw, but it's much better cooked.</EggLeopardTortoiseFertilized.description>
+  <!-- EN: leopard tortoise egg (unfert.) -->
+  <EggLeopardTortoiseUnFertilized.label>leopard tortoise egg (unfert.)</EggLeopardTortoiseUnFertilized.label>
+  <!-- EN: An unfertilized leopard tortoise egg. It can be eaten raw, but it's much better cooked. -->
+  <EggLeopardTortoiseUnFertilized.description>An unfertilized leopard tortoise egg. It can be eaten raw, but it's much better cooked.</EggLeopardTortoiseUnFertilized.description>
+  <!-- EN: mud snake egg (fert.) -->
+  <EggMudSnakeFertilized.label>mud snake egg (fert.)</EggMudSnakeFertilized.label>
+  <!-- EN: A fertilized mud snake egg. If all goes well, it should hatch into a baby mud snake. It can be eaten raw, but it's much better cooked. -->
+  <EggMudSnakeFertilized.description>A fertilized mud snake egg. If all goes well, it should hatch into a baby mud snake. It can be eaten raw, but it's much better cooked.</EggMudSnakeFertilized.description>
+  <!-- EN: mud snake egg (unfert.) -->
+  <EggMudSnakeUnFertilized.label>mud snake egg (unfert.)</EggMudSnakeUnFertilized.label>
+  <!-- EN: An unfertilized mud snake egg. It can be eaten raw, but it's much better cooked. -->
+  <EggMudSnakeUnFertilized.description>An unfertilized mud snake egg. It can be eaten raw, but it's much better cooked.</EggMudSnakeUnFertilized.description>
+  <!-- EN: red-footed tortoise egg (fert.) -->
+  <EggRedFootedTortoiseFertilized.label>red-footed tortoise egg (fert.)</EggRedFootedTortoiseFertilized.label>
+  <!-- EN: A fertilized red-footed tortoise egg. If all goes well, it should hatch into a baby red-footed tortoise. It can be eaten raw, but it's much better cooked. -->
+  <EggRedFootedTortoiseFertilized.description>A fertilized red-footed tortoise egg. If all goes well, it should hatch into a baby red-footed tortoise. It can be eaten raw, but it's much better cooked.</EggRedFootedTortoiseFertilized.description>
+  <!-- EN: red-footed tortoise egg (unfert.) -->
+  <EggRedFootedTortoiseUnFertilized.label>red-footed tortoise egg (unfert.)</EggRedFootedTortoiseUnFertilized.label>
+  <!-- EN: An unfertilized red-footed tortoise egg. It can be eaten raw, but it's much better cooked. -->
+  <EggRedFootedTortoiseUnFertilized.description>An unfertilized red-footed tortoise egg. It can be eaten raw, but it's much better cooked.</EggRedFootedTortoiseUnFertilized.description>
+  <!-- EN: red rattler egg (fert.) -->
+  <EggRedRattlerFertilized.label>red rattler egg (fert.)</EggRedRattlerFertilized.label>
+  <!-- EN: A fertilized red rattler egg. If all goes well, it should hatch into a baby red rattler. It can be eaten raw, but it's much better cooked. -->
+  <EggRedRattlerFertilized.description>A fertilized red rattler egg. If all goes well, it should hatch into a baby red rattler. It can be eaten raw, but it's much better cooked.</EggRedRattlerFertilized.description>
+  <!-- EN: red rattler egg (unfert.) -->
+  <EggRedRattlerUnFertilized.label>red rattler egg (unfert.)</EggRedRattlerUnFertilized.label>
+  <!-- EN: An unfertilized red rattler egg. It can be eaten raw, but it's much better cooked. -->
+  <EggRedRattlerUnFertilized.description>An unfertilized red rattler egg. It can be eaten raw, but it's much better cooked.</EggRedRattlerUnFertilized.description>
+  <!-- EN: scarlet king snake egg (fert.) -->
+  <EggScarletKingSnakeFertilized.label>scarlet king snake egg (fert.)</EggScarletKingSnakeFertilized.label>
+  <!-- EN: A fertilized scarlet king snake egg. If all goes well, it should hatch into a baby scarlet king snake. It can be eaten raw, but it's much better cooked. -->
+  <EggScarletKingSnakeFertilized.description>A fertilized scarlet king snake egg. If all goes well, it should hatch into a baby scarlet king snake. It can be eaten raw, but it's much better cooked.</EggScarletKingSnakeFertilized.description>
+  <!-- EN: scarlet king snake egg (unfert.) -->
+  <EggScarletKingSnakeUnFertilized.label>scarlet king snake egg (unfert.)</EggScarletKingSnakeUnFertilized.label>
+  <!-- EN: An unfertilized scarlet king snake egg. It can be eaten raw, but it's much better cooked. -->
+  <EggScarletKingSnakeUnFertilized.description>An unfertilized scarlet king snake egg. It can be eaten raw, but it's much better cooked.</EggScarletKingSnakeUnFertilized.description>
+  <!-- EN: timber rattler egg (fert.) -->
+  <EggTimberRattlerFertilized.label>timber rattler egg (fert.)</EggTimberRattlerFertilized.label>
+  <!-- EN: A fertilized timber rattler egg. If all goes well, it should hatch into a baby timber rattler. It can be eaten raw, but it's much better cooked. -->
+  <EggTimberRattlerFertilized.description>A fertilized timber rattler egg. If all goes well, it should hatch into a baby timber rattler. It can be eaten raw, but it's much better cooked.</EggTimberRattlerFertilized.description>
+  <!-- EN: timber rattler egg (unfert.) -->
+  <EggTimberRattlerUnFertilized.label>timber rattler egg (unfert.)</EggTimberRattlerUnFertilized.label>
+  <!-- EN: An unfertilized timber rattler egg. It can be eaten raw, but it's much better cooked. -->
+  <EggTimberRattlerUnFertilized.description>An unfertilized timber rattler egg. It can be eaten raw, but it's much better cooked.</EggTimberRattlerUnFertilized.description>
+  <!-- EN: yellow viper egg (fert.) -->
+  <EggYellowViperFertilized.label>yellow viper egg (fert.)</EggYellowViperFertilized.label>
+  <!-- EN: A fertilized yellow viper egg. If all goes well, it should hatch into a baby yellow viper. It can be eaten raw, but it's much better cooked. -->
+  <EggYellowViperFertilized.description>A fertilized yellow viper egg. If all goes well, it should hatch into a baby yellow viper. It can be eaten raw, but it's much better cooked.</EggYellowViperFertilized.description>
+  <!-- EN: yellow viper egg (unfert.) -->
+  <EggYellowViperUnFertilized.label>yellow viper egg (unfert.)</EggYellowViperUnFertilized.label>
+  <!-- EN: An unfertilized yellow viper egg. It can be eaten raw, but it's much better cooked. -->
+  <EggYellowViperUnFertilized.description>An unfertilized yellow viper egg. It can be eaten raw, but it's much better cooked.</EggYellowViperUnFertilized.description>
+</LanguageData>

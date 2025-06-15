@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: longhorn cow -->
+  <LonghornCow.label>longhorn cow</LonghornCow.label>
+  <!-- EN: The Longhorn is a breed of beef cattle from Texas known for their large horns. -->
+  <LonghornCow.description>The Longhorn is a breed of beef cattle from Texas known for their large horns.</LonghornCow.description>
+  <!-- EN: head -->
+  <LonghornCow.tools.head.label>head</LonghornCow.tools.head.label>
+  <!-- EN: left hoof -->
+  <LonghornCow.tools.left_hoof-0.label>left hoof</LonghornCow.tools.left_hoof-0.label>
+  <!-- EN: right hoof -->
+  <LonghornCow.tools.right_hoof-0.label>right hoof</LonghornCow.tools.right_hoof-0.label>
+  <!-- EN: horn -->
+  <LonghornCow.tools.horn.label>horn</LonghornCow.tools.horn.label>
+  <!-- EN: left hoof -->
+  <LonghornCow.tools.left_hoof-1.label>left hoof</LonghornCow.tools.left_hoof-1.label>
+  <!-- EN: right hoof -->
+  <LonghornCow.tools.right_hoof-1.label>right hoof</LonghornCow.tools.right_hoof-1.label>
+</LanguageData>

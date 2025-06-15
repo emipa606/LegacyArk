@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ankole watusi horn -->
+  <AnkoleWatusiHorn.label>ankole watusi horn</AnkoleWatusiHorn.label>
+  <!-- EN: A horn from a Ankole-Watusi cattle, can be used as a weapon or sold for profit. -->
+  <AnkoleWatusiHorn.description>A horn from a Ankole-Watusi cattle, can be used as a weapon or sold for profit.</AnkoleWatusiHorn.description>
+  <!-- EN: point -->
+  <AnkoleWatusiHorn.tools.point.label>point</AnkoleWatusiHorn.tools.point.label>
+  <!-- EN: base -->
+  <AnkoleWatusiHorn.tools.base.label>base</AnkoleWatusiHorn.tools.base.label>
+  <!-- EN: arapawa horn -->
+  <ArapawaHorn.label>arapawa horn</ArapawaHorn.label>
+  <!-- EN: A horn from a Arapawa sheep, can be used as a weapon or sold for profit. -->
+  <ArapawaHorn.description>A horn from a Arapawa sheep, can be used as a weapon or sold for profit.</ArapawaHorn.description>
+  <!-- EN: point -->
+  <ArapawaHorn.tools.point.label>point</ArapawaHorn.tools.point.label>
+  <!-- EN: base -->
+  <ArapawaHorn.tools.base.label>base</ArapawaHorn.tools.base.label>
+  <!-- EN: bighorn horn -->
+  <BighornHorn.label>bighorn horn</BighornHorn.label>
+  <!-- EN: A horn from a Bighorn sheep, can be used as a weapon or sold for profit. -->
+  <BighornHorn.description>A horn from a Bighorn sheep, can be used as a weapon or sold for profit.</BighornHorn.description>
+  <!-- EN: point -->
+  <BighornHorn.tools.point.label>point</BighornHorn.tools.point.label>
+  <!-- EN: base -->
+  <BighornHorn.tools.base.label>base</BighornHorn.tools.base.label>
+  <!-- EN: jacobs horn -->
+  <JacobsHorn.label>jacobs horn</JacobsHorn.label>
+  <!-- EN: A horn from a Jacobs sheep, can be used as a weapon or sold for profit. -->
+  <JacobsHorn.description>A horn from a Jacobs sheep, can be used as a weapon or sold for profit.</JacobsHorn.description>
+  <!-- EN: point -->
+  <JacobsHorn.tools.point.label>point</JacobsHorn.tools.point.label>
+  <!-- EN: base -->
+  <JacobsHorn.tools.base.label>base</JacobsHorn.tools.base.label>
+  <!-- EN: longhorn horn -->
+  <LonghornHorn.label>longhorn horn</LonghornHorn.label>
+  <!-- EN: A horn from a Longhorn cattle, can be used as a weapon or sold for profit. -->
+  <LonghornHorn.description>A horn from a Longhorn cattle, can be used as a weapon or sold for profit.</LonghornHorn.description>
+  <!-- EN: point -->
+  <LonghornHorn.tools.point.label>point</LonghornHorn.tools.point.label>
+  <!-- EN: base -->
+  <LonghornHorn.tools.base.label>base</LonghornHorn.tools.base.label>
+  <!-- EN: mouflon horn -->
+  <MouflonHorn.label>mouflon horn</MouflonHorn.label>
+  <!-- EN: A horn from a Mouflon sheep, can be used as a weapon or sold for profit. -->
+  <MouflonHorn.description>A horn from a Mouflon sheep, can be used as a weapon or sold for profit.</MouflonHorn.description>
+  <!-- EN: point -->
+  <MouflonHorn.tools.point.label>point</MouflonHorn.tools.point.label>
+  <!-- EN: base -->
+  <MouflonHorn.tools.base.label>base</MouflonHorn.tools.base.label>
+  <!-- EN: racka horn -->
+  <RackaHorn.label>racka horn</RackaHorn.label>
+  <!-- EN: A horn from a Racka sheep, can be used as a weapon or sold for profit. -->
+  <RackaHorn.description>A horn from a Racka sheep, can be used as a weapon or sold for profit.</RackaHorn.description>
+  <!-- EN: point -->
+  <RackaHorn.tools.point.label>point</RackaHorn.tools.point.label>
+  <!-- EN: base -->
+  <RackaHorn.tools.base.label>base</RackaHorn.tools.base.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: European badger -->
+  <EuropeanBadger.label>European badger</EuropeanBadger.label>
+  <!-- EN: While they may be small they make up for it in there strength dont mess with a badger. -->
+  <EuropeanBadger.description>While they may be small they make up for it in there strength dont mess with a badger.</EuropeanBadger.description>
+  <!-- EN: left claw -->
+  <EuropeanBadger.tools.left_claw.label>left claw</EuropeanBadger.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <EuropeanBadger.tools.right_claw.label>right claw</EuropeanBadger.tools.right_claw.label>
+</LanguageData>

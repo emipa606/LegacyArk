@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: assaf sheep -->
+  <AssafSheep.label>assaf sheep</AssafSheep.label>
+  <!-- EN: The Assaf is a breed of sheep from Israel known for their milk and floppy ears. -->
+  <AssafSheep.description>The Assaf is a breed of sheep from Israel known for their milk and floppy ears.</AssafSheep.description>
+  <!-- EN: head -->
+  <AssafSheep.tools.head.label>head</AssafSheep.tools.head.label>
+  <!-- EN: left hoof -->
+  <AssafSheep.tools.left_hoof.label>left hoof</AssafSheep.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <AssafSheep.tools.right_hoof.label>right hoof</AssafSheep.tools.right_hoof.label>
+</LanguageData>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: water deer -->
+  <WaterDeer.label>water deer</WaterDeer.label>
+  <!-- EN: water deer doe -->
+  <WaterDeer.labelFemale>water deer doe</WaterDeer.labelFemale>
+  <WaterDeer.labelFemalePlural />
+  <!-- EN: water deer buck -->
+  <WaterDeer.labelMale>water deer buck</WaterDeer.labelMale>
+  <WaterDeer.labelMalePlural />
+  <!-- EN: water deer -->
+  <WaterDeer.labelPlural>water deer</WaterDeer.labelPlural>
+  <WaterDeer.lifeStages.0.label />
+  <WaterDeer.lifeStages.0.labelFemale />
+  <WaterDeer.lifeStages.0.labelFemalePlural />
+  <WaterDeer.lifeStages.0.labelMale />
+  <WaterDeer.lifeStages.0.labelMalePlural />
+  <WaterDeer.lifeStages.0.labelPlural />
+  <WaterDeer.lifeStages.1.label />
+  <WaterDeer.lifeStages.1.labelFemale />
+  <WaterDeer.lifeStages.1.labelFemalePlural />
+  <WaterDeer.lifeStages.1.labelMale />
+  <WaterDeer.lifeStages.1.labelMalePlural />
+  <WaterDeer.lifeStages.1.labelPlural />
+  <WaterDeer.lifeStages.2.label />
+  <WaterDeer.lifeStages.2.labelFemale />
+  <WaterDeer.lifeStages.2.labelFemalePlural />
+  <WaterDeer.lifeStages.2.labelMale />
+  <WaterDeer.lifeStages.2.labelMalePlural />
+  <WaterDeer.lifeStages.2.labelPlural />
+</LanguageData>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ankole watusi cow -->
+  <AnkoleWatusiCow.label>ankole watusi cow</AnkoleWatusiCow.label>
+  <AnkoleWatusiCow.labelFemale />
+  <AnkoleWatusiCow.labelFemalePlural />
+  <!-- EN: ankole watusi bull -->
+  <AnkoleWatusiCow.labelMale>ankole watusi bull</AnkoleWatusiCow.labelMale>
+  <AnkoleWatusiCow.labelMalePlural />
+  <AnkoleWatusiCow.labelPlural />
+  <!-- EN: ankole watusi calf -->
+  <AnkoleWatusiCow.lifeStages.ankole_watusi_calf.label>ankole watusi calf</AnkoleWatusiCow.lifeStages.ankole_watusi_calf.label>
+  <AnkoleWatusiCow.lifeStages.ankole_watusi_calf.labelFemale />
+  <AnkoleWatusiCow.lifeStages.ankole_watusi_calf.labelFemalePlural />
+  <AnkoleWatusiCow.lifeStages.ankole_watusi_calf.labelMale />
+  <AnkoleWatusiCow.lifeStages.ankole_watusi_calf.labelMalePlural />
+  <!-- EN: ankole watusi calves -->
+  <AnkoleWatusiCow.lifeStages.ankole_watusi_calf.labelPlural>ankole watusi calves</AnkoleWatusiCow.lifeStages.ankole_watusi_calf.labelPlural>
+  <AnkoleWatusiCow.lifeStages.1.label />
+  <AnkoleWatusiCow.lifeStages.1.labelFemale />
+  <AnkoleWatusiCow.lifeStages.1.labelFemalePlural />
+  <AnkoleWatusiCow.lifeStages.1.labelMale />
+  <AnkoleWatusiCow.lifeStages.1.labelMalePlural />
+  <AnkoleWatusiCow.lifeStages.1.labelPlural />
+  <AnkoleWatusiCow.lifeStages.2.label />
+  <AnkoleWatusiCow.lifeStages.2.labelFemale />
+  <AnkoleWatusiCow.lifeStages.2.labelFemalePlural />
+  <AnkoleWatusiCow.lifeStages.2.labelMale />
+  <AnkoleWatusiCow.lifeStages.2.labelMalePlural />
+  <AnkoleWatusiCow.lifeStages.2.labelPlural />
+</LanguageData>

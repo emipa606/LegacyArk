@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: green snake -->
+  <GreenSnake.label>green snake</GreenSnake.label>
+  <!-- EN: A small predatory snake. Green snakes can be highly aggressive if provoked, but this one does not have any venom in its bite. -->
+  <GreenSnake.description>A small predatory snake. Green snakes can be highly aggressive if provoked, but this one does not have any venom in its bite.</GreenSnake.description>
+  <!-- EN: fangs -->
+  <GreenSnake.tools.fangs.label>fangs</GreenSnake.tools.fangs.label>
+  <!-- EN: head -->
+  <GreenSnake.tools.head.label>head</GreenSnake.tools.head.label>
+</LanguageData>

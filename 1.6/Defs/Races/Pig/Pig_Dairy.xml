@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ArkPigBase">
+    <defName>DairyPig</defName>
+    <label>dairy pig</label>
+    <description>The Dairy is a breed of pig that was genetically modified to produce milk like a cow.</description>
+    <comps>
+      <li Class="CompProperties_Milkable">
+        <milkDef>Milk</milkDef>
+        <milkIntervalDays>1</milkIntervalDays>
+        <milkAmount>12</milkAmount>
+      </li>
+    </comps>
+  </ThingDef>
+  <!-- Animal Textures -->
+  <PawnKindDef ParentName="ArkPigPawnBase">
+    <defName>DairyPig</defName>
+    <race>DairyPig</race>
+    <labelFemale>dairy sow</labelFemale>
+    <label>dairy pig</label>
+    <lifeStages>
+      <li>
+        <label>dairy piglet</label>
+        <labelPlural>dairy piglets</labelPlural>
+        <bodyGraphicData>
+          <texPath>Animal/Pig/Dairy/DairyPig</texPath>
+          <drawSize>0.6</drawSize>
+          <color>(255,255,255)</color>
+          <shaderType>CutoutSkin</shaderType>
+          <shadowData>
+            <volume>(0.25, 0.25, 0.25)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>0.6</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Pig/Dairy/DairyPig</texPath>
+          <drawSize>1.15</drawSize>
+          <color>(255,255,255)</color>
+          <shaderType>CutoutSkin</shaderType>
+          <shadowData>
+            <volume>(0.25, 0.25, 0.25)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <femaleGraphicData>
+          <texPath>Animal/Pig/Dairy/DairyPigSow</texPath>
+          <drawSize>1.15</drawSize>
+          <color>(255,255,255)</color>
+          <shaderType>CutoutSkin</shaderType>
+          <shadowData>
+            <volume>(0.25, 0.25, 0.25)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </femaleGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>1.15</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Pig/Dairy/DairyPig</texPath>
+          <drawSize>1.15</drawSize>
+          <color>(255,255,255)</color>
+          <shaderType>CutoutSkin</shaderType>
+          <shadowData>
+            <volume>(0.375, 0.375, 0.375)</volume>
+            <offset>(0,0,0)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <femaleGraphicData>
+          <texPath>Animal/Pig/Dairy/DairyPigSow</texPath>
+          <drawSize>1.6</drawSize>
+          <color>(255,255,255)</color>
+          <shaderType>CutoutSkin</shaderType>
+          <shadowData>
+            <volume>(0.25, 0.25, 0.25)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </femaleGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>1.6</drawSize>
+        </dessicatedBodyGraphicData>
+        <femaleDessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>1.6</drawSize>
+        </femaleDessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

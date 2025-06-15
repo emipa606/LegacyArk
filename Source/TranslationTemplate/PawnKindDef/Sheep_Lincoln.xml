@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: lincoln ewe -->
+  <LincolnSheep.label>lincoln ewe</LincolnSheep.label>
+  <LincolnSheep.labelFemale />
+  <LincolnSheep.labelFemalePlural />
+  <!-- EN: lincoln ram -->
+  <LincolnSheep.labelMale>lincoln ram</LincolnSheep.labelMale>
+  <LincolnSheep.labelMalePlural />
+  <!-- EN: lincoln sheep -->
+  <LincolnSheep.labelPlural>lincoln sheep</LincolnSheep.labelPlural>
+  <!-- EN: lincoln lamb -->
+  <LincolnSheep.lifeStages.lincoln_lamb.label>lincoln lamb</LincolnSheep.lifeStages.lincoln_lamb.label>
+  <LincolnSheep.lifeStages.lincoln_lamb.labelFemale />
+  <LincolnSheep.lifeStages.lincoln_lamb.labelFemalePlural />
+  <LincolnSheep.lifeStages.lincoln_lamb.labelMale />
+  <LincolnSheep.lifeStages.lincoln_lamb.labelMalePlural />
+  <!-- EN: lincoln lambs -->
+  <LincolnSheep.lifeStages.lincoln_lamb.labelPlural>lincoln lambs</LincolnSheep.lifeStages.lincoln_lamb.labelPlural>
+  <LincolnSheep.lifeStages.1.label />
+  <LincolnSheep.lifeStages.1.labelFemale />
+  <LincolnSheep.lifeStages.1.labelFemalePlural />
+  <LincolnSheep.lifeStages.1.labelMale />
+  <LincolnSheep.lifeStages.1.labelMalePlural />
+  <LincolnSheep.lifeStages.1.labelPlural />
+  <LincolnSheep.lifeStages.2.label />
+  <LincolnSheep.lifeStages.2.labelFemale />
+  <LincolnSheep.lifeStages.2.labelFemalePlural />
+  <LincolnSheep.lifeStages.2.labelMale />
+  <LincolnSheep.lifeStages.2.labelMalePlural />
+  <LincolnSheep.lifeStages.2.labelPlural />
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: berkshire pig -->
+  <BerkshirePig.label>berkshire pig</BerkshirePig.label>
+  <!-- EN: The Berkshire is a breed of pig from the UK known for their black coats and quality meat. -->
+  <BerkshirePig.description>The Berkshire is a breed of pig from the UK known for their black coats and quality meat.</BerkshirePig.description>
+  <!-- EN: quality pork -->
+  <BerkshirePig.race.meatLabel>quality pork</BerkshirePig.race.meatLabel>
+  <!-- EN: head -->
+  <BerkshirePig.tools.head.label>head</BerkshirePig.tools.head.label>
+</LanguageData>

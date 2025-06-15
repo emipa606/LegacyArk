@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: dairy pig -->
+  <DairyPig.label>dairy pig</DairyPig.label>
+  <!-- EN: The Dairy is a breed of pig that was genetically modified to produce milk like a cow. -->
+  <DairyPig.description>The Dairy is a breed of pig that was genetically modified to produce milk like a cow.</DairyPig.description>
+  <!-- EN: pork -->
+  <DairyPig.race.meatLabel>pork</DairyPig.race.meatLabel>
+  <!-- EN: head -->
+  <DairyPig.tools.head.label>head</DairyPig.tools.head.label>
+</LanguageData>

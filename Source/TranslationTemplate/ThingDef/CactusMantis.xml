@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cactus mantis -->
+  <CactusMantis.label>cactus mantis</CactusMantis.label>
+  <!-- EN: A large, genetically-engineered mantis of a cactus variety. Spliced with insectoid DNA mixed with cactus-RNA by a rogue scientist, this species is a medium predator on tropical islands and deserts where it makes its home. -->
+  <CactusMantis.description>A large, genetically-engineered mantis of a cactus variety. Spliced with insectoid DNA mixed with cactus-RNA by a rogue scientist, this species is a medium predator on tropical islands and deserts where it makes its home.</CactusMantis.description>
+  <!-- EN: mandibles -->
+  <CactusMantis.tools.mandibles.label>mandibles</CactusMantis.tools.mandibles.label>
+  <!-- EN: left scythe -->
+  <CactusMantis.tools.left_scythe.label>left scythe</CactusMantis.tools.left_scythe.label>
+  <!-- EN: right scythe -->
+  <CactusMantis.tools.right_scythe.label>right scythe</CactusMantis.tools.right_scythe.label>
+  <!-- EN: head -->
+  <CactusMantis.tools.head.label>head</CactusMantis.tools.head.label>
+</LanguageData>

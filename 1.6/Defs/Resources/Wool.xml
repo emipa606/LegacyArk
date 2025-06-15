@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Fine Wool -->
+  <ThingDef ParentName="WoolBase">
+    <defName>FineWool</defName>
+    <label>fine wool</label>
+    <description>Soft finely crimped wool.</description>
+    <statBases>
+      <MarketValue>4.0</MarketValue>
+      <DeteriorationRate>2.6</DeteriorationRate>
+      <StuffPower_Insulation_Cold>30</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>18</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>(201,192,181)</color>
+      <commonality>0.15</commonality>
+    </stuffProps>
+    <graphicData>
+      <color>(201,192,181)</color>
+    </graphicData>
+  </ThingDef>
+</Defs>

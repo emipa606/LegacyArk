@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: dairy pig -->
+  <DairyPig.label>dairy pig</DairyPig.label>
+  <!-- EN: dairy sow -->
+  <DairyPig.labelFemale>dairy sow</DairyPig.labelFemale>
+  <!-- EN: dairy piglet -->
+  <DairyPig.lifeStages.dairy_piglet.label>dairy piglet</DairyPig.lifeStages.dairy_piglet.label>
+  <!-- EN: dairy piglets -->
+  <DairyPig.lifeStages.dairy_piglet.labelPlural>dairy piglets</DairyPig.lifeStages.dairy_piglet.labelPlural>
+</LanguageData>

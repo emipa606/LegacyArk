@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: indian giant squirrel -->
+  <IndianGiantSquirrel.label>indian giant squirrel</IndianGiantSquirrel.label>
+  <IndianGiantSquirrel.labelFemale />
+  <IndianGiantSquirrel.labelFemalePlural />
+  <IndianGiantSquirrel.labelMale />
+  <IndianGiantSquirrel.labelMalePlural />
+  <IndianGiantSquirrel.labelPlural />
+  <IndianGiantSquirrel.lifeStages.0.label />
+  <IndianGiantSquirrel.lifeStages.0.labelFemale />
+  <IndianGiantSquirrel.lifeStages.0.labelFemalePlural />
+  <IndianGiantSquirrel.lifeStages.0.labelMale />
+  <IndianGiantSquirrel.lifeStages.0.labelMalePlural />
+  <IndianGiantSquirrel.lifeStages.0.labelPlural />
+  <IndianGiantSquirrel.lifeStages.1.label />
+  <IndianGiantSquirrel.lifeStages.1.labelFemale />
+  <IndianGiantSquirrel.lifeStages.1.labelFemalePlural />
+  <IndianGiantSquirrel.lifeStages.1.labelMale />
+  <IndianGiantSquirrel.lifeStages.1.labelMalePlural />
+  <IndianGiantSquirrel.lifeStages.1.labelPlural />
+  <IndianGiantSquirrel.lifeStages.2.label />
+  <IndianGiantSquirrel.lifeStages.2.labelFemale />
+  <IndianGiantSquirrel.lifeStages.2.labelFemalePlural />
+  <IndianGiantSquirrel.lifeStages.2.labelMale />
+  <IndianGiantSquirrel.lifeStages.2.labelMalePlural />
+  <IndianGiantSquirrel.lifeStages.2.labelPlural />
+</LanguageData>

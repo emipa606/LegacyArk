@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ankole watusi cow -->
+  <AnkoleWatusiCow.label>ankole watusi cow</AnkoleWatusiCow.label>
+  <!-- EN: The Ankole-Watusi is a breed of Sanga cattle from Central Africa known for their enormous horns. -->
+  <AnkoleWatusiCow.description>The Ankole-Watusi is a breed of Sanga cattle from Central Africa known for their enormous horns.</AnkoleWatusiCow.description>
+  <!-- EN: head -->
+  <AnkoleWatusiCow.tools.head.label>head</AnkoleWatusiCow.tools.head.label>
+  <!-- EN: left hoof -->
+  <AnkoleWatusiCow.tools.left_hoof-0.label>left hoof</AnkoleWatusiCow.tools.left_hoof-0.label>
+  <!-- EN: right hoof -->
+  <AnkoleWatusiCow.tools.right_hoof-0.label>right hoof</AnkoleWatusiCow.tools.right_hoof-0.label>
+  <!-- EN: horn -->
+  <AnkoleWatusiCow.tools.horn.label>horn</AnkoleWatusiCow.tools.horn.label>
+  <!-- EN: left hoof -->
+  <AnkoleWatusiCow.tools.left_hoof-1.label>left hoof</AnkoleWatusiCow.tools.left_hoof-1.label>
+  <!-- EN: right hoof -->
+  <AnkoleWatusiCow.tools.right_hoof-1.label>right hoof</AnkoleWatusiCow.tools.right_hoof-1.label>
+</LanguageData>

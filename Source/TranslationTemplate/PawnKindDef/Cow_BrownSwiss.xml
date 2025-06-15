@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: brown swiss cow -->
+  <BrownSwissCow.label>brown swiss cow</BrownSwissCow.label>
+  <BrownSwissCow.labelFemale />
+  <BrownSwissCow.labelFemalePlural />
+  <!-- EN: brown swiss bull -->
+  <BrownSwissCow.labelMale>brown swiss bull</BrownSwissCow.labelMale>
+  <BrownSwissCow.labelMalePlural />
+  <BrownSwissCow.labelPlural />
+  <!-- EN: brown swiss calf -->
+  <BrownSwissCow.lifeStages.brown_swiss_calf.label>brown swiss calf</BrownSwissCow.lifeStages.brown_swiss_calf.label>
+  <BrownSwissCow.lifeStages.brown_swiss_calf.labelFemale />
+  <BrownSwissCow.lifeStages.brown_swiss_calf.labelFemalePlural />
+  <BrownSwissCow.lifeStages.brown_swiss_calf.labelMale />
+  <BrownSwissCow.lifeStages.brown_swiss_calf.labelMalePlural />
+  <!-- EN: brown swiss calves -->
+  <BrownSwissCow.lifeStages.brown_swiss_calf.labelPlural>brown swiss calves</BrownSwissCow.lifeStages.brown_swiss_calf.labelPlural>
+  <BrownSwissCow.lifeStages.1.label />
+  <BrownSwissCow.lifeStages.1.labelFemale />
+  <BrownSwissCow.lifeStages.1.labelFemalePlural />
+  <BrownSwissCow.lifeStages.1.labelMale />
+  <BrownSwissCow.lifeStages.1.labelMalePlural />
+  <BrownSwissCow.lifeStages.1.labelPlural />
+  <BrownSwissCow.lifeStages.2.label />
+  <BrownSwissCow.lifeStages.2.labelFemale />
+  <BrownSwissCow.lifeStages.2.labelFemalePlural />
+  <BrownSwissCow.lifeStages.2.labelMale />
+  <BrownSwissCow.lifeStages.2.labelMalePlural />
+  <BrownSwissCow.lifeStages.2.labelPlural />
+</LanguageData>

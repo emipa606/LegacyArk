@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: leopard tortoise -->
+  <LeopardTortoise.label>leopard tortoise</LeopardTortoise.label>
+  <!-- EN: The leopard tortoise (Stigmochelys pardalis) is a large and attractively marked tortoise found in the savannas of eastern and southern Africa, from Sudan to the southern Cape. It is the only member of the genus Stigmochelys, although in the past, it was commonly placed in Geochelone. -->
+  <LeopardTortoise.description>The leopard tortoise (Stigmochelys pardalis) is a large and attractively marked tortoise found in the savannas of eastern and southern Africa, from Sudan to the southern Cape. It is the only member of the genus Stigmochelys, although in the past, it was commonly placed in Geochelone.</LeopardTortoise.description>
+  <!-- EN: beak -->
+  <LeopardTortoise.tools.beak.label>beak</LeopardTortoise.tools.beak.label>
+  <!-- EN: head -->
+  <LeopardTortoise.tools.head.label>head</LeopardTortoise.tools.head.label>
+</LanguageData>

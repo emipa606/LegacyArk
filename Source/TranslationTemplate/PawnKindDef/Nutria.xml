@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: nutria -->
+  <Nutria.label>nutria</Nutria.label>
+  <!-- EN: nutria female -->
+  <Nutria.labelFemale>nutria female</Nutria.labelFemale>
+  <!-- EN: nutria male -->
+  <Nutria.labelMale>nutria male</Nutria.labelMale>
+  <!-- EN: nutria baby -->
+  <Nutria.lifeStages.nutria_baby.label>nutria baby</Nutria.lifeStages.nutria_baby.label>
+</LanguageData>

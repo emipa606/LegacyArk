@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: saddleback pig -->
+  <SaddlebackPig.label>saddleback pig</SaddlebackPig.label>
+  <!-- EN: The Saddleback is a breed of pig from the Nigeria known for their saddle pattern and heat tolerance. -->
+  <SaddlebackPig.description>The Saddleback is a breed of pig from the Nigeria known for their saddle pattern and heat tolerance.</SaddlebackPig.description>
+  <!-- EN: pork -->
+  <SaddlebackPig.race.meatLabel>pork</SaddlebackPig.race.meatLabel>
+  <!-- EN: head -->
+  <SaddlebackPig.tools.head.label>head</SaddlebackPig.tools.head.label>
+</LanguageData>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: holstein friesian cow -->
+  <HolsteinFriesianCow.label>holstein friesian cow</HolsteinFriesianCow.label>
+  <HolsteinFriesianCow.labelFemale />
+  <HolsteinFriesianCow.labelFemalePlural />
+  <!-- EN: holstein friesian bull -->
+  <HolsteinFriesianCow.labelMale>holstein friesian bull</HolsteinFriesianCow.labelMale>
+  <HolsteinFriesianCow.labelMalePlural />
+  <HolsteinFriesianCow.labelPlural />
+  <!-- EN: holstein friesian calf -->
+  <HolsteinFriesianCow.lifeStages.holstein_friesian_calf.label>holstein friesian calf</HolsteinFriesianCow.lifeStages.holstein_friesian_calf.label>
+  <HolsteinFriesianCow.lifeStages.holstein_friesian_calf.labelFemale />
+  <HolsteinFriesianCow.lifeStages.holstein_friesian_calf.labelFemalePlural />
+  <HolsteinFriesianCow.lifeStages.holstein_friesian_calf.labelMale />
+  <HolsteinFriesianCow.lifeStages.holstein_friesian_calf.labelMalePlural />
+  <!-- EN: holstein friesian calves -->
+  <HolsteinFriesianCow.lifeStages.holstein_friesian_calf.labelPlural>holstein friesian calves</HolsteinFriesianCow.lifeStages.holstein_friesian_calf.labelPlural>
+  <HolsteinFriesianCow.lifeStages.1.label />
+  <HolsteinFriesianCow.lifeStages.1.labelFemale />
+  <HolsteinFriesianCow.lifeStages.1.labelFemalePlural />
+  <HolsteinFriesianCow.lifeStages.1.labelMale />
+  <HolsteinFriesianCow.lifeStages.1.labelMalePlural />
+  <HolsteinFriesianCow.lifeStages.1.labelPlural />
+  <HolsteinFriesianCow.lifeStages.2.label />
+  <HolsteinFriesianCow.lifeStages.2.labelFemale />
+  <HolsteinFriesianCow.lifeStages.2.labelFemalePlural />
+  <HolsteinFriesianCow.lifeStages.2.labelMale />
+  <HolsteinFriesianCow.lifeStages.2.labelMalePlural />
+  <HolsteinFriesianCow.lifeStages.2.labelPlural />
+</LanguageData>

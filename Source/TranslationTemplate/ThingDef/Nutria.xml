@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: nutria -->
+  <Nutria.label>nutria</Nutria.label>
+  <!-- EN: The coypu, also known as the nutria, is a large, herbivorous, semiaquatic rodent. Classified for a long time as the only member of the family Myocastoridae, Myocastor is now included within Echimyidae, the family of the spiny rats. The coypu lives in burrows alongside stretches of water, and feeds on river plant stems. -->
+  <Nutria.description>The coypu, also known as the nutria, is a large, herbivorous, semiaquatic rodent. Classified for a long time as the only member of the family Myocastoridae, Myocastor is now included within Echimyidae, the family of the spiny rats. The coypu lives in burrows alongside stretches of water, and feeds on river plant stems.</Nutria.description>
+  <!-- EN: head -->
+  <Nutria.tools.head.label>head</Nutria.tools.head.label>
+</LanguageData>

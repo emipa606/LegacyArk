@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Animal Base -->
+  <ThingDef ParentName="ArkSheepBase">
+    <defName>BorderLeicesterSheep</defName>
+    <label>border leicester sheep</label>
+    <description>The Border Leicester is a breed of sheep from the England known for their rabbit-like ears and quality meat.</description>
+    <statBases>
+      <ComfyTemperatureMin>-55</ComfyTemperatureMin>
+      <ComfyTemperatureMax>45</ComfyTemperatureMax>
+      <Wildness>0.05</Wildness>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Shearable">
+        <woolDef>WoolSheep</woolDef>
+        <shearIntervalDays>10</shearIntervalDays>
+        <woolAmount>45</woolAmount>
+      </li>
+    </comps>
+    <race>
+      <useMeatFrom>AngusCow</useMeatFrom>
+      <petness>0.10</petness>
+    </race>
+  </ThingDef>
+  <!-- Animal Textures -->
+  <PawnKindDef ParentName="ArkSheepPawnBase">
+    <defName>BorderLeicesterSheep</defName>
+    <labelPlural>border leicester sheep</labelPlural>
+    <race>BorderLeicesterSheep</race>
+    <wildGroupSize>3~9</wildGroupSize>
+    <labelMale>border leicester ram</labelMale>
+    <label>border leicester ewe</label>
+    <lifeStages>
+      <li>
+        <label>border leicester lamb</label>
+        <labelPlural>border leicester lambs</labelPlural>
+        <bodyGraphicData>
+          <texPath>Animal/Sheep/BorderLeicester/BorderLeicester</texPath>
+          <drawSize>1.0</drawSize>
+          <color>(190,140,50)</color>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Sheep/Dessicated_SheepFemale</texPath>
+          <drawSize>1.2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Sheep/BorderLeicester/BorderLeicester</texPath>
+          <drawSize>1.4</drawSize>
+          <color>(255,255,255)</color>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Sheep/Dessicated_SheepFemale</texPath>
+          <drawSize>1.30</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Sheep/BorderLeicester/BorderLeicester</texPath>
+          <drawSize>1.8</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.4, 0.3)</volume>
+            <offset>(0,0,-0.05)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Sheep/Dessicated_SheepFemale</texPath>
+          <drawSize>1.75</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

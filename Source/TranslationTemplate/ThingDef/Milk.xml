@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: rich milk -->
+  <RichMilk.label>rich milk</RichMilk.label>
+  <!-- EN: This milk has a slightly higher butterfat content than regular cow's milk. -->
+  <RichMilk.description>This milk has a slightly higher butterfat content than regular cow's milk.</RichMilk.description>
+</LanguageData>

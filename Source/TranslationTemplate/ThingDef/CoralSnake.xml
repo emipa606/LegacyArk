@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: coral snake -->
+  <CoralSnake.label>coral snake</CoralSnake.label>
+  <!-- EN: A small predatory snake. Coral snakes can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <CoralSnake.description>A small predatory snake. Coral snakes can be highly aggressive if provoked, and their bite injects toxic venom into the victim.</CoralSnake.description>
+  <!-- EN: venom-fangs -->
+  <CoralSnake.tools.venomfangs.label>venom-fangs</CoralSnake.tools.venomfangs.label>
+  <!-- EN: head -->
+  <CoralSnake.tools.head.label>head</CoralSnake.tools.head.label>
+</LanguageData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: border leicester ewe -->
+  <BorderLeicesterSheep.label>border leicester ewe</BorderLeicesterSheep.label>
+  <BorderLeicesterSheep.labelFemale />
+  <BorderLeicesterSheep.labelFemalePlural />
+  <!-- EN: border leicester ram -->
+  <BorderLeicesterSheep.labelMale>border leicester ram</BorderLeicesterSheep.labelMale>
+  <BorderLeicesterSheep.labelMalePlural />
+  <!-- EN: border leicester sheep -->
+  <BorderLeicesterSheep.labelPlural>border leicester sheep</BorderLeicesterSheep.labelPlural>
+  <!-- EN: border leicester lamb -->
+  <BorderLeicesterSheep.lifeStages.border_leicester_lamb.label>border leicester lamb</BorderLeicesterSheep.lifeStages.border_leicester_lamb.label>
+  <BorderLeicesterSheep.lifeStages.border_leicester_lamb.labelFemale />
+  <BorderLeicesterSheep.lifeStages.border_leicester_lamb.labelFemalePlural />
+  <BorderLeicesterSheep.lifeStages.border_leicester_lamb.labelMale />
+  <BorderLeicesterSheep.lifeStages.border_leicester_lamb.labelMalePlural />
+  <!-- EN: border leicester lambs -->
+  <BorderLeicesterSheep.lifeStages.border_leicester_lamb.labelPlural>border leicester lambs</BorderLeicesterSheep.lifeStages.border_leicester_lamb.labelPlural>
+  <BorderLeicesterSheep.lifeStages.1.label />
+  <BorderLeicesterSheep.lifeStages.1.labelFemale />
+  <BorderLeicesterSheep.lifeStages.1.labelFemalePlural />
+  <BorderLeicesterSheep.lifeStages.1.labelMale />
+  <BorderLeicesterSheep.lifeStages.1.labelMalePlural />
+  <BorderLeicesterSheep.lifeStages.1.labelPlural />
+  <BorderLeicesterSheep.lifeStages.2.label />
+  <BorderLeicesterSheep.lifeStages.2.labelFemale />
+  <BorderLeicesterSheep.lifeStages.2.labelFemalePlural />
+  <BorderLeicesterSheep.lifeStages.2.labelMale />
+  <BorderLeicesterSheep.lifeStages.2.labelMalePlural />
+  <BorderLeicesterSheep.lifeStages.2.labelPlural />
+</LanguageData>

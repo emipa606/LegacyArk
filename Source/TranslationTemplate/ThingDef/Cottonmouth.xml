@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cottonmouth -->
+  <Cottonmouth.label>cottonmouth</Cottonmouth.label>
+  <!-- EN: A small predatory snake. Cottonmouths can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <Cottonmouth.description>A small predatory snake. Cottonmouths can be highly aggressive if provoked, and their bite injects toxic venom into the victim.</Cottonmouth.description>
+  <!-- EN: venom-fangs -->
+  <Cottonmouth.tools.venomfangs.label>venom-fangs</Cottonmouth.tools.venomfangs.label>
+  <!-- EN: head -->
+  <Cottonmouth.tools.head.label>head</Cottonmouth.tools.head.label>
+</LanguageData>

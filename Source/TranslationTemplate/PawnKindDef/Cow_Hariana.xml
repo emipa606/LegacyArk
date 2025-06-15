@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: hariana cow -->
+  <HarianaCow.label>hariana cow</HarianaCow.label>
+  <HarianaCow.labelFemale />
+  <HarianaCow.labelFemalePlural />
+  <!-- EN: hariana bull -->
+  <HarianaCow.labelMale>hariana bull</HarianaCow.labelMale>
+  <HarianaCow.labelMalePlural />
+  <HarianaCow.labelPlural />
+  <!-- EN: hariana calf -->
+  <HarianaCow.lifeStages.hariana_calf.label>hariana calf</HarianaCow.lifeStages.hariana_calf.label>
+  <HarianaCow.lifeStages.hariana_calf.labelFemale />
+  <HarianaCow.lifeStages.hariana_calf.labelFemalePlural />
+  <HarianaCow.lifeStages.hariana_calf.labelMale />
+  <HarianaCow.lifeStages.hariana_calf.labelMalePlural />
+  <!-- EN: hariana calves -->
+  <HarianaCow.lifeStages.hariana_calf.labelPlural>hariana calves</HarianaCow.lifeStages.hariana_calf.labelPlural>
+  <HarianaCow.lifeStages.1.label />
+  <HarianaCow.lifeStages.1.labelFemale />
+  <HarianaCow.lifeStages.1.labelFemalePlural />
+  <HarianaCow.lifeStages.1.labelMale />
+  <HarianaCow.lifeStages.1.labelMalePlural />
+  <HarianaCow.lifeStages.1.labelPlural />
+  <HarianaCow.lifeStages.2.label />
+  <HarianaCow.lifeStages.2.labelFemale />
+  <HarianaCow.lifeStages.2.labelFemalePlural />
+  <HarianaCow.lifeStages.2.labelMale />
+  <HarianaCow.lifeStages.2.labelMalePlural />
+  <HarianaCow.lifeStages.2.labelPlural />
+</LanguageData>

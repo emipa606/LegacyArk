@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: brava cow -->
+  <BravaCow.label>brava cow</BravaCow.label>
+  <BravaCow.labelFemale />
+  <BravaCow.labelFemalePlural />
+  <!-- EN: brava bull -->
+  <BravaCow.labelMale>brava bull</BravaCow.labelMale>
+  <BravaCow.labelMalePlural />
+  <BravaCow.labelPlural />
+  <!-- EN: brava calf -->
+  <BravaCow.lifeStages.brava_calf.label>brava calf</BravaCow.lifeStages.brava_calf.label>
+  <BravaCow.lifeStages.brava_calf.labelFemale />
+  <BravaCow.lifeStages.brava_calf.labelFemalePlural />
+  <BravaCow.lifeStages.brava_calf.labelMale />
+  <BravaCow.lifeStages.brava_calf.labelMalePlural />
+  <!-- EN: brava calves -->
+  <BravaCow.lifeStages.brava_calf.labelPlural>brava calves</BravaCow.lifeStages.brava_calf.labelPlural>
+  <BravaCow.lifeStages.1.label />
+  <BravaCow.lifeStages.1.labelFemale />
+  <BravaCow.lifeStages.1.labelFemalePlural />
+  <BravaCow.lifeStages.1.labelMale />
+  <BravaCow.lifeStages.1.labelMalePlural />
+  <BravaCow.lifeStages.1.labelPlural />
+  <BravaCow.lifeStages.2.label />
+  <BravaCow.lifeStages.2.labelFemale />
+  <BravaCow.lifeStages.2.labelFemalePlural />
+  <BravaCow.lifeStages.2.labelMale />
+  <BravaCow.lifeStages.2.labelMalePlural />
+  <BravaCow.lifeStages.2.labelPlural />
+</LanguageData>

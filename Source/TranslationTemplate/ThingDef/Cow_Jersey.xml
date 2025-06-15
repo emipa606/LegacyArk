@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: jersey cow -->
+  <JerseyCow.label>jersey cow</JerseyCow.label>
+  <!-- EN: The Jersey is a breed of dairy cattle from the British Channel Islands known for their rich milk. -->
+  <JerseyCow.description>The Jersey is a breed of dairy cattle from the British Channel Islands known for their rich milk.</JerseyCow.description>
+  <!-- EN: head -->
+  <JerseyCow.tools.head.label>head</JerseyCow.tools.head.label>
+  <!-- EN: left hoof -->
+  <JerseyCow.tools.left_hoof.label>left hoof</JerseyCow.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <JerseyCow.tools.right_hoof.label>right hoof</JerseyCow.tools.right_hoof.label>
+</LanguageData>

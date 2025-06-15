@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: mud snake -->
+  <MudSnake.label>mud snake</MudSnake.label>
+  <!-- EN: A small predatory snake. Mud snakes can be highly aggressive if provoked, but this one does not have any venom in its bite. -->
+  <MudSnake.description>A small predatory snake. Mud snakes can be highly aggressive if provoked, but this one does not have any venom in its bite.</MudSnake.description>
+  <!-- EN: fangs -->
+  <MudSnake.tools.fangs.label>fangs</MudSnake.tools.fangs.label>
+  <!-- EN: head -->
+  <MudSnake.tools.head.label>head</MudSnake.tools.head.label>
+</LanguageData>

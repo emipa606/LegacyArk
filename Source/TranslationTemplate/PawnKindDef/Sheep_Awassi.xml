@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: awassi ewe -->
+  <AwassiSheep.label>awassi ewe</AwassiSheep.label>
+  <AwassiSheep.labelFemale />
+  <AwassiSheep.labelFemalePlural />
+  <!-- EN: awassi ram -->
+  <AwassiSheep.labelMale>awassi ram</AwassiSheep.labelMale>
+  <AwassiSheep.labelMalePlural />
+  <!-- EN: awassi sheep -->
+  <AwassiSheep.labelPlural>awassi sheep</AwassiSheep.labelPlural>
+  <!-- EN: awassi lamb -->
+  <AwassiSheep.lifeStages.awassi_lamb.label>awassi lamb</AwassiSheep.lifeStages.awassi_lamb.label>
+  <AwassiSheep.lifeStages.awassi_lamb.labelFemale />
+  <AwassiSheep.lifeStages.awassi_lamb.labelFemalePlural />
+  <AwassiSheep.lifeStages.awassi_lamb.labelMale />
+  <AwassiSheep.lifeStages.awassi_lamb.labelMalePlural />
+  <!-- EN: awassi lambs -->
+  <AwassiSheep.lifeStages.awassi_lamb.labelPlural>awassi lambs</AwassiSheep.lifeStages.awassi_lamb.labelPlural>
+  <AwassiSheep.lifeStages.1.label />
+  <AwassiSheep.lifeStages.1.labelFemale />
+  <AwassiSheep.lifeStages.1.labelFemalePlural />
+  <AwassiSheep.lifeStages.1.labelMale />
+  <AwassiSheep.lifeStages.1.labelMalePlural />
+  <AwassiSheep.lifeStages.1.labelPlural />
+  <AwassiSheep.lifeStages.2.label />
+  <AwassiSheep.lifeStages.2.labelFemale />
+  <AwassiSheep.lifeStages.2.labelFemalePlural />
+  <AwassiSheep.lifeStages.2.labelMale />
+  <AwassiSheep.lifeStages.2.labelMalePlural />
+  <AwassiSheep.lifeStages.2.labelPlural />
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: brown swiss cow -->
+  <BrownSwissCow.label>brown swiss cow</BrownSwissCow.label>
+  <!-- EN: The Brown Swiss is a breed of dairy cattle from Switzerland known for their rich milk. -->
+  <BrownSwissCow.description>The Brown Swiss is a breed of dairy cattle from Switzerland known for their rich milk.</BrownSwissCow.description>
+  <!-- EN: head -->
+  <BrownSwissCow.tools.head.label>head</BrownSwissCow.tools.head.label>
+  <!-- EN: left hoof -->
+  <BrownSwissCow.tools.left_hoof.label>left hoof</BrownSwissCow.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <BrownSwissCow.tools.right_hoof.label>right hoof</BrownSwissCow.tools.right_hoof.label>
+</LanguageData>

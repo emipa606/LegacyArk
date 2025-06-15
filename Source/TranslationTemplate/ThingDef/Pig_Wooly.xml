@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: wooly pig -->
+  <WoolyPig.label>wooly pig</WoolyPig.label>
+  <!-- EN: The Wooly Pig is a breed of pig from Hungary known for their Wooly coats. -->
+  <WoolyPig.description>The Wooly Pig is a breed of pig from Hungary known for their Wooly coats.</WoolyPig.description>
+  <!-- EN: pork -->
+  <WoolyPig.race.meatLabel>pork</WoolyPig.race.meatLabel>
+  <!-- EN: head -->
+  <WoolyPig.tools.head.label>head</WoolyPig.tools.head.label>
+</LanguageData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: zebu cow -->
+  <ZebuCow.label>zebu cow</ZebuCow.label>
+  <!-- EN: zebu cow -->
+  <ZebuCow.labelFemale>zebu cow</ZebuCow.labelFemale>
+  <ZebuCow.labelFemalePlural />
+  <!-- EN: zebu bull -->
+  <ZebuCow.labelMale>zebu bull</ZebuCow.labelMale>
+  <ZebuCow.labelMalePlural />
+  <ZebuCow.labelPlural />
+  <!-- EN: zebu calf -->
+  <ZebuCow.lifeStages.zebu_calf.label>zebu calf</ZebuCow.lifeStages.zebu_calf.label>
+  <ZebuCow.lifeStages.zebu_calf.labelFemale />
+  <ZebuCow.lifeStages.zebu_calf.labelFemalePlural />
+  <ZebuCow.lifeStages.zebu_calf.labelMale />
+  <ZebuCow.lifeStages.zebu_calf.labelMalePlural />
+  <!-- EN: zebu calves -->
+  <ZebuCow.lifeStages.zebu_calf.labelPlural>zebu calves</ZebuCow.lifeStages.zebu_calf.labelPlural>
+  <ZebuCow.lifeStages.1.label />
+  <ZebuCow.lifeStages.1.labelFemale />
+  <ZebuCow.lifeStages.1.labelFemalePlural />
+  <ZebuCow.lifeStages.1.labelMale />
+  <ZebuCow.lifeStages.1.labelMalePlural />
+  <ZebuCow.lifeStages.1.labelPlural />
+  <ZebuCow.lifeStages.2.label />
+  <ZebuCow.lifeStages.2.labelFemale />
+  <ZebuCow.lifeStages.2.labelFemalePlural />
+  <ZebuCow.lifeStages.2.labelMale />
+  <ZebuCow.lifeStages.2.labelMalePlural />
+  <ZebuCow.lifeStages.2.labelPlural />
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: boomoo cow -->
+  <BoomooCow.label>boomoo cow</BoomooCow.label>
+  <!-- EN: The Boom Cow or "Boomoo" is a breed of genetically modified cattle from the Outter Rim known for their chemical production instead of milk. -->
+  <BoomooCow.description>The Boom Cow or "Boomoo" is a breed of genetically modified cattle from the Outter Rim known for their chemical production instead of milk.</BoomooCow.description>
+  <!-- EN: head -->
+  <BoomooCow.tools.head.label>head</BoomooCow.tools.head.label>
+  <!-- EN: left hoof -->
+  <BoomooCow.tools.left_hoof.label>left hoof</BoomooCow.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <BoomooCow.tools.right_hoof.label>right hoof</BoomooCow.tools.right_hoof.label>
+</LanguageData>

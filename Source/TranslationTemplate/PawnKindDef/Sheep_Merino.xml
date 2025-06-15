@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: merino ewe -->
+  <MerinoSheep.label>merino ewe</MerinoSheep.label>
+  <MerinoSheep.labelFemale />
+  <MerinoSheep.labelFemalePlural />
+  <!-- EN: merino ram -->
+  <MerinoSheep.labelMale>merino ram</MerinoSheep.labelMale>
+  <MerinoSheep.labelMalePlural />
+  <!-- EN: merino sheep -->
+  <MerinoSheep.labelPlural>merino sheep</MerinoSheep.labelPlural>
+  <!-- EN: merino lamb -->
+  <MerinoSheep.lifeStages.merino_lamb.label>merino lamb</MerinoSheep.lifeStages.merino_lamb.label>
+  <MerinoSheep.lifeStages.merino_lamb.labelFemale />
+  <MerinoSheep.lifeStages.merino_lamb.labelFemalePlural />
+  <MerinoSheep.lifeStages.merino_lamb.labelMale />
+  <MerinoSheep.lifeStages.merino_lamb.labelMalePlural />
+  <!-- EN: merino lambs -->
+  <MerinoSheep.lifeStages.merino_lamb.labelPlural>merino lambs</MerinoSheep.lifeStages.merino_lamb.labelPlural>
+  <MerinoSheep.lifeStages.1.label />
+  <MerinoSheep.lifeStages.1.labelFemale />
+  <MerinoSheep.lifeStages.1.labelFemalePlural />
+  <MerinoSheep.lifeStages.1.labelMale />
+  <MerinoSheep.lifeStages.1.labelMalePlural />
+  <MerinoSheep.lifeStages.1.labelPlural />
+  <MerinoSheep.lifeStages.2.label />
+  <MerinoSheep.lifeStages.2.labelFemale />
+  <MerinoSheep.lifeStages.2.labelFemalePlural />
+  <MerinoSheep.lifeStages.2.labelMale />
+  <MerinoSheep.lifeStages.2.labelMalePlural />
+  <MerinoSheep.lifeStages.2.labelPlural />
+</LanguageData>

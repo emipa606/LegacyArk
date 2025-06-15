@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: timber rattler -->
+  <TimberRattler.label>timber rattler</TimberRattler.label>
+  <!-- EN: A small predatory snake. Timber rattlers can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <TimberRattler.description>A small predatory snake. Timber rattlers can be highly aggressive if provoked, and their bite injects toxic venom into the victim.</TimberRattler.description>
+  <!-- EN: venom-fangs -->
+  <TimberRattler.tools.venomfangs.label>venom-fangs</TimberRattler.tools.venomfangs.label>
+  <!-- EN: head -->
+  <TimberRattler.tools.head.label>head</TimberRattler.tools.head.label>
+</LanguageData>

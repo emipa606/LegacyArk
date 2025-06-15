@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: limousin cow -->
+  <LimousinCow.label>limousin cow</LimousinCow.label>
+  <LimousinCow.labelFemale />
+  <LimousinCow.labelFemalePlural />
+  <!-- EN: limousin bull -->
+  <LimousinCow.labelMale>limousin bull</LimousinCow.labelMale>
+  <LimousinCow.labelMalePlural />
+  <LimousinCow.labelPlural />
+  <!-- EN: limousin calf -->
+  <LimousinCow.lifeStages.limousin_calf.label>limousin calf</LimousinCow.lifeStages.limousin_calf.label>
+  <LimousinCow.lifeStages.limousin_calf.labelFemale />
+  <LimousinCow.lifeStages.limousin_calf.labelFemalePlural />
+  <LimousinCow.lifeStages.limousin_calf.labelMale />
+  <LimousinCow.lifeStages.limousin_calf.labelMalePlural />
+  <!-- EN: limousin calves -->
+  <LimousinCow.lifeStages.limousin_calf.labelPlural>limousin calves</LimousinCow.lifeStages.limousin_calf.labelPlural>
+  <LimousinCow.lifeStages.1.label />
+  <LimousinCow.lifeStages.1.labelFemale />
+  <LimousinCow.lifeStages.1.labelFemalePlural />
+  <LimousinCow.lifeStages.1.labelMale />
+  <LimousinCow.lifeStages.1.labelMalePlural />
+  <LimousinCow.lifeStages.1.labelPlural />
+  <LimousinCow.lifeStages.2.label />
+  <LimousinCow.lifeStages.2.labelFemale />
+  <LimousinCow.lifeStages.2.labelFemalePlural />
+  <LimousinCow.lifeStages.2.labelMale />
+  <LimousinCow.lifeStages.2.labelMalePlural />
+  <LimousinCow.lifeStages.2.labelPlural />
+</LanguageData>

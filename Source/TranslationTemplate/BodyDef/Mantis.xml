@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: mantis -->
+  <Mantis.label>mantis</Mantis.label>
+  <!-- EN: left elytra -->
+  <Mantis.corePart.parts.left_elytra.customLabel>left elytra</Mantis.corePart.parts.left_elytra.customLabel>
+  <!-- EN: right elytra -->
+  <Mantis.corePart.parts.right_elytra.customLabel>right elytra</Mantis.corePart.parts.right_elytra.customLabel>
+  <!-- EN: left eye -->
+  <Mantis.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>left eye</Mantis.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Mantis.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>right eye</Mantis.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <!-- EN: left antenna -->
+  <Mantis.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>left antenna</Mantis.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <!-- EN: right antenna -->
+  <Mantis.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>right antenna</Mantis.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <!-- EN: front left leg -->
+  <Mantis.corePart.parts.front_left_leg.customLabel>front left leg</Mantis.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left scythe -->
+  <Mantis.corePart.parts.front_left_leg.parts.front_left_scythe.customLabel>front left scythe</Mantis.corePart.parts.front_left_leg.parts.front_left_scythe.customLabel>
+  <!-- EN: front right leg -->
+  <Mantis.corePart.parts.front_right_leg.customLabel>front right leg</Mantis.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right scythe -->
+  <Mantis.corePart.parts.front_right_leg.parts.front_right_scythe.customLabel>front right scythe</Mantis.corePart.parts.front_right_leg.parts.front_right_scythe.customLabel>
+  <!-- EN: middle left leg -->
+  <Mantis.corePart.parts.middle_left_leg.customLabel>middle left leg</Mantis.corePart.parts.middle_left_leg.customLabel>
+  <!-- EN: middle right leg -->
+  <Mantis.corePart.parts.middle_right_leg.customLabel>middle right leg</Mantis.corePart.parts.middle_right_leg.customLabel>
+  <!-- EN: rear left leg -->
+  <Mantis.corePart.parts.rear_left_leg.customLabel>rear left leg</Mantis.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear right leg -->
+  <Mantis.corePart.parts.rear_right_leg.customLabel>rear right leg</Mantis.corePart.parts.rear_right_leg.customLabel>
+</LanguageData>

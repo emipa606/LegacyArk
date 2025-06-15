@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: front left scythe -->
+  <FrontLeftCactusScythe.label>front left scythe</FrontLeftCactusScythe.label>
+  <!-- EN: scythe -->
+  <FrontLeftCactusScythe.labelShort>scythe</FrontLeftCactusScythe.labelShort>
+  <!-- EN: front right scythe -->
+  <FrontRightCactusScythe.label>front right scythe</FrontRightCactusScythe.label>
+  <!-- EN: scythe -->
+  <FrontRightCactusScythe.labelShort>scythe</FrontRightCactusScythe.labelShort>
+</LanguageData>

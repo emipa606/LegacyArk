@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ArkPigBase">
+    <defName>SaddlebackPig</defName>
+    <label>saddleback pig</label>
+    <description>The Saddleback is a breed of pig from the Nigeria known for their saddle pattern and heat tolerance.</description>
+    <statBases>
+      <ComfyTemperatureMax>50</ComfyTemperatureMax>
+    </statBases>
+    <race>
+      <baseHungerRate>0.40</baseHungerRate>
+    </race>
+  </ThingDef>
+  <!-- Animal Textures -->
+  <PawnKindDef ParentName="ArkPigPawnBase">
+    <defName>SaddlebackPig</defName>
+    <race>SaddlebackPig</race>
+    <labelFemale>saddleback sow</labelFemale>
+    <label>saddleback pig</label>
+    <lifeStages>
+      <li>
+        <label>saddleback piglet</label>
+        <labelPlural>saddleback piglets</labelPlural>
+        <bodyGraphicData>
+          <texPath>Animal/Pig/Saddleback/SaddlebackPig</texPath>
+          <drawSize>0.6</drawSize>
+          <color>(255,255,255)</color>
+          <shaderType>CutoutSkin</shaderType>
+          <shadowData>
+            <volume>(0.25, 0.25, 0.25)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>0.6</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Pig/Saddleback/SaddlebackPig</texPath>
+          <drawSize>1.15</drawSize>
+          <color>(255,255,255)</color>
+          <shaderType>CutoutSkin</shaderType>
+          <shadowData>
+            <volume>(0.25, 0.25, 0.25)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>1.15</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Pig/Saddleback/SaddlebackPig</texPath>
+          <drawSize>1.6</drawSize>
+          <color>(255,255,255)</color>
+          <shaderType>CutoutSkin</shaderType>
+          <shadowData>
+            <volume>(0.375, 0.375, 0.375)</volume>
+            <offset>(0,0,0)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>1.6</drawSize>
+        </dessicatedBodyGraphicData>
+        <femaleDessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>1.6</drawSize>
+        </femaleDessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

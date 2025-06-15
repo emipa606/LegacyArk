@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: jersey cow -->
+  <JerseyCow.label>jersey cow</JerseyCow.label>
+  <JerseyCow.labelFemale />
+  <JerseyCow.labelFemalePlural />
+  <!-- EN: jersey bull -->
+  <JerseyCow.labelMale>jersey bull</JerseyCow.labelMale>
+  <JerseyCow.labelMalePlural />
+  <JerseyCow.labelPlural />
+  <!-- EN: jersey calf -->
+  <JerseyCow.lifeStages.jersey_calf.label>jersey calf</JerseyCow.lifeStages.jersey_calf.label>
+  <JerseyCow.lifeStages.jersey_calf.labelFemale />
+  <JerseyCow.lifeStages.jersey_calf.labelFemalePlural />
+  <JerseyCow.lifeStages.jersey_calf.labelMale />
+  <JerseyCow.lifeStages.jersey_calf.labelMalePlural />
+  <!-- EN: jersey calves -->
+  <JerseyCow.lifeStages.jersey_calf.labelPlural>jersey calves</JerseyCow.lifeStages.jersey_calf.labelPlural>
+  <JerseyCow.lifeStages.1.label />
+  <JerseyCow.lifeStages.1.labelFemale />
+  <JerseyCow.lifeStages.1.labelFemalePlural />
+  <JerseyCow.lifeStages.1.labelMale />
+  <JerseyCow.lifeStages.1.labelMalePlural />
+  <JerseyCow.lifeStages.1.labelPlural />
+  <JerseyCow.lifeStages.2.label />
+  <JerseyCow.lifeStages.2.labelFemale />
+  <JerseyCow.lifeStages.2.labelFemalePlural />
+  <JerseyCow.lifeStages.2.labelMale />
+  <JerseyCow.lifeStages.2.labelMalePlural />
+  <JerseyCow.lifeStages.2.labelPlural />
+</LanguageData>

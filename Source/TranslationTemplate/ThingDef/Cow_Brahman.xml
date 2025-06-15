@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: brahman cow -->
+  <BrahmanCow.label>brahman cow</BrahmanCow.label>
+  <!-- EN: The Brahman is an American breed of zebuine beef cattle. The Brahman has a high tolerance of heat and gives more meat. -->
+  <BrahmanCow.description>The Brahman is an American breed of zebuine beef cattle. The Brahman has a high tolerance of heat and gives more meat.</BrahmanCow.description>
+  <!-- EN: head -->
+  <BrahmanCow.tools.head.label>head</BrahmanCow.tools.head.label>
+  <!-- EN: left hoof -->
+  <BrahmanCow.tools.left_hoof.label>left hoof</BrahmanCow.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <BrahmanCow.tools.right_hoof.label>right hoof</BrahmanCow.tools.right_hoof.label>
+</LanguageData>

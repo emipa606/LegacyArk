@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: mouflon ewe -->
+  <MouflonSheep.label>mouflon ewe</MouflonSheep.label>
+  <MouflonSheep.labelFemale />
+  <MouflonSheep.labelFemalePlural />
+  <!-- EN: mouflon ram -->
+  <MouflonSheep.labelMale>mouflon ram</MouflonSheep.labelMale>
+  <MouflonSheep.labelMalePlural />
+  <!-- EN: mouflon sheep -->
+  <MouflonSheep.labelPlural>mouflon sheep</MouflonSheep.labelPlural>
+  <!-- EN: mouflon lamb -->
+  <MouflonSheep.lifeStages.mouflon_lamb.label>mouflon lamb</MouflonSheep.lifeStages.mouflon_lamb.label>
+  <MouflonSheep.lifeStages.mouflon_lamb.labelFemale />
+  <MouflonSheep.lifeStages.mouflon_lamb.labelFemalePlural />
+  <MouflonSheep.lifeStages.mouflon_lamb.labelMale />
+  <MouflonSheep.lifeStages.mouflon_lamb.labelMalePlural />
+  <!-- EN: mouflon lambs -->
+  <MouflonSheep.lifeStages.mouflon_lamb.labelPlural>mouflon lambs</MouflonSheep.lifeStages.mouflon_lamb.labelPlural>
+  <MouflonSheep.lifeStages.1.label />
+  <MouflonSheep.lifeStages.1.labelFemale />
+  <MouflonSheep.lifeStages.1.labelFemalePlural />
+  <MouflonSheep.lifeStages.1.labelMale />
+  <MouflonSheep.lifeStages.1.labelMalePlural />
+  <MouflonSheep.lifeStages.1.labelPlural />
+  <MouflonSheep.lifeStages.2.label />
+  <MouflonSheep.lifeStages.2.labelFemale />
+  <MouflonSheep.lifeStages.2.labelFemalePlural />
+  <MouflonSheep.lifeStages.2.labelMale />
+  <MouflonSheep.lifeStages.2.labelMalePlural />
+  <MouflonSheep.lifeStages.2.labelPlural />
+</LanguageData>

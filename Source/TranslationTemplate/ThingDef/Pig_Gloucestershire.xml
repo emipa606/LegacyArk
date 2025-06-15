@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: gloucestershire pig -->
+  <GloucestershirePig.label>gloucestershire pig</GloucestershirePig.label>
+  <!-- EN: The Gloucestershire is a breed of pig from the UK known for their spotted pattern and large size. -->
+  <GloucestershirePig.description>The Gloucestershire is a breed of pig from the UK known for their spotted pattern and large size.</GloucestershirePig.description>
+  <!-- EN: pork -->
+  <GloucestershirePig.race.meatLabel>pork</GloucestershirePig.race.meatLabel>
+  <!-- EN: head -->
+  <GloucestershirePig.tools.head.label>head</GloucestershirePig.tools.head.label>
+</LanguageData>

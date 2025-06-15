@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: highland cow -->
+  <HighlandCow.label>highland cow</HighlandCow.label>
+  <HighlandCow.labelFemale />
+  <HighlandCow.labelFemalePlural />
+  <!-- EN: highland bull -->
+  <HighlandCow.labelMale>highland bull</HighlandCow.labelMale>
+  <HighlandCow.labelMalePlural />
+  <HighlandCow.labelPlural />
+  <!-- EN: highland calf -->
+  <HighlandCow.lifeStages.highland_calf.label>highland calf</HighlandCow.lifeStages.highland_calf.label>
+  <HighlandCow.lifeStages.highland_calf.labelFemale />
+  <HighlandCow.lifeStages.highland_calf.labelFemalePlural />
+  <HighlandCow.lifeStages.highland_calf.labelMale />
+  <HighlandCow.lifeStages.highland_calf.labelMalePlural />
+  <!-- EN: highland calves -->
+  <HighlandCow.lifeStages.highland_calf.labelPlural>highland calves</HighlandCow.lifeStages.highland_calf.labelPlural>
+  <HighlandCow.lifeStages.1.label />
+  <HighlandCow.lifeStages.1.labelFemale />
+  <HighlandCow.lifeStages.1.labelFemalePlural />
+  <HighlandCow.lifeStages.1.labelMale />
+  <HighlandCow.lifeStages.1.labelMalePlural />
+  <HighlandCow.lifeStages.1.labelPlural />
+  <HighlandCow.lifeStages.2.label />
+  <HighlandCow.lifeStages.2.labelFemale />
+  <HighlandCow.lifeStages.2.labelFemalePlural />
+  <HighlandCow.lifeStages.2.labelMale />
+  <HighlandCow.lifeStages.2.labelMalePlural />
+  <HighlandCow.lifeStages.2.labelPlural />
+</LanguageData>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ArkPigBase">
+    <defName>DurocPig</defName>
+    <label>duroc pig</label>
+    <description>The Duroc is a breed of pig from New England known for their rusty coats and fast growth.</description>
+    <race>
+      <lifeStageAges Inherit="False">
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.05</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.2</minAge>
+          <soundWounded>Pawn_Wildboar_Wounded</soundWounded>
+          <soundDeath>Pawn_Wildboar_Death</soundDeath>
+          <soundCall>Pawn_Wildboar_Call</soundCall>
+          <soundAngry>Pawn_Wildboar_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+    </race>
+  </ThingDef>
+  <!-- Animal Textures -->
+  <PawnKindDef ParentName="ArkPigPawnBase">
+    <defName>DurocPig</defName>
+    <race>DurocPig</race>
+    <labelFemale>duroc sow</labelFemale>
+    <label>duroc pig</label>
+    <lifeStages>
+      <li>
+        <label>duroc piglet</label>
+        <labelPlural>duroc piglets</labelPlural>
+        <bodyGraphicData>
+          <texPath>Animal/Pig/Duroc/DurocPig</texPath>
+          <drawSize>0.6</drawSize>
+          <color>(255,255,255)</color>
+          <shaderType>CutoutSkin</shaderType>
+          <shadowData>
+            <volume>(0.25, 0.25, 0.25)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>0.6</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Pig/Duroc/DurocPig</texPath>
+          <drawSize>1.15</drawSize>
+          <color>(255,255,255)</color>
+          <shaderType>CutoutSkin</shaderType>
+          <shadowData>
+            <volume>(0.25, 0.25, 0.25)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>1.15</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Animal/Pig/Duroc/DurocPig</texPath>
+          <drawSize>1.6</drawSize>
+          <color>(255,255,255)</color>
+          <shaderType>CutoutSkin</shaderType>
+          <shadowData>
+            <volume>(0.375, 0.375, 0.375)</volume>
+            <offset>(0,0,0)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>1.6</drawSize>
+        </dessicatedBodyGraphicData>
+        <femaleDessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Pig/Dessicated_Pig</texPath>
+          <drawSize>1.6</drawSize>
+        </femaleDessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

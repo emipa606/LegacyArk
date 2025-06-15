@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: highland cow -->
+  <HighlandCow.label>highland cow</HighlandCow.label>
+  <!-- EN: Highland cattle have long horns and wavy coats of fur. They are very hardy breed of cattle and adapt at living in harsh environments. Highlands are primarily bred for their high quality milk. -->
+  <HighlandCow.description>Highland cattle have long horns and wavy coats of fur. They are very hardy breed of cattle and adapt at living in harsh environments. Highlands are primarily bred for their high quality milk.</HighlandCow.description>
+  <!-- EN: head -->
+  <HighlandCow.tools.head.label>head</HighlandCow.tools.head.label>
+  <!-- EN: left hoof -->
+  <HighlandCow.tools.left_hoof.label>left hoof</HighlandCow.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <HighlandCow.tools.right_hoof.label>right hoof</HighlandCow.tools.right_hoof.label>
+</LanguageData>

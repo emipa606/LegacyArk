@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: suffolk sheep -->
+  <SuffolkSheep.label>suffolk sheep</SuffolkSheep.label>
+  <!-- EN: The Suffolk is a breed of sheep from the England known for their meat. -->
+  <SuffolkSheep.description>The Suffolk is a breed of sheep from the England known for their meat.</SuffolkSheep.description>
+  <!-- EN: head -->
+  <SuffolkSheep.tools.head.label>head</SuffolkSheep.tools.head.label>
+  <!-- EN: left hoof -->
+  <SuffolkSheep.tools.left_hoof.label>left hoof</SuffolkSheep.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <SuffolkSheep.tools.right_hoof.label>right hoof</SuffolkSheep.tools.right_hoof.label>
+</LanguageData>
